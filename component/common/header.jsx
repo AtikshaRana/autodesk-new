@@ -1,241 +1,240 @@
-
 "use client";
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-
+import Style from "../../styles/header.module.scss"
 const headData = [
   {
-    name: 'Why Sift',
-    src: '/',
+    name: "Why Sift",
+    src: "/",
     inner: [
       {
         title: "Explore why",
         links: [
           {
-            link: "Secure your growth"
+            link: "Secure your growth",
           },
           {
-            link: "Trusted leaders"
+            link: "Trusted leaders",
           },
           {
-            link: "Better machine learning"
+            link: "Better machine learning",
           },
           {
-            link: "Strength in numbers"
+            link: "Strength in numbers",
           },
           {
-            link: "Optimize your entire customer lifecycle"
-          }
-        ]
+            link: "Optimize your entire customer lifecycle",
+          },
+        ],
       },
       {
         title: "Even more",
         links: [
           {
-            link: "Customers"
+            link: "Customers",
           },
           {
-            link: "Community"
+            link: "Community",
           },
           {
-            link: "Professional services"
+            link: "Professional services",
           },
           {
-            link: "Partners"
+            link: "Partners",
           },
           {
-            link: "Patents"
-          }
-        ]
-      }
-    ]
+            link: "Patents",
+          },
+        ],
+      },
+    ],
   },
   {
-    name: 'Solutions',
-    src: '/',
+    name: "Solutions",
+    src: "/",
     inner: [
       {
         title: "Explore why",
         links: [
           {
-            link: "Solutions your growth"
+            link: "Solutions your growth",
           },
           {
-            link: "Trusted leaders"
+            link: "Trusted leaders",
           },
           {
-            link: "Better machine learning"
+            link: "Better machine learning",
           },
           {
-            link: "Strength in numbers"
+            link: "Strength in numbers",
           },
           {
-            link: "Optimize your entire customer lifecycle"
-          }
-        ]
+            link: "Optimize your entire customer lifecycle",
+          },
+        ],
       },
       {
         title: "Even more",
         links: [
           {
-            link: "Solutions Customers"
+            link: "Solutions Customers",
           },
           {
-            link: "Community"
+            link: "Community",
           },
           {
-            link: "Professional services"
+            link: "Professional services",
           },
           {
-            link: "Partners"
+            link: "Partners",
           },
           {
-            link: "Patents"
-          }
-        ]
-      }
-    ]
+            link: "Patents",
+          },
+        ],
+      },
+    ],
   },
   {
-    name: 'Platform',
-    src: '/',
+    name: "Platform",
+    src: "/",
     inner: [
       {
         title: "Explore why",
         links: [
           {
-            link: "Platform your growth"
+            link: "Platform your growth",
           },
           {
-            link: "Trusted leaders"
+            link: "Trusted leaders",
           },
           {
-            link: "Better machine learning"
+            link: "Better machine learning",
           },
           {
-            link: "Strength in numbers"
+            link: "Strength in numbers",
           },
           {
-            link: "Optimize your entire customer lifecycle"
-          }
-        ]
+            link: "Optimize your entire customer lifecycle",
+          },
+        ],
       },
       {
         title: "Even more",
         links: [
           {
-            link: "Platform Customers"
+            link: "Platform Customers",
           },
           {
-            link: "Community"
+            link: "Community",
           },
           {
-            link: "Professional services"
+            link: "Professional services",
           },
           {
-            link: "Partners"
+            link: "Partners",
           },
           {
-            link: "Patents"
-          }
-        ]
-      }
-    ]
+            link: "Patents",
+          },
+        ],
+      },
+    ],
   },
   {
-    name: 'Resources',
-    src: '/',
+    name: "Resources",
+    src: "/",
     inner: [
       {
         title: "Explore why",
         links: [
           {
-            link: "Resources your growth"
+            link: "Resources your growth",
           },
           {
-            link: "Trusted leaders"
+            link: "Trusted leaders",
           },
           {
-            link: "Better machine learning"
+            link: "Better machine learning",
           },
           {
-            link: "Strength in numbers"
+            link: "Strength in numbers",
           },
           {
-            link: "Optimize your entire customer lifecycle"
-          }
-        ]
+            link: "Optimize your entire customer lifecycle",
+          },
+        ],
       },
       {
         title: "Even more",
         links: [
           {
-            link: "Resources Customers"
+            link: "Resources Customers",
           },
           {
-            link: "Community"
+            link: "Community",
           },
           {
-            link: "Professional services"
+            link: "Professional services",
           },
           {
-            link: "Partners"
+            link: "Partners",
           },
           {
-            link: "Patents"
-          }
-        ]
-      }
-    ]
+            link: "Patents",
+          },
+        ],
+      },
+    ],
   },
   {
-    name: 'Company',
-    src: '/',
+    name: "Company",
+    src: "/",
     inner: [
       {
         title: "Explore why",
         links: [
           {
-            link: "Company your growth"
+            link: "Company your growth",
           },
           {
-            link: "Trusted leaders"
+            link: "Trusted leaders",
           },
           {
-            link: "Better machine learning"
+            link: "Better machine learning",
           },
           {
-            link: "Strength in numbers"
+            link: "Strength in numbers",
           },
           {
-            link: "Optimize your entire customer lifecycle"
-          }
-        ]
+            link: "Optimize your entire customer lifecycle",
+          },
+        ],
       },
       {
         title: "Even more",
         links: [
           {
-            link: "Company Customers"
+            link: "Company Customers",
           },
           {
-            link: "Community"
+            link: "Community",
           },
           {
-            link: "Professional services"
+            link: "Professional services",
           },
           {
-            link: "Partners"
+            link: "Partners",
           },
           {
-            link: "Patents"
-          }
-        ]
-      }
-    ]
-  }
+            link: "Patents",
+          },
+        ],
+      },
+    ],
+  },
 ];
 
 function Header() {
@@ -246,36 +245,56 @@ function Header() {
   };
 
   return (
-    <div className="pt-8 inner-wrap w-[400px] h-[100vh]">
+    <div className={`pt-8 inner-wrap w-[400px] h-[100vh] ${Style.header}`}>
       <div className="logo pl-8 mb-[20px]">
-        <Image width={138} height={48} src="/header/logo.png" alt="Logo"/>
+        <Image width={138} height={48} src="/header/logo.png" alt="Logo" />
       </div>
       <ul className="link-lists list-none">
-        {
-          headData.map((data, index) => {
-            return <li key={index} className={` mb-[4px] ${index === activeTab ? 'showContent' : ''}`} onClick={() => handleTabClick(index)}>
-            <Link href="/" className="bg-skyblue p-[15px] block font-[600] text-[18px]">{data.name}</Link>
-            <div className={`inner-content p-[15px] ${index === activeTab ? 'h-auto block' : 'h-0 hidden'}`}>
-              {data.inner.map((inner, index)=> {
-                return <div className="wrap ">
-                  <h3 key={index} className="blue font-[700] text-[14px] uppercase text-blue pb-3 border-b-[1px]">{inner.title}</h3>
-                    <ul>
-                      {inner.links.map((links, index) => {
-                        return     <li>
-                        <Link href="/">{links.link}</Link>
-                      </li>
-
-                      })
-
-                      }
-                  
-                    </ul>
-                </div>
-              })}
-            </div>
-          </li>
-          })
-        }
+        {headData.map((data, index) => {
+          return (
+            <li
+              key={index}
+              className={` mb-[4px] ${
+                index === activeTab ? "showContent" : ""
+              }`}
+              onClick={() => handleTabClick(index)}
+            >
+              <Link
+                href="/"
+                className="bg-skyblue p-[15px] block font-[600] text-[18px]"
+              >
+                {data.name}
+              </Link>
+              <div
+                className={`inner-content p-[15px] ${
+                  index === activeTab ? "h-auto block" : "h-0 hidden"
+                }`}
+              >
+                {data.inner.map((inner, index) => {
+                  return (
+                    <div className="wrap ">
+                      <h3
+                        key={index}
+                        className="blue font-[700] text-[14px] uppercase text-blue pb-3 border-b-[1px]"
+                      >
+                        {inner.title}
+                      </h3>
+                      <ul>
+                        {inner.links.map((links, index) => {
+                          return (
+                            <li>
+                              <Link href="/">{links.link}</Link>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </div>
+                  );
+                })}
+              </div>
+            </li>
+          );
+        })}
       </ul>
     </div>
   );
