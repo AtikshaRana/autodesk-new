@@ -1,6 +1,7 @@
 'use client'
 import React,{ useState} from 'react'
 import BtnTransparent from './button/btnTransparent'
+import Image from 'next/image'
 
 const tabdata = [{
     tabHead: "Whats new",
@@ -49,7 +50,10 @@ function HeroBanner() {
     }
 
   return (
-      <section className=" bg-black">
+      <section className="relative bg-black">
+          <div className="bg absolute bottom-0 right-0">
+              <Image src='/banner-bg.png' width={1400} height={1400}/>
+          </div>
           <div className="container">
               <div className="text_wrap w-full max-w-[625px]">
                   <h1 className='text-white'>Sift can help you <span className='text-oceanGreen'>grow</span> safely</h1>
@@ -69,7 +73,7 @@ function HeroBanner() {
                   <div className="tab_content mt-10"><div className='relative flex flex-wrap w-threeCardWrap -ml-[10px]' key={i}>
                                {(tabdata[i].tabContent).map((content, k) => {
                                    return (
-                                       <div key={k} className="tab_cards text-white p-4 border-2 border-grey-600  w-threeCard mx-[10px]">
+                                       <div key={k} className="tab_cards bg-black rounded-lg text-white p-4 border-2 border-grey-600  w-threeCard mx-[10px]">
                                            <h6>{content.subHeading}</h6>
                                            <p>{content.content}</p>
                                        </div>)

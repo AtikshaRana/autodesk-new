@@ -24,10 +24,11 @@ const config: Config = {
       "blue": '#2E69FF',
       'black':'#000',
       'white':'#fff',
-      'oceanGreen':'#79F7C6',
+      'oceanGreen': '#79F7C6',
+      'darkGray':'#1E293B'
     },
     width: {
-      'mainContent':'calc(100% + 400px)',
+      'mainContent':'calc(100% + 550px)',
       'threeCardWrap':'calc(100% + 20px)',
       'threeCard':'calc(33.33% - 20px)'
     }

@@ -37,6 +37,16 @@ h1{
   font-weight: 700;
   line-height: 1.1;
 }
+h2{
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+h3{
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1;
+}
 
 
 section{
