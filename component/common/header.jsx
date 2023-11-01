@@ -1,8 +1,11 @@
+
+"use client";
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
 
-const data = [
+const headData = [
   {
     name: 'Why Sift',
     src: '/',
@@ -236,6 +239,12 @@ const data = [
 ];
 
 function Header() {
+  const [activeTab, setActiveTab] = useState(null);
+
+  const handleTabClick = (index) => {
+    setActiveTab((prevActiveTab) => (prevActiveTab === index ? null : index));
+  };
+
   return (
     <div className="pt-8 inner-wrap w-[400px] h-[100vh]">
       <div className="logo pl-8 mb-[20px]">
@@ -243,10 +252,27 @@ function Header() {
       </div>
       <ul className="link-lists list-none">
         {
-          data.map((data, index) => {
-            return <li className="p-[15px] mb-[4px] bg-skyblue">
-            <Link href="/" className=" font-[600] text-[18px]">{data.name}</Link>
-            <div className="inner-content"></div>
+          headData.map((data, index) => {
+            return <li key={index} className={` mb-[4px] ${index === activeTab ? 'showContent' : ''}`} onClick={() => handleTabClick(index)}>
+            <Link href="/" className="bg-skyblue p-[15px] block font-[600] text-[18px]">{data.name}</Link>
+            <div className={`inner-content p-[15px] ${index === activeTab ? 'h-auto block' : 'h-0 hidden'}`}>
+              {data.inner.map((inner, index)=> {
+                return <div className="wrap ">
+                  <h3 key={index} className="blue font-[700] text-[14px] uppercase text-blue pb-3 border-b-[1px]">{inner.title}</h3>
+                    <ul>
+                      {inner.links.map((links, index) => {
+                        return     <li>
+                        <Link href="/">{links.link}</Link>
+                      </li>
+
+                      })
+
+                      }
+                  
+                    </ul>
+                </div>
+              })}
+            </div>
           </li>
           })
         }

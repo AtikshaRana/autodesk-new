@@ -21,6 +21,7 @@ const config: Config = {
       "green": "#186801",
       "brown": "#946c48",
       "skyblue": "#EAF0FF",
+      "blue": '#2E69FF',
     },
   },
   plugins: [],
