@@ -245,7 +245,7 @@ function Header() {
   };
 
   return (
-    <div className={`pt-8 inner-wrap w-[400px] h-[100vh] ${Style.header}`}>
+    <div className={`pt-8 inner-wrap w-[550px] h-[100vh] header ${Style.header}`}>
       <div className="logo pl-8 mb-[20px]">
         <Image width={138} height={48} src="/header/logo.png" alt="Logo" />
       </div>
@@ -257,16 +257,16 @@ function Header() {
               className={` mb-[4px] ${
                 index === activeTab ? "showContent" : ""
               }`}
-              onClick={() => handleTabClick(index)}
+              
             >
               <Link
                 href="/"
-                className="bg-skyblue p-[15px] block font-[600] text-[18px]"
+                className={` ease-in-out duration-[0.3s] p-[15px] block font-[600] text-[18px] ${index === activeTab ? " bg-blue text-white minus-icon" : "bg-skyblue text-black plus-icon"}`} onClick={() => handleTabClick(index)}
               >
                 {data.name}
               </Link>
               <div
-                className={`inner-content p-[15px] ${
+                className={`inner-content px-[15px] pb-[15px] ${Style.transition} ${
                   index === activeTab ? "h-auto block" : "h-0 hidden"
                 }`}
               >
@@ -275,15 +275,15 @@ function Header() {
                     <div className="wrap ">
                       <h3
                         key={index}
-                        className="blue font-[700] text-[14px] uppercase text-blue pb-3 border-b-[1px]"
+                        className={`blue py-[15px] font-[700] text-[14px] uppercase text-blue pb-3 ${Style.linkborder}`}
                       >
                         {inner.title}
                       </h3>
                       <ul>
                         {inner.links.map((links, index) => {
                           return (
-                            <li>
-                              <Link href="/">{links.link}</Link>
+                            <li className={`py-[10px] ${Style.linkborder}`}>
+                              <Link href="/" className=" font-[700] text-[16px] leading-[1.2rem] ">{links.link}</Link>
                             </li>
                           );
                         })}

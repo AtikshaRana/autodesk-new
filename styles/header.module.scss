@@ -1,3 +1,16 @@
 .header{
-    
+    .linkborder{
+        position: relative;
+        &::after{
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            border-bottom: 1px solid #e5e7ed;
+        }
+    }
+    .transition{
+        transition: all 0.4s ease-in-out;
+    }
 }

@@ -55,3 +55,33 @@ section{
 .btn_transparent{
   border-color: brown;
 }
+.header .plus-icon{
+  position: relative;
+  
+}
+.header .plus-icon::after{
+  content: " ";
+  position: absolute;
+  top: 19px;
+  right: 16px;
+  width: 20px;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  background-image: url('../../public/header/plus-circle.png');
+}
+.header .minus-icon{
+  position: relative;
+}
+.header .minus-icon::after{
+  content: " ";
+  position: absolute;
+  top: 19px;
+  right: 16px;
+  width: 20px;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  background-image: url('../../public/header/minus-circle.png');
+  
+}
