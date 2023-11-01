@@ -29,5 +29,19 @@ body {
   position: relative;
   width: 100%;
   max-width: 1210px;
+  margin: 0 auto;
   padding: 0 20px;
+}
+h1{
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+
+section{
+  padding: 70px 0;
+}
+.btn_transparent{
+  border-color: brown;
 }

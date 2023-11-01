@@ -18,8 +18,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} flex`} >
-        <Header/>
+        <Header />
+        <main className='w-mainContent'>
+
         {children}
+        </main>
       </body>
     </html>
   )

@@ -22,7 +22,15 @@ const config: Config = {
       "brown": "#946c48",
       "skyblue": "#EAF0FF",
       "blue": '#2E69FF',
+      'black':'#000',
+      'white':'#fff',
+      'oceanGreen':'#79F7C6',
     },
+    width: {
+      'mainContent':'calc(100% + 400px)',
+      'threeCardWrap':'calc(100% + 20px)',
+      'threeCard':'calc(33.33% - 20px)'
+    }
   },
   plugins: [],
 }
