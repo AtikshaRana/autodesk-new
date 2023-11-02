@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { useState , useRef } from "react";
 import Style from "../../styles/header.module.scss"
 const headData = [
   {
@@ -239,7 +239,7 @@ const headData = [
 
 function Header() {
   const [activeTab, setActiveTab] = useState(null);
-
+  const contentEl = useRef();
   const handleTabClick = (index) => {
     setActiveTab((prevActiveTab) => (prevActiveTab === index ? null : index));
   };
@@ -254,10 +254,9 @@ function Header() {
           return (
             <li
               key={index}
-              className={` mb-[4px] ${
+              className={`mb-[4px] relative ${
                 index === activeTab ? "showContent" : ""
               }`}
-              
             >
               <Link
                 href="/"
@@ -265,17 +264,22 @@ function Header() {
               >
                 {data.name}
               </Link>
-              <div
-                className={`inner-content px-[15px] pb-[15px] ${Style.transition} ${
-                  index === activeTab ? "h-auto block" : "h-0 hidden"
-                }`}
+              <div ref={contentEl}
+                className={`inner-content px-[15px] pb-[15px] ${Style.transition} 
+            `} 
+                style={
+                  index === activeTab
+                    ? { height: contentEl.current.scrollHeight, visibility: "visible" }
+                    : { height: "0px", visibility: "hidden" }
+                }
+                
               >
                 {data.inner.map((inner, index) => {
                   return (
                     <div className="wrap ">
                       <h3
                         key={index}
-                        className={`blue py-[15px] font-[700] text-[14px] uppercase text-blue pb-3 ${Style.linkborder}`}
+                        className={`blue py-[15px] font-[700] text-[14px] uppercase text-blue pb-3 ${Style.linkborder}`} 
                       >
                         {inner.title}
                       </h3>
@@ -299,5 +303,4 @@ function Header() {
     </div>
   );
 }
-
 export default Header;
