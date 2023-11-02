@@ -68,7 +68,7 @@ section{
   background-size: contain;
   width: 20px;
   height: 20px;
-  background-image: url('../../public/header/plus-circle.png');
+  background-image: url('../../public/header/plus-circle.svg');
 }
 .header .minus-icon{
   position: relative;
@@ -82,6 +82,6 @@ section{
   background-size: contain;
   width: 20px;
   height: 20px;
-  background-image: url('../../public/header/minus-circle.png');
+  background-image: url('../../public/header/minus-circle.svg');
   
 }
