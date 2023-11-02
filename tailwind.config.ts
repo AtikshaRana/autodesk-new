@@ -24,12 +24,14 @@ const config: Config = {
         'white':'#fff',
         'oceanGreen': '#79F7C6',
         'darkGray': '#1E293B',
-        'pink': '#FF3B84'
+        'pink': '#FF3B84',
+        'yello':'#FFCA36',
       },
       width: {
         'mainContent':'calc(100% + 550px)',
         'threeCardWrap':'calc(100% + 20px)',
-        'threeCard':'calc(33.33% - 20px)'
+        'threeCard': 'calc(33.33% - 20px)',
+        'halfWidth':'calc(50% - 20px)'
       }
     },
     
