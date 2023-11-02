@@ -245,7 +245,7 @@ function Header() {
   };
 
   return (
-    <div className={`pt-8 inner-wrap w-[550px] h-[100vh] header ${Style.header}`}>
+    <header className={`pt-8 inner-wrap w-[550px] h-[100vh] header ${Style.header}`}>
       <div className="logo pl-8 mb-[20px]">
         <Image width={138} height={48} src="/header/logo.png" alt="Logo" />
       </div>
@@ -307,7 +307,7 @@ function Header() {
           );
         })}
       </ul>
-    </div>
+    </header>
   );
 }
 export default Header;

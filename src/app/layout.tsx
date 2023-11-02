@@ -3,6 +3,8 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Header from "../../component/common/header"
 import Popup from "../../component/common/popup"
+import MainHeader from "../../component/common/main-header"
+
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -21,10 +23,11 @@ export default function RootLayout({
       <body className={`${inter.className}`} >
          <Popup />
           <div className="flex">
-          <Header/>
-          <main className='w-mainContent'>
-          {children}
-          </main>
+            <Header/>
+            <main className='w-mainContent relative'>
+              <MainHeader />
+              {children}
+            </main>
          </div>
       </body>
     </html>

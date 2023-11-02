@@ -1,8 +1,6 @@
-import Image from 'next/image'
 import Banner from '../../component/heroBanner'
 import LogoFrame from '../../component/LogoFrame'
 import ImageWithText from '../../component/imagWithText'
-
 export default function Home() {
   return (
     <>
