@@ -266,13 +266,20 @@ function Header() {
               </Link>
               <div ref={contentEl}
                 className={`inner-content px-[15px] pb-[15px] ${Style.transition} 
-            `} 
+                ${
+                  index === activeTab ? Style.activeLinks : ""
+                }`} 
                 style={
                   index === activeTab
-                    ? { height: contentEl.current.scrollHeight, visibility: "visible" }
-                    : { height: "0px", visibility: "hidden" }
+                    ? {
+                        height: contentEl.current.scrollHeight + 'px',
+                        transition: 'height 0.5s ease',
+                      }
+                    : {
+                        height: '0',
+                        transition: 'height 0.5s ease', 
+                      }
                 }
-                
               >
                 {data.inner.map((inner, index) => {
                   return (
@@ -286,7 +293,7 @@ function Header() {
                       <ul>
                         {inner.links.map((links, index) => {
                           return (
-                            <li className={`py-[10px] ${Style.linkborder}`}>
+                            <li key={index} className={`py-[10px] ${Style.linkborder}`}>
                               <Link href="/" className=" font-[700] text-[16px] leading-[1.2rem] ">{links.link}</Link>
                             </li>
                           );
