@@ -14,25 +14,26 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      colors:{
+        'purple': '#5F60FF',
+        "grey": "#666666",
+        "green": "#186801",
+        "brown": "#946c48",
+        "skyblue": "#EAF0FF",
+        "blue": '#2E69FF',
+        'black':'#000',
+        'white':'#fff',
+        'oceanGreen': '#79F7C6',
+        'darkGray': '#1E293B',
+        'pink': '#FF3B84'
+      },
+      width: {
+        'mainContent':'calc(100% + 550px)',
+        'threeCardWrap':'calc(100% + 20px)',
+        'threeCard':'calc(33.33% - 20px)'
+      }
     },
-    colors:{
-      'purple': '#5F60FF',
-      "grey": "#666666",
-      "green": "#186801",
-      "brown": "#946c48",
-      "skyblue": "#EAF0FF",
-      "blue": '#2E69FF',
-      'black':'#000',
-      'white':'#fff',
-      'oceanGreen': '#79F7C6',
-      'darkGray': '#1E293B',
-      'pink': '#FF3B84'
-    },
-    width: {
-      'mainContent':'calc(100% + 550px)',
-      'threeCardWrap':'calc(100% + 20px)',
-      'threeCard':'calc(33.33% - 20px)'
-    }
+    
   },
   plugins: [],
 }
