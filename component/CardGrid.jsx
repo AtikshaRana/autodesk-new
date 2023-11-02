@@ -66,7 +66,7 @@ function CardGrid() {
                     <div className="col_two w-halfWidth mx-[10px]">
                         <div className="wrapper flex threeCardWrap flex-wrap">
                         {smallcards.map((item, i) => {
-                           return(<div className="small_card w-halfWidth rounded-lg mx-[10px] mb-3 p-4 flex flex-wrap bg-black text-white">
+                           return(<div key={i} className="small_card w-halfWidth rounded-lg mx-[10px] mb-3 p-4 flex flex-wrap bg-black text-white">
                                <div className="num_wrap  w-1/5">
                                    <div className="counter my-auto pt-5 text-right relative">
                                        
