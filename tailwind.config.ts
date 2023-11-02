@@ -25,7 +25,8 @@ const config: Config = {
       'black':'#000',
       'white':'#fff',
       'oceanGreen': '#79F7C6',
-      'darkGray':'#1E293B'
+      'darkGray': '#1E293B',
+      'pink': '#FF3B84'
     },
     width: {
       'mainContent':'calc(100% + 550px)',

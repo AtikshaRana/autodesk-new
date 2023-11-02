@@ -1,5 +1,5 @@
 'use client'
-import React,{ useState} from 'react'
+import React,{ useEffect, useState} from 'react'
 import BtnTransparent from './button/btnTransparent'
 import Image from 'next/image'
 
@@ -48,6 +48,8 @@ function HeroBanner() {
             
         { j == 0 ? setJ(1) : setJ(0) }
     }
+
+    
 
   return (
       <section className="relative bg-black">
