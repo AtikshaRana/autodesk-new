@@ -279,7 +279,7 @@ function Header() {
                         transition: 'height 0.5s ease',
                       }
                     : {
-                        height: '0',
+                        height: 'auto',
                         transition: 'height 0.5s ease', 
                       }
                 }

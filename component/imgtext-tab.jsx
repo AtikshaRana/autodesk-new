@@ -145,14 +145,14 @@ export default function ImgTextTab() {
               <li className="text-white w-1/6 cursor-pointer" key={index} onClick={() => handleTabClick(index)}>{data.title}</li>
             ))}
           </ul>
-          <div className="tab-content">
-           <div className="flex mt-[40px]">
+          <div className="tab-content mt-[60px]">
+           <div className="flex">
             <div className="img-wrap w-3/5 pr-[20px]">
                 <Image width={632} height={453} src={Data[activeTab].img} />
             </div>
             <div className="content-wrap w-2/5 text-white">
-                <h3  className=" mb-[20px]">{Data[activeTab].content.title}</h3>
-                <p className="mb-[20px]">{Data[activeTab].content.blurb}</p>
+                <h3  className=" mb-[20px] text-[40px] font-[700]">{Data[activeTab].content.title}</h3>
+                <p className="mb-[20px">{Data[activeTab].content.blurb}</p>
                 <ul className=" ml-[18px] list-disc">
                     {
                         Data[activeTab].content.links.map((link, index) => (
