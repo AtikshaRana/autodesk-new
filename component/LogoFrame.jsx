@@ -20,10 +20,10 @@ const logos = [{
 function LogoFrame(props) {
     
   return (
-      <section className='bg-darkGray'>
+      <section className='bg-skyblue'>
           <div className="container">
               <div className="title ">
-                  <h3 className='text-white '>{props.title}</h3>
+                  <h3 className=' '>{props.title}</h3>
                   <div className="logo-wrap flex flex-wrap mt-10 justify-between">
                       {(logos).map((item,i) => {
                           return (

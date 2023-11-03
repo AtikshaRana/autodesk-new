@@ -6,6 +6,7 @@ import ImgTextTab from '../../component/imgtext-tab'
 import TextWithLogos from '../../component/TextWithLogo'
 import Smallcards from '../../component/SmallCards'
 import Capsule from '../../component/imgWithTextCapsule'
+import ColThreeCard from '../../component/colThreeCard'
 
 
 
@@ -63,7 +64,8 @@ export default function Home() {
       <TextWithLogos />
       <ImageWithText data={second} />
       <Smallcards data={smallcards} />
-      <Capsule/>
+      <Capsule />
+      <ColThreeCard/>
     </>
   )
 }
