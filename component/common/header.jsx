@@ -275,7 +275,7 @@ function Header() {
                 style={
                   index === activeTab
                     ? {
-                        height: contentEl.current.scrollHeight + 'px',
+                        height: contentEl.current.scrollfitContent + 'px',
                         transition: 'height 0.5s ease',
                       }
                     : {
