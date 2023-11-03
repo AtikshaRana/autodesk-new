@@ -4,6 +4,8 @@ import ImageWithText from '../../component/imagWithText'
 import CardGrid from '../../component/CardGrid'
 import ImgTextTab from '../../component/imgtext-tab'
 import TextWithLogos from '../../component/TextWithLogo'
+import Smallcards from '../../component/SmallCards'
+import Capsule from '../../component/imgWithTextCapsule'
 
 
 
@@ -29,21 +31,21 @@ export default function Home() {
 
  const smallcards = [
     {
-        number: '5x', 
+        number: '1', 
      title: 'Secure your growth',
      subtitle:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis nibh.',
         linkText:'LEARN MORE',
         
     },
     {
-        number: '100', 
+        number: '2', 
       title: 'trusted leader',
       subtitle:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis nibh.',
         linkText:'LEARN MORE',
         
     },
     {
-        number: '87', 
+        number: '3', 
       title: 'Strength in numbers',
       subtitle:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis nibh.',
         linkText:'LEARN MORE',
@@ -60,6 +62,8 @@ export default function Home() {
       <ImgTextTab />
       <TextWithLogos />
       <ImageWithText data={second} />
+      <Smallcards data={smallcards} />
+      <Capsule/>
     </>
   )
 }
