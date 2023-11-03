@@ -4,165 +4,187 @@ import Image from "../node_modules/next/image";
 import BtnTransparent from "./button/btnTransparent";
 const Data = [
   {
-  title: `Use Case one`,
+    title: `Use Case one`,
     src: "/",
     img: "/tab-image.svg",
     content: {
-        title: "Ullamcorper quam nec risus vel cursus nec",
-        blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-        links: [
-            {
-                link: "Sed ut perspiciatis unde omnis"
-            },
-            {
-                link: "Voluptatem accusantium dolore laudant"
-            },
-            {
-                link: "Totam rem aperiam eaque ipsa tellus"
-            }
-        ],
-        cta: "Learn more",
-    }
+      title: "Ullamcorper quam nec risus vel cursus nec",
+      blurb:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
+      links: [
+        {
+          link: "Sed ut perspiciatis unde omnis",
+        },
+        {
+          link: "Voluptatem accusantium dolore laudant",
+        },
+        {
+          link: "Totam rem aperiam eaque ipsa tellus",
+        },
+      ],
+      cta: "Learn more",
+    },
   },
   {
-   title: "Use Case Two ",
+    title: "Use Case Two ",
     src: "/",
     img: "/tab-image.svg",
     content: {
-        title: "Two quam nec risus vel cursus nec",
-        blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-        links: [
-            {
-                link: "Sed ut perspiciatis unde omnis"
-            },
-            {
-                link: "Voluptatem accusantium dolore laudant"
-            },
-            {
-                link: "Totam rem aperiam eaque ipsa tellus"
-            }
-        ],
-        cta: "Learn more",
-    }
+      title: "Two quam nec risus vel cursus nec",
+      blurb:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
+      links: [
+        {
+          link: "Sed ut perspiciatis unde omnis",
+        },
+        {
+          link: "Voluptatem accusantium dolore laudant",
+        },
+        {
+          link: "Totam rem aperiam eaque ipsa tellus",
+        },
+      ],
+      cta: "Learn more",
+    },
   },
   {
-  title: "Use Case three",
+    title: "Use Case three",
     src: "/",
     img: "/tab-image.svg",
     content: {
-        title: "three quam nec risus vel cursus nec",
-        blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-        links: [
-            {
-                link: "Sed ut perspiciatis unde omnis"
-            },
-            {
-                link: "Voluptatem accusantium dolore laudant"
-            },
-            {
-                link: "Totam rem aperiam eaque ipsa tellus"
-            }
-        ],
-        cta: "Learn more",
-    }
+      title: "three quam nec risus vel cursus nec",
+      blurb:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
+      links: [
+        {
+          link: "Sed ut perspiciatis unde omnis",
+        },
+        {
+          link: "Voluptatem accusantium dolore laudant",
+        },
+        {
+          link: "Totam rem aperiam eaque ipsa tellus",
+        },
+      ],
+      cta: "Learn more",
+    },
   },
   {
-  title: "Use Case Four ",
+    title: "Use Case Four ",
     src: "/",
     img: "/tab-image.svg",
     content: {
-        title: "Four quam nec risus vel cursus nec",
-        blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-        links: [
-            {
-                link: "Sed ut perspiciatis unde omnis"
-            },
-            {
-                link: "Voluptatem accusantium dolore laudant"
-            },
-            {
-                link: "Totam rem aperiam eaque ipsa tellus"
-            }
-        ],
-        cta: "Learn more",
-    }
+      title: "Four quam nec risus vel cursus nec",
+      blurb:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
+      links: [
+        {
+          link: "Sed ut perspiciatis unde omnis",
+        },
+        {
+          link: "Voluptatem accusantium dolore laudant",
+        },
+        {
+          link: "Totam rem aperiam eaque ipsa tellus",
+        },
+      ],
+      cta: "Learn more",
+    },
   },
   {
-  title: "Use Case Five",
+    title: "Use Case Five",
     src: "/",
     img: "/tab-image.svg",
     content: {
-        title: "Five quam nec risus vel cursus nec",
-        blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-        links: [
-            {
-                link: "Sed ut perspiciatis unde omnis"
-            },
-            {
-                link: "Voluptatem accusantium dolore laudant"
-            },
-            {
-                link: "Totam rem aperiam eaque ipsa tellus"
-            }
-        ],
-        cta: "Learn more",
-    }
+      title: "Five quam nec risus vel cursus nec",
+      blurb:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
+      links: [
+        {
+          link: "Sed ut perspiciatis unde omnis",
+        },
+        {
+          link: "Voluptatem accusantium dolore laudant",
+        },
+        {
+          link: "Totam rem aperiam eaque ipsa tellus",
+        },
+      ],
+      cta: "Learn more",
+    },
   },
   {
     title: "Use Case six",
     src: "/",
     img: "/banner-bg.png",
     content: {
-        title: "six quam nec risus vel cursus nec",
-        blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-        links: [
-            {
-                link: "Sed ut perspiciatis unde omnis"
-            },
-            {
-                link: "Voluptatem accusantium dolore laudant"
-            },
-            {
-                link: "Totam rem aperiam eaque ipsa tellus"
-            }
-        ],
-        cta: "Learn more",
-    }
+      title: "six quam nec risus vel cursus nec",
+      blurb:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
+      links: [
+        {
+          link: "Sed ut perspiciatis unde omnis",
+        },
+        {
+          link: "Voluptatem accusantium dolore laudant",
+        },
+        {
+          link: "Totam rem aperiam eaque ipsa tellus",
+        },
+      ],
+      cta: "Learn more",
+    },
   },
 ];
 export default function ImgTextTab() {
-    const [activeTab, setActiveTab] = useState(0);
-    const handleTabClick = (index) => {
+  const [activeTab, setActiveTab] = useState(0);
+  const [border, setBorder] = useState([]);
+  const handleTabClick = (index) => {
     setActiveTab(index);
-    setTop(index * liHeights[activeTab] + (index * 8))
+    setBorder(index * liHeights[activeTab] + index * 8);
   };
   return (
-    <section className=" bg-blue">
+    <section className="bg-darkBlue img-text-tab">
       <div className="container">
         <div className="tab-wrap">
-          <ul className="links flex">
-            {Data.map((data, index) => (
-              <li className="text-white w-1/6 cursor-pointer" key={index} onClick={() => handleTabClick(index)}>{data.title}</li>
-            ))}
-          </ul>
+          <div className="links">
+            <ul className={`flex text-center sideBorder ${
+                Data[activeTab].index !== " " ? "LinkBorder " : ""
+              }`}>
+              {Data.map((data, index) => (
+                <li
+                  className={`text-white w-1/6 cursor-pointer p-[15px] ${
+                    index === activeTab ? "active-link" : ""
+                  }`}
+                  style={
+                    index === activeTab ? { opacity: "1" } : { opacity: "0.6" }
+                  }
+                  key={index}
+                  onClick={() => handleTabClick(index)}
+                >
+                  {data.title}
+                </li>
+              ))}
+            </ul>
+          </div>
           <div className="tab-content mt-[60px]">
-           <div className="flex">
-            <div className="img-wrap w-3/5 pr-[20px]">
+            <div className="flex">
+              <div className="img-wrap w-3/5 pr-[20px]">
                 <Image width={632} height={453} src={Data[activeTab].img} />
-            </div>
-            <div className="content-wrap w-2/5 text-white">
-                <h3  className=" mb-[20px] text-[40px] font-[700]">{Data[activeTab].content.title}</h3>
+              </div>
+              <div className="content-wrap w-2/5 text-white">
+                <h3 className=" mb-[20px] text-[40px] font-[700]">
+                  {Data[activeTab].content.title}
+                </h3>
                 <p className="mb-[20px">{Data[activeTab].content.blurb}</p>
                 <ul className=" ml-[18px] list-disc">
-                    {
-                        Data[activeTab].content.links.map((link, index) => (
-                            <li>{link.link}</li>
-                        ))
-                    }
+                  {Data[activeTab].content.links.map((link, index) => (
+                    <li>{link.link}</li>
+                  ))}
                 </ul>
-                <BtnTransparent text={Data[activeTab].content.cta}/>
+                <BtnTransparent text={Data[activeTab].content.cta} />
+              </div>
             </div>
-           </div>
           </div>
         </div>
       </div>

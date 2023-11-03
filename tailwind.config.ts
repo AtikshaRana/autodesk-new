@@ -26,6 +26,7 @@ const config: Config = {
         'darkGray': '#1E293B',
         'pink': '#FF3B84',
         'yello':'#FFCA36',
+        'darkBlue': '#00124D',
       },
       width: {
         'mainContent':'calc(100% + 550px)',
