@@ -2,8 +2,10 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useState , useRef } from "react";
-import Style from "../../styles/header.module.scss"
+import { useState , useRef , useEffect } from "react";
+import Style from "../../styles/header.module.scss";
+
+
 const headData = [
   {
     name: "Why Sift",
@@ -245,7 +247,8 @@ function Header() {
   };
 
   return (
-    <header className={`pt-8 inner-wrap w-[550px] h-[100vh] header ${Style.header}`}>
+    <header className={`pt-8 inner-wrap w-[550px] h-[100vh] header sticky top-0 left-0 ${Style.header}`}>
+      <div className="relative mt-5">
       <div className="logo pl-8 mb-[20px]">
         <Image width={138} height={48} src="/header/logo.png" alt="Logo" />
       </div>
@@ -264,7 +267,7 @@ function Header() {
               >
                 {data.name}
               </Link>
-              <div ref={contentEl}
+              <div  key={index} ref={contentEl}
                 className={`inner-content px-[15px] pb-[15px] ${Style.transition} 
                 ${
                   index === activeTab ? Style.activeLinks : ""
@@ -307,6 +310,7 @@ function Header() {
           );
         })}
       </ul>
+      </div>
     </header>
   );
 }
