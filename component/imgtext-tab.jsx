@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useState , useEffect , useRef } from "react";
 import Image from "../node_modules/next/image";
 import BtnTransparent from "./button/btnTransparent";
 const Data = [
@@ -116,7 +116,7 @@ const Data = [
   {
     title: "Use Case six",
     src: "/",
-    img: "/banner-bg.png",
+    img: "/tab-image.svg",
     content: {
       title: "six quam nec risus vel cursus nec",
       blurb:
@@ -137,23 +137,51 @@ const Data = [
   },
 ];
 export default function ImgTextTab() {
-  const [activeTab, setActiveTab] = useState(0);
-  const [border, setBorder] = useState([]);
-  const handleTabClick = (index) => {
-    setActiveTab(index);
-    setBorder(index * liHeights[activeTab] + index * 8);
+    const [activeTab, setActiveTab] = useState(0);
+    const [liwidth, setLiWidth] = useState([]);
+    const [border, setBorder] = useState(0);
+    const [wholeWidth, setwholeWidth] = useState(0);
+
+    const ulRef = useRef(null);
+  
+    useEffect(() => {
+      if (ulRef.current) {
+        const listItems = ulRef.current.querySelectorAll('.sidesBorder > li');
+        const width = Array.from(listItems).map((li) => li.clientWidth);
+        setLiWidth(width);
+        // Calculate 'wholeWidth' based on the sum of all tab widths
+       const wholeWidth = width.reduce((sum, tabWidth) => sum + tabWidth, 0);
+       setwholeWidth(wholeWidth);
+      }
+    }, []);
+  
+    const handleTabClick = (index) => {
+      setActiveTab(index);
+      setBorder(index * (wholeWidth / 6)); // Calculate 'border' based on 'wholeWidth
+
+    };
+  useEffect(() => {
+    console.log(border); // Log 'border' state within the useEffect hook
+  }, [border]);
+
+  const bordrWidth = {
+    left: `${border}px`,
+    width: `${liwidth[activeTab]}px`,
+    borderBottomLeftRadius: `${border > "0" ? "0": "20px"}`,
+    height: `${border > "0" ? "0": "50%"}`
   };
+//   style={bordrWidth}
   return (
     <section className="bg-darkBlue img-text-tab">
       <div className="container">
         <div className="tab-wrap">
           <div className="links">
-            <ul className={`flex text-center sideBorder ${
+            <ul  className={`flex text-center sidesBorder ${
                 Data[activeTab].index !== " " ? "LinkBorder " : ""
-              }`}>
+              }` } ref={ulRef} >
               {Data.map((data, index) => (
                 <li
-                  className={`text-white w-1/6 cursor-pointer p-[15px] ${
+                  className={`text-white w-1/6 cursor-pointer p-[15px] z-[1] ${
                     index === activeTab ? "active-link" : ""
                   }`}
                   style={
@@ -165,6 +193,8 @@ export default function ImgTextTab() {
                   {data.title}
                 </li>
               ))}
+              <span className={`sideBorder`} ></span>
+              <span className={`moveBorder`} style={bordrWidth}></span>
             </ul>
           </div>
           <div className="tab-content mt-[60px]">
