@@ -2,6 +2,7 @@
 import React,{ useEffect, useState} from 'react'
 import BtnTransparent from './button/btnTransparent'
 import Image from 'next/image'
+import Cards from "./tabThreeCard"
 
 const tabdata = [{
     tabHead: "Whats new",
@@ -73,13 +74,7 @@ function HeroBanner() {
                       })}
                   </div>
                   <div className="tab_content mt-10"><div className='relative flex flex-wrap w-threeCardWrap -ml-[10px]' key={i}>
-                               {(tabdata[i].tabContent).map((content, k) => {
-                                   return (
-                                       <div key={k} className="tab_cards bg-black rounded-lg text-white p-4 border-2 border-grey-600  w-threeCard mx-[10px]">
-                                           <h6>{content.subHeading}</h6>
-                                           <p>{content.content}</p>
-                                       </div>)
-                               })}
+                      <Cards cardsData={ tabdata[i].tabContent}/>
                             </div>
                   </div>
               </div>

@@ -68,7 +68,7 @@ function CardGrid() {
                         {smallcards.map((item, i) => {
                            return(<div key={i} className="small_card w-halfWidth rounded-lg mx-[10px] mb-3 p-4 flex flex-wrap bg-black text-white">
                                <div className="num_wrap  w-3/12">
-                                   <div className="counter relative w-[60px] h-[60px] bg-yello rounded-full  my-auto  text-right relative">
+                                   <div className="counter relative w-[60px] h-[60px] bg-yello rounded-full  my-auto  text-right">
                                        
                                        <span className='text-black absolute left-1/2 top-1/2 -translate-y-2/4 -translate-x-2/4  inline  z-10 font-bold text-xl'> {item.number}</span>
                                    </div>

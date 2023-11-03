@@ -1,21 +1,29 @@
+'use client'
+
 import React from 'react'
 import BtnPink from './button/btnPink'
+import BtnTransparent from './button/btnTransparent'
 import Image from 'next/image'
 
-function ImagWithText() {
+function ImageWithText(props) {
+  var Sdata = props.data
+
+
   return (
     <section>
           <div className="container">
               <div className="wrapper flex flex-wrap">
                   <div className=" w-2/5 ">
-                      <h2>The <span className='text-oceanGreen'>Difference</span> Sift makes</h2>
-                      <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-                          sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat. Worem ipsum dolor sit amet,
-                          consectetur adipiscing elit.</p>
-                      <BtnPink text='Start Your Risk Assessment Now'/>
+            <h2>{Sdata.titlePrefix} <span className='text-oceanGreen'>{Sdata.titleColored}</span> {Sdata.titleSuffix }</h2>
+            <p>{Sdata.description }</p>
+            {(Sdata.btntext2 ? (<BtnTransparent text={Sdata.btntext2} />) : '')}
+            <div className='inline-block ml-3'>
+
+            </div>
+            <BtnPink text={Sdata.btntext1} />
                   </div>
                   <div className="col_right w-3/5">
-                     <Image className='mx-auto' src="/imageWithText/image.png"  alt="image" width={400} height={400}/>
+             <Image className='mx-auto' src={Sdata.imgpath }  alt="image" width={400} height={400}/>
                   </div>
               </div>
           </div>      
@@ -23,4 +31,4 @@ function ImagWithText() {
   )
 }
 
-export default ImagWithText
+export default ImageWithText
