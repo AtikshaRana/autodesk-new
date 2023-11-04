@@ -37,20 +37,20 @@ const config: Config = {
         'halfWidth':'calc(50% - 20px)'
       },
       screens: {
-        'bcd': {'max': '1399px'},
-        // => @media (max-width: 1399px) { ... }
-        'bcu': {'min': '1399px'},
-        // => @media (max-width: 1399px) { ... }
+        'bcd': {'max': '1601px'},
+        // => @media (max-width: 1601px) { ... }
+        'bcUp': {'min': '1601px'},
+        // => @media (min-width: 1601px) { ... }
 
         'elcd': {'max': '1399px'},
         // => @media (max-width: 1399px) { ... }
-        'elcu': {'min': '1399px'},
-        // => @media (max-width: 1399px) { ... }
+        'elcUp': {'min': '1399px'},
+        // => @media (min-width: 1399px) { ... }
 
         'ldd': {'max': '1270px'},
         // => @media (max-width: 1270px) { ... }
-        'ldu': {'min': '1270px'},
-        // => @media (max-width: 1270px) { ... }
+        'ldUp': {'min': '1270px'},
+        // => @media (min-width: 1270px) { ... }
 
         'cd': {'max': '1170px'},
         // => @media (max-width: 1279px) { ... }
@@ -59,7 +59,7 @@ const config: Config = {
 
         'dmd': {'max': '1024px'},
         // => @media (max-width: 1024px) { ... }
-        'dmu': {'min': '1024px'},
+        'dmUp': {'min': '1024px'},
         // => @media (min-width: 1024px) { ... }
 
         'desktop': {'min': '992px', 'max': '1024px'},
@@ -67,7 +67,7 @@ const config: Config = {
 
         'dd': {'max': '991px'},
         // => @media (max-width: 991px) { ... }
-        'du': {'min': '991px'},
+        'dUp': {'min': '991px'},
         // => @media (min-width: 991px) { ... }
 
         'tablet': {'min': '768px', 'max': '991px'},
@@ -75,7 +75,7 @@ const config: Config = {
 
         'td': {'max': '767px'},
         // => @media (max-width: 767px) { ... }
-        'tu': {'min': '767px'},
+        'tUp': {'min': '767px'},
         // => @media (min-width: 767px) { ... }
 
         'phablet': {'min': '596px', 'max': '767px'},
@@ -83,7 +83,7 @@ const config: Config = {
 
         'phd': {'max': '595px'},
         // => @media (max-width: 595px) { ... }
-        'phu': {'min': '595px'},
+        'phUp': {'min': '595px'},
         // => @media (min-width: 595px) { ... }
 
         'phone': {'min': '481px', 'max': '595px'},
@@ -91,7 +91,7 @@ const config: Config = {
 
         'pd': {'max': '480px'},
         // => @media (max-width: 480px) { ... }
-        'pu': {'min': '480px'},
+        'pUp': {'min': '480px'},
         // => @media (min-width: 480px) { ... }
 
       },
