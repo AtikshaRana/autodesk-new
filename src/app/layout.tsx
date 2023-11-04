@@ -1,13 +1,13 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+
 import Header from "../../component/common/header"
 import Popup from "../../component/common/popup"
 import MainHeader from "../../component/common/main-header"
 import Footer from "../../component/common/footer"
 
 
-const inter = Inter({ subsets: ['latin'] })
+
 
 export const metadata: Metadata = {
   title: 'Autodesk',
@@ -21,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className}`} >
+      <body >
          <Popup />
           <div className="flex">
             <Header/>

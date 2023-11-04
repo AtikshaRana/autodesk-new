@@ -3,6 +3,9 @@ import React,{ useEffect, useState} from 'react'
 import BtnTransparent from './button/btnTransparent'
 import Image from 'next/image'
 import Cards from "./tabThreeCard"
+import { Permanent_Marker } from 'next/font/google'
+
+const permanentMarker = Permanent_Marker({ subsets: ['latin'],weight:['400'] })
 
 const tabdata = [{
     tabHead: "Whats new",
@@ -51,7 +54,7 @@ function HeroBanner() {
     }
 
     
-
+//className={`${permanentMarker.className}`}
   return (
       <section className="relative bg-black">
           <div className="bg absolute bottom-0 right-0">
@@ -59,7 +62,7 @@ function HeroBanner() {
           </div>
           <div className="container">
               <div className="text_wrap w-full max-w-[625px]">
-                  <h1 className='text-white'>Sift can help you <span className='text-oceanGreen'>grow</span> safely</h1>
+                  <h1 className='text-white'>Sift can help you <span className={`${permanentMarker.className} text-oceanGreen`}>grow</span> safely</h1>
                   <p className='text-white mt-6 max-w-[550px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra adipiscing est, venenatis viverra nunc non aenean amet. </p>
                   <BtnTransparent text= 'DEFAULT'/>
               </div>

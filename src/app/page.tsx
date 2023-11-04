@@ -10,6 +10,7 @@ import ColThreeCard from '../../component/colThreeCard'
 
 
 
+
 export default function Home() {
   const first = {
     titlePrefix: 'The',

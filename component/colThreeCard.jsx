@@ -2,6 +2,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import BtnTransparent from './button/btnTransparent'
+import { Permanent_Marker } from 'next/font/google'
+
+const permanentMarker = Permanent_Marker({ subsets: ['latin'],weight:['400'] })
 
 function ColThreeCard() {
   return (
@@ -9,7 +12,7 @@ function ColThreeCard() {
           <div className="container">
               <div className="intro mb-5 flex flex-wrap items-center">
                   <div className="w-4/5 pr-3 text-white">
-                      <h2><span className=' text-oceanGreen'>Explore</span> more from Sift</h2>
+                      <h2><span className={ `${permanentMarker.className} text-oceanGreen`}>Explore</span> more from Sift</h2>
                   </div>
                   <div className="btn w-1/5 block">
                       <BtnTransparent text='Talk to an expert'/>  
