@@ -141,28 +141,29 @@ export default function ImgTextTab() {
     const [liwidth, setLiWidth] = useState([]);
     const [border, setBorder] = useState(0);
     const [wholeWidth, setwholeWidth] = useState(0);
-
+    const [linksLength, setLinksLength] = useState(0);
     const ulRef = useRef(null);
   
     useEffect(() => {
       if (ulRef.current) {
         const listItems = ulRef.current.querySelectorAll('.sidesBorder > li');
         const width = Array.from(listItems).map((li) => li.clientWidth);
+        const length = listItems.length;
+        setLinksLength(length);
         setLiWidth(width);
         // Calculate 'wholeWidth' based on the sum of all tab widths
        const wholeWidth = width.reduce((sum, tabWidth) => sum + tabWidth, 0);
        setwholeWidth(wholeWidth);
       }
     }, []);
-  
     const handleTabClick = (index) => {
       setActiveTab(index);
-      setBorder(index * (wholeWidth / 6)); // Calculate 'border' based on 'wholeWidth
+      setBorder(index * (wholeWidth / linksLength)); // Calculate 'border' based on 'wholeWidth
 
     };
   useEffect(() => {
-    console.log(border); // Log 'border' state within the useEffect hook
-  }, [border]);
+    console.log(linksLength); // Log 'border' state within the useEffect hook
+  }, [border]); // Log 'border' state within the useEffect hook
 
   const bordrWidth = {
     left: `${border}px`,
