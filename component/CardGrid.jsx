@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import React from 'react'
+import ArrowBtn from '../component/button/ArrowBtn'
 
 // .parent {
 //     display: grid;
@@ -75,8 +76,10 @@ function CardGrid() {
                                    </div>
                                </div>
                                <div className="text-wrap pl-4 w-9/12">
-                                   <h6>{ item.title}</h6>
-                                   <Link href='/' className='text-xs'>{ item.linkText}</Link>
+                                   <h6>{item.title}</h6>
+                                   <div className='mt-3'>
+                                     <ArrowBtn text={item.linkText } />
+                                   </div>
                                 </div>
                             </div>)
                         })}

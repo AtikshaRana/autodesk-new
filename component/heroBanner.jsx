@@ -64,7 +64,10 @@ function HeroBanner() {
               <div className="text_wrap w-full max-w-[625px]">
                   <h1 className='text-white'>Sift can help you <span className={`${permanentMarker.className} text-oceanGreen`}>grow</span> safely</h1>
                   <p className='text-white mt-6 max-w-[550px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pharetra adipiscing est, venenatis viverra nunc non aenean amet. </p>
-                  <BtnTransparent text= 'DEFAULT'/>
+                  <div className='mt-5'>
+                    <BtnTransparent text= 'DEFAULT'/>
+                  </div>
+                 
               </div>
               <div className="tab_wrap mt-14">
                   <div className="tab_navs">

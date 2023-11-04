@@ -2,6 +2,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import BtnTransparent from './button/btnTransparent'
+import ArrowBtn from '../component/button/ArrowBtn'
+
 import { Permanent_Marker } from 'next/font/google'
 
 const permanentMarker = Permanent_Marker({ subsets: ['latin'],weight:['400'] })
@@ -31,7 +33,9 @@ function ColThreeCard() {
                           </div>
 
                           <h6>Lorem ipsum dolor sit amet consectetur. Tortor sagittis sed in vitae.</h6>
-                          <Link href="/">Read the article</Link>
+                          <div className='mt-4'>
+                              <ArrowBtn text='Read the article'/>
+                          </div>
                                                     
                       </div>
                   </div>
@@ -47,7 +51,9 @@ function ColThreeCard() {
                           </div>
 
                           <h6>Lorem ipsum dolor sit amet consectetur. Tortor sagittis sed in vitae.</h6>
-                          <Link href="/">Read the article</Link>
+                          <div className='mt-4'>
+                              <ArrowBtn text='Read the article'/>
+                          </div>
                                                     
                       </div>
                   </div>
@@ -63,7 +69,9 @@ function ColThreeCard() {
                           </div>
 
                           <h6>Lorem ipsum dolor sit amet consectetur. Tortor sagittis sed in vitae.</h6>
-                          <Link href="/">Read the article</Link>
+                          <div className='mt-4'>
+                              <ArrowBtn text='Read the article'/>
+                          </div>
                                                     
                       </div>
                 </div>
