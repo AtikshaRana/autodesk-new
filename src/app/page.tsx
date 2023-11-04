@@ -7,10 +7,8 @@ import TextWithLogos from '../../component/TextWithLogo'
 import Smallcards from '../../component/SmallCards'
 import Capsule from '../../component/imgWithTextCapsule'
 import ColThreeCard from '../../component/colThreeCard'
-
-
-
-
+import TextImgTab from '../../component/textImageTab'
+ 
 export default function Home() {
   const first = {
     titlePrefix: 'The',
@@ -69,6 +67,7 @@ export default function Home() {
         <Smallcards data={smallcards} />
         <ImgTextTab />
         <Capsule />
+        <TextImgTab />
       </div>
       <ColThreeCard/>
     </>

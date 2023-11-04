@@ -31,7 +31,7 @@ export default function RootLayout({
             <main className='w-mainContent relative'>
               <MainHeader />
               {children}
-            {/* <Footer /> */}
+            <Footer />
             </main>
          </div>
       </body>
