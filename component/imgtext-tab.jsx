@@ -137,29 +137,48 @@ const Data = [
   },
 ];
 export default function ImgTextTab() {
-    const [activeTab, setActiveTab] = useState(0);
-    const [liwidth, setLiWidth] = useState([]);
-    const [border, setBorder] = useState(0);
-    const [wholeWidth, setwholeWidth] = useState(0);
-    const [linksLength, setLinksLength] = useState(0);
-    const ulRef = useRef(null);
-  
-    useEffect(() => {
-      if (ulRef.current) {
-        const listItems = ulRef.current.querySelectorAll('.sidesBorder > li');
-        const width = Array.from(listItems).map((li) => li.clientWidth);
-        const length = listItems.length;
-        setLinksLength(length);
-        setLiWidth(width);
-       const wholeWidth = width.reduce((sum, tabWidth) => sum + tabWidth, 0);
-       setwholeWidth(wholeWidth);
-      }
-    }, []);
-    const handleTabClick = (index) => {
-      setActiveTab(index);
-      setBorder(index * (wholeWidth / linksLength)); 
+  const [activeTab, setActiveTab] = useState(0);
+  const [liwidth, setLiWidth] = useState([]);
+  const [border, setBorder] = useState(0);
+  const [wholeWidth, setWholeWidth] = useState(0);
+  const [linksLength, setLinksLength] = useState(0);
+  const [windowWidth, setWindowWidth] = useState(0);
+  const ulRef = useRef(null);
 
-    };
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      setWindowWidth(window.innerWidth);
+
+      const handleResize = () => {
+        setWindowWidth(window.innerWidth);
+      };
+
+      window.addEventListener('resize', handleResize);
+
+      return () => {
+        window.removeEventListener('resize', handleResize);
+      };
+    }
+  }, []);
+
+  useEffect(() => {
+    if (ulRef.current) {
+      const listItems = ulRef.current.querySelectorAll('.sidesBorder > li');
+      const width = Array.from(listItems).map((li) => li.clientWidth);
+      const length = listItems.length;
+      setLinksLength(length);
+      setLiWidth(width);
+      const wholeWidth = width.reduce((sum, tabWidth) => sum + tabWidth, 0);
+      setWholeWidth(wholeWidth);
+    }
+  }, [windowWidth]); // Add windowWidth as a dependency to trigger the effect on resize
+
+  
+  const handleTabClick = (index) => {
+    setActiveTab(index);
+    setBorder(index * (wholeWidth / linksLength));
+  };
+
   useEffect(() => {
     console.log(linksLength); 
   }, [border]); 
