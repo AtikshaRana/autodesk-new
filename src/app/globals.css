@@ -36,7 +36,6 @@ h1{
   font-size: 80px;
   font-weight: 700;
   line-height: 1.1;
-  letter-spacing: 1.5px;
 }
 h2{
   font-size: 40px;
@@ -47,17 +46,10 @@ h3{
   font-size: 30px;
   font-weight: 700;
   line-height: 1;
-  letter-spacing: 1.5px;
-}
-h4{
-  font-size: 25px;
-  font-weight: 700;
-  line-height: 1;
-  letter-spacing: 1.5px;
 }
 
 h5{
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
 }
 h6{
@@ -102,20 +94,30 @@ section{
   background-image: url('../../public/header/minus-circle.svg');
   
 }
-.img-text-tab .sideBorder{
+.img-text-tab .sidesBorder{
   position: relative;
-
-  
+  width: 100%;
 }
-.img-text-tab .sideBorder::after{
-  content: "";
+.img-text-tab .sideBorder{
   position: absolute;
+  left: 0;
   bottom: 0;
   width: 100%;
   height: 50%;
-  margin-left: auto;
   border-bottom-left-radius: 20px;
   border: 2px solid white;
   border-top: none;
   border-right: none;
+}
+.img-text-tab .moveBorder{
+  content: '';
+  position: absolute;
+  left: 0; 
+  bottom: 0;
+  width: 0; 
+  /* border-bottom-left-radius: 20px; */
+  border: 2px solid rgb(216, 14, 14);
+  border-top: none;
+  border-right: none;
+  transition: all 0.3s ease; 
 }
