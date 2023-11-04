@@ -205,7 +205,9 @@ export default function ImgTextTab() {
                 show === true ? "rounded-b-[0] " : ""
               }` }
             >
-              <div className={`cursor-pointer p-4 ${Style.forPhone}`} onClick={() => onPhoneClick()}>
+              <div className={`cursor-pointer p-4 ${Style.forPhone} ${
+                  windowWidth < 767 ? "" : " hidden"
+                }`} onClick={() => onPhoneClick()}>
                 <div className="activeVal">{Data[activeTab].title}</div>
               </div >
               <div
@@ -244,12 +246,12 @@ export default function ImgTextTab() {
             </ul>
           </div>
           <div className="tab-content mt-[60px]">
-            <div className="flex">
-              <div className={` w-3/5 pr-[20px] ${Style.imgWrap}`}>
+            <div className="flex flex-wrap">
+              <div className={` w-full md:w-3/5 pr-[20px] mb-4 mx-auto ${Style.imgWrap}`}>
                 <Image width={632} height={453} src={Data[activeTab].img} />
               </div>
-              <div className="content-wrap w-2/5 text-white">
-                <h3 className="text-[40px] font-[700]">
+              <div className="content-wrap w-full md:w-2/5 text-white">
+                <h3 className="">
                   {Data[activeTab].content.title}
                 </h3>
                 <p className="mb-[20px">{Data[activeTab].content.blurb}</p>

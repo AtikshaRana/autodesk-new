@@ -1,5 +1,8 @@
 .imgTextTab{
     .imgWrap{
-       width: 300px;
+        @media (max-width: 767px) {
+               max-width: 300px;
+               width: 100%;
+        }
     }
 }

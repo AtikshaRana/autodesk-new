@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+*{
+  box-sizing: border-box;
+}
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -124,7 +126,9 @@ section{
     border-top: 1px solid #666666;
   }
   .img-text-tab .links > .sidesBorder{
-    width: 480px;
+    max-width: 480px;
+    width: auto;
+
   }
   .active-link{
     display: none;
