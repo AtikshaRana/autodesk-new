@@ -59,13 +59,17 @@ export default function Home() {
     <>
       <Banner />
       <LogoFrame title="Working with the biggest innovators and game changers" />
-      <ImageWithText data={first} />
-      <CardGrid/>
-      <ImgTextTab />
-      <TextWithLogos />
-      <ImageWithText data={second} />
-      <Smallcards data={smallcards} />
-      <Capsule />
+      <div className='bg-black'>
+        <ImageWithText data={first} />
+        <CardGrid/>
+        <TextWithLogos />
+      </div>
+      <div>
+        <ImageWithText data={second} />
+        <Smallcards data={smallcards} />
+        <ImgTextTab />
+        <Capsule />
+      </div>
       <ColThreeCard/>
     </>
   )

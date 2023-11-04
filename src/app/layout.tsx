@@ -5,6 +5,9 @@ import Header from "../../component/common/header"
 import Popup from "../../component/common/popup"
 import MainHeader from "../../component/common/main-header"
 import Footer from "../../component/common/footer"
+import { Titillium_Web } from 'next/font/google'
+
+const titilliumWeb = Titillium_Web({ subsets: ['latin'],weight:['400','700','900','600'] })
 
 
 
@@ -21,7 +24,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body >
+      <body className={ `${titilliumWeb.className}`}>
          <Popup />
           <div className="flex">
             <Header/>
