@@ -12,6 +12,8 @@ const config: Config = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+          'grad-blue-and-black': 'linear-gradient(180deg, rgba(0,18,77,1) 20%, rgba(0,0,0,1) 100%)',
+          'grad-black-to-blue':'linear-gradient(0deg, rgba(0,18,77,1) 59%, rgba(0,0,0,1) 100%)',
       },
       colors:{
         'purple': '#5F60FF',

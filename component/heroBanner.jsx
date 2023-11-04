@@ -56,7 +56,7 @@ function HeroBanner() {
     
 //className={`${permanentMarker.className}`}
   return (
-      <section className="relative bg-black">
+      <section className="relative bg-grad-blue-and-black">
           <div className="bg absolute bottom-0 right-0">
               <Image src='/banner-bg.png' width={1400} height={1400} quality={75}/>
           </div>

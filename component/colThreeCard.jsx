@@ -22,7 +22,7 @@ function ColThreeCard() {
                   
               </div>
               <div class="wrapper flex w-threeCardWrap flex-wrap -ml-[10px]">
-                  <div className="col_three bg-black rounded-lg overflow-hidden text-white  border-2 border-grey-600  w-threeCard mx-[10px]">
+                  <div className="col_three bg-black rounded-[20px] overflow-hidden text-white  border-2 border-grey-600  w-threeCard mx-[10px]">
                       <div className="img-wrap overflow-hidden h-52">
                           <Image className='w-full object-cover' src='/iphone.png' alt='iphone' width={500} height={500} quality={100}/>
                       </div>
@@ -40,7 +40,7 @@ function ColThreeCard() {
                       </div>
                   </div>
                   
-                  <div className="col_three bg-black rounded-lg overflow-hidden text-white border-2 border-grey-600  w-threeCard mx-[10px]">
+                  <div className="col_three bg-black rounded-[20px] overflow-hidden text-white border-2 border-grey-600  w-threeCard mx-[10px]">
                       <div className="img-wrap overflow-hidden h-52">
                           <Image className='w-full object-cover' src='/iphone.png' alt='iphone' width={500} height={500} quality={100}/>
                       </div>
@@ -58,7 +58,7 @@ function ColThreeCard() {
                       </div>
                   </div>
                   
-                  <div className="col_three bg-black rounded-lg overflow-hidden text-white border-2 border-grey-600  w-threeCard mx-[10px]">
+                  <div className="col_three bg-black rounded-[20px] overflow-hidden text-white border-2 border-grey-600  w-threeCard mx-[10px]">
                       <div className="img-wrap h-52 overflow-hidden">
                           <Image className='w-full object-cover' src='/iphone.png' alt='iphone' width={500} height={500} quality={100} />
                       </div>

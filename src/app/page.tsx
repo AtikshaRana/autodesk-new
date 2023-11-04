@@ -62,7 +62,7 @@ export default function Home() {
         <CardGrid/>
         <TextWithLogos />
       </div>
-      <div>
+      <div className='grad-black-to-blue'>
         <ImageWithText data={second} />
         <Smallcards data={smallcards} />
         <ImgTextTab />
