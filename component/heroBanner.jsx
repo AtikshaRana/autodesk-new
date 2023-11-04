@@ -58,7 +58,7 @@ function HeroBanner() {
   return (
       <section className="relative bg-black">
           <div className="bg absolute bottom-0 right-0">
-              <Image src='/banner-bg.png' width={1400} height={1400}/>
+              <Image src='/banner-bg.png' width={1400} height={1400} quality={75}/>
           </div>
           <div className="container">
               <div className="text_wrap w-full max-w-[625px]">
