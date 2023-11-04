@@ -2,6 +2,7 @@
 import React, { useState , useEffect , useRef } from "react";
 import Image from "../node_modules/next/image";
 import BtnTransparent from "./button/btnTransparent";
+import Style from "./../styles/imgTextTab.module.scss"
 const Data = [
   {
     title: `Use Case one`,
@@ -160,7 +161,6 @@ export default function ImgTextTab() {
       };
     }
   }, []);
-
   useEffect(() => {
     if (ulRef.current) {
       const listItems = ulRef.current.querySelectorAll('.sidesBorder > li');
@@ -170,15 +170,14 @@ export default function ImgTextTab() {
       setLiWidth(width);
       const wholeWidth = width.reduce((sum, tabWidth) => sum + tabWidth, 0);
       setWholeWidth(wholeWidth);
-    }
-  }, [windowWidth]); // Add windowWidth as a dependency to trigger the effect on resize
+      setBorder(activeTab * (wholeWidth / linksLength));
 
-  
+    }
+  }, [windowWidth]); 
   const handleTabClick = (index) => {
     setActiveTab(index);
     setBorder(index * (wholeWidth / linksLength));
   };
-
   useEffect(() => {
     console.log(linksLength); 
   }, [border]); 
@@ -191,7 +190,7 @@ export default function ImgTextTab() {
   };
 //   style={bordrWidth}
   return (
-    <section className="bg-darkBlue img-text-tab">
+    <section className={`bg-darkBlue img-text-tab   ${Style.imgTextTab}`}>
       <div className="container">
         <div className="tab-wrap">
           <div className="links">
@@ -218,20 +217,22 @@ export default function ImgTextTab() {
           </div>
           <div className="tab-content mt-[60px]">
             <div className="flex">
-              <div className="img-wrap w-3/5 pr-[20px]">
+              <div className={` w-3/5 pr-[20px] ${Style.imgWrap}`}>
                 <Image width={632} height={453} src={Data[activeTab].img} />
               </div>
               <div className="content-wrap w-2/5 text-white">
-                <h3 className=" mb-[20px] text-[40px] font-[700]">
+                <h3 className="text-[40px] font-[700]">
                   {Data[activeTab].content.title}
                 </h3>
                 <p className="mb-[20px">{Data[activeTab].content.blurb}</p>
-                <ul className=" ml-[18px] list-disc">
+                <ul className=" ml-[18px] list-disc mt-[20px]">
                   {Data[activeTab].content.links.map((link, index) => (
                     <li>{link.link}</li>
                   ))}
                 </ul>
-                <BtnTransparent text={Data[activeTab].content.cta} />
+                <div className="mt-5">
+                 <BtnTransparent text={Data[activeTab].content.cta} />
+                </div>
               </div>
             </div>
           </div>
