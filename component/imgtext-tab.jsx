@@ -1,8 +1,8 @@
 "use client";
-import React, { useState , useEffect , useRef } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Image from "../node_modules/next/image";
 import BtnTransparent from "./button/btnTransparent";
-import Style from "./../styles/imgTextTab.module.scss"
+import Style from "./../styles/imgTextTab.module.scss";
 const Data = [
   {
     title: `Use Case one`,
@@ -144,26 +144,27 @@ export default function ImgTextTab() {
   const [wholeWidth, setWholeWidth] = useState(0);
   const [linksLength, setLinksLength] = useState(0);
   const [windowWidth, setWindowWidth] = useState(0);
+  const [show, setShow] = useState(false);
   const ulRef = useRef(null);
 
   useEffect(() => {
-    if (typeof window !== 'undefined') {
+    if (typeof window !== "undefined") {
       setWindowWidth(window.innerWidth);
 
       const handleResize = () => {
         setWindowWidth(window.innerWidth);
       };
 
-      window.addEventListener('resize', handleResize);
+      window.addEventListener("resize", handleResize);
 
       return () => {
-        window.removeEventListener('resize', handleResize);
+        window.removeEventListener("resize", handleResize);
       };
     }
   }, []);
   useEffect(() => {
     if (ulRef.current) {
-      const listItems = ulRef.current.querySelectorAll('.sidesBorder > li');
+      const listItems = ulRef.current.querySelectorAll(".sidesBorder > li");
       const width = Array.from(listItems).map((li) => li.clientWidth);
       const length = listItems.length;
       setLinksLength(length);
@@ -171,47 +172,74 @@ export default function ImgTextTab() {
       const wholeWidth = width.reduce((sum, tabWidth) => sum + tabWidth, 0);
       setWholeWidth(wholeWidth);
       setBorder(activeTab * (wholeWidth / linksLength));
-
     }
-  }, [windowWidth]); 
+  }, [windowWidth]);
   const handleTabClick = (index) => {
     setActiveTab(index);
     setBorder(index * (wholeWidth / linksLength));
   };
+  const onPhoneClick = () => {
+    setShow((prevShow) => !prevShow);
+  }
   useEffect(() => {
-    console.log(linksLength); 
-  }, [border]); 
+    console.log(show);
+  }, [show]);
 
   const bordrWidth = {
     left: `${border}px`,
     width: `${liwidth[activeTab]}px`,
-    borderBottomLeftRadius: `${border > "0" ? "0": "20px"}`,
-    height: `${border > "0" ? "0": "50%"}`
+    borderBottomLeftRadius: `${border > "0" ? "0" : "20px"}`,
+    height: `${border > "0" ? "0" : "50%"}`,
   };
-//   style={bordrWidth}
   return (
-    <section className={`bg-darkBlue img-text-tab   ${Style.imgTextTab}`}>
+    <section className={`bg-darkBlue img-text-tab ${Style.imgTextTab}`}>
       <div className="container">
         <div className="tab-wrap">
           <div className="links">
-            <ul  className={`flex text-center sidesBorder ${
+            <ul
+              className={` text-center mx-auto  sidesBorder ${
                 Data[activeTab].index !== " " ? "LinkBorder " : ""
-              }` } ref={ulRef} >
-              {Data.map((data, index) => (
-                <li
-                  className={`text-white w-1/6 cursor-pointer p-[15px] z-[1] ${
-                    index === activeTab ? "active-link" : ""
-                  }`}
-                  style={
-                    index === activeTab ? { opacity: "1" } : { opacity: "0.6" }
-                  }
-                  key={index}
-                  onClick={() => handleTabClick(index)}
-                >
-                  {data.title}
-                </li>
-              ))}
-              <span className={`sideBorder`} ></span>
+              } ${
+                windowWidth < 767 ? "rounded-[5px] rounded-t-[5px] bg-white " : ""
+              } ${
+                show === true ? "rounded-b-[0] " : ""
+              }` }
+            >
+              <div className={`cursor-pointer p-4 ${Style.forPhone}`} onClick={() => onPhoneClick()}>
+                <div className="activeVal">{Data[activeTab].title}</div>
+              </div >
+              <div
+                className={`flex sidesBorder flex-wrap ${
+                  Data[activeTab].index !== " " ? "LinkBorder " : ""
+                } ${
+                  windowWidth < 767 ? show === true ? "absolute w-full bg-white rounded-b-[5px]" : "" : ""
+                }`}              
+                onClick={() => onPhoneClick()}
+                ref={ulRef}
+              >
+                {Data.map((data, index) => (
+                  <li
+                    className={`md:text-white w-full md:w-1/6 cursor-pointer text-[16px] px-[8px] py-[15px] z-[1] ${
+                      index === activeTab ? "active-link" : ""
+                    } ${
+                      windowWidth < 767 ? show === true ? "text-black visible block" : " hidden" : ""
+                    }`}
+                    style={
+                      windowWidth > 767 ?
+                      index === activeTab
+                        ? { opacity: "1" }
+                        : { opacity: "0.6" }
+                        : {}
+                    }
+                    key={index}
+                    onClick={() => handleTabClick(index)}
+                  >
+                    {data.title}
+                  </li>
+                ))}
+              </div>
+
+              <span className={`sideBorder`}></span>
               <span className={`moveBorder`} style={bordrWidth}></span>
             </ul>
           </div>
@@ -231,7 +259,7 @@ export default function ImgTextTab() {
                   ))}
                 </ul>
                 <div className="mt-5">
-                 <BtnTransparent text={Data[activeTab].content.cta} />
+                  <BtnTransparent text={Data[activeTab].content.cta} />
                 </div>
               </div>
             </div>

@@ -106,12 +106,31 @@ section{
   height: 20px;
   background-image: url('../../public/header/minus-circle.svg');
 }
-.img-text-tab .sidesBorder{
+.img-text-tab .links > .sidesBorder{
   position: relative;
   width: 100%;
 }
-
-@media (min-width: 991px) {
+@media (max-width: 991px) and (min-width: 767px){
+.img-text-tab .sidesBorder{
+  width: calc(100% - 20px);
+}
+}
+@media (max-width: 768px) {
+  .img-text-tab .sidesBorder .sidesBorder{
+    height: 0;
+  }
+  .img-text-tab .sidesBorder .sidesBorder.absolute{
+    height: fit-content;
+    border-top: 1px solid #666666;
+  }
+  .img-text-tab .links > .sidesBorder{
+    width: 480px;
+  }
+  .active-link{
+    display: none;
+  }
+}
+@media (min-width: 768px) {
   .img-text-tab .sideBorder{
     position: absolute;
     left: 0;
@@ -128,7 +147,7 @@ section{
     position: absolute;
     left: 0; 
     bottom: 0;
-    width: 0; 
+    width: 100%; 
     /* border-bottom-left-radius: 20px; */
     border: 2px solid rgb(216, 14, 14);
     border-top: none;
