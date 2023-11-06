@@ -211,3 +211,13 @@ h6{
     transition: all 0.3s ease; 
   }
 }
+.slick-list{
+  width: 100% !important;
+  overflow: hidden;
+}
+.slick-slide{
+  width: 100px !important;
+}
+.logo_wrap{
+  display: flex !important;
+}
