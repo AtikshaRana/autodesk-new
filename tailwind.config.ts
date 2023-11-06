@@ -54,7 +54,7 @@ const config: Config = {
 
         'cd': {'max': '1170px'},
         // => @media (max-width: 1279px) { ... }
-        'cu': {'min': '1170px'},
+        'cUp': {'min': '1170px'},
         // => @media (min-width: 1279px) { ... }
 
         'dmd': {'max': '1024px'},

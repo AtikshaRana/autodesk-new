@@ -20,20 +20,20 @@ const logos = [
 
 function TextWithLogos() {
   return (
-      <section>
+      <section className=' cd:bg-white'>
           <div className="container">
-              <div className="wrapper flex flex-wrap items-center py-20 px-20 rounded-full bg-white">
-                  <div className="col_left w-2/5">
+              <div className="wrapper flex flex-wrap items-center py-20 px-20 cd:p-0 cUp:rounded-full cUp:bg-white cd:w-threeCardWrap">
+                  <div className="col_left w-2/5 cd:w-halfWidth td:w-full">
                       <div className="icon mb-2">
                           <Image src="/textwithlogo/G2_logo.png" alt='Q2' width={30} height={30}/>
                       </div>
                       <h3 className='pr-10'>#1 Leader in Digital Trust and Safety</h3>
                   </div>
-                  <div className="col_right w-3/5">
-                      <div className="logo_wrap grid grid-cols-4 gap-x-2">
+                  <div className="col_right w-3/5 cd:w-halfWidth td:w-full">
+                      <div className="logo_wrap grid grid-cols-4 cd:grid-cols-2 gap-x-2">
                           {logos.map((item, i) => {
                               return (
-                                <div className="logo" key={i}>
+                                <div className="logo cd:w-[100px] cd:h-[134px]" key={i}>
                                       <Image className='mx-auto' src={item.img } alt='Q2' width={90} height={90}/>
                                 </div>
                               )
