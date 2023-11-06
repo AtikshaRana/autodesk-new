@@ -58,10 +58,10 @@ const smallcards = [
 
 function CardGrid() {
     return (
-        <section className='relative card_grid'>
+        <section className='relative card_grid z-10'>
             <div className="container">
                 <div class="wrapper flex w-threeCardWrap flex-wrap -ml-[10px]">
-                    <div class="col_two w-halfWidth mx-[10px]">
+                    <div class="col_two w-halfWidth mx-[10px] cd:w-full cd:mb-[20px]">
                         <div className="card-wrap p-4 pl-2 bg-black h-full flex border-[1px] border-white rounded-lg flex-wrap">
                             <div className="num_wrap  w-1/5 ">
                                 <div className="counter relative w-[90px] h-[90px] bg-blue rounded-full  my-auto  text-right">
@@ -81,12 +81,11 @@ function CardGrid() {
                                     </ul>
                                 </div>
                         </div>
-                        
                     </div>
-                    <div className="col_two w-halfWidth mx-[10px]">
-                        <div className="wrapper grid grid-cols-2 gap-x-[20px] gap-y-[20px]">
+                    <div className="col_two w-halfWidth mx-[10px] cd:w-full">
+                        <div className="wrapper grid grid-cols-2 gap-x-[20px] gap-y-[20px] phd:grid-cols-1 h-full">
                         {smallcards.map((item, i) => {
-                           return(<div key={i} className="small_card w-full border-[1px] border-white rounded-lg p-4 pl-2 flex flex-wrap bg-black text-white">
+                           return(<div key={i} className="small_card w-full border-[1px] border-white rounded-lg p-4 pl-2 flex flex-wrap bg-black text-white overflow-hidden ">
                                <div className="num_wrap  w-3/12">
                                    <div className="counter relative w-[60px] h-[60px] bg-yello rounded-full  my-auto  text-right">
                                    <div className='shadow absolute top-0 -left-2 h-[150px]'>
