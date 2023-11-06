@@ -247,7 +247,7 @@ function Header() {
 
   return (
     <header
-      className={`pt-8 inner-wrap w-[550px] h-[100vh] header sticky top-0 left-0 ${Style.header}`}
+      className={`pt-8 inner-wrap w-[550px] h-[100vh] header sticky top-0 left-0 dmd:hidden ${Style.header}`}
     >
       <div className="relative mt-5">
         <div className="logo pl-8 mb-[20px]">

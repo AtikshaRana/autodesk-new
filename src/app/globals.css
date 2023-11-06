@@ -35,32 +35,30 @@
   padding: 0 20px;
 }
 h1{
-  font-size: 80px;
+  font-size: 110px;
+  letter-spacing: 1.5px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1;
   letter-spacing: 1.5px;
 }
 h2{
-  font-size: 40px;
+  font-size: 95px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.2;
   letter-spacing: 1.5px;
 }
 h3{
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 700;
   line-height: 1;
   letter-spacing: 1.5px;
-
 }
 h4{
-  font-size: 25px;
+  font-size: 24px;
   font-weight: 700;
   line-height: 1;
   letter-spacing: 1.5px;
-
 }
-
 h5{
   font-size: 20px;
   font-weight: 600;
@@ -71,7 +69,50 @@ h6{
   font-weight: 600;
   letter-spacing: 1.4px;
 }
-
+@media (max-width: 1600px) and (min-width: 1201px) {
+  h1{
+    font-size: 88px;
+  }
+  h2{
+    font-size: 64px;
+  }
+  h3{
+    font-size: 50px;
+  }
+}
+@media (max-width: 1200px) and (min-width: 769px) {
+  h1{
+    font-size: 62px;
+  }
+  h2{
+    font-size: 52px;
+  }
+  h3{
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) and (min-width: 321px) {
+  h1{
+    font-size: 56px;
+  }
+  h2{
+    font-size: 40px;
+  }
+  h3{
+    font-size: 27px;
+  }
+}
+@media (max-width: 320px){
+  h1{
+    font-size: 40px;
+  }
+  h2{
+    font-size: 32px;
+  }
+  h3{
+    font-size: 24px;
+  }
+}
 
 section{
   padding: 70px 0;

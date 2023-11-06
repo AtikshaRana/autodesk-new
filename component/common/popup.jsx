@@ -15,15 +15,11 @@ export default function Popup() {
         const timer = setTimeout(() => {
         setComponentVisible(true);
         }, 2000);
-
-        // Clear the timer when the component unmounts to avoid memory leaks
         return () => clearTimeout(timer);
     }, []);
-
-  
     return (
         componentVisible && (
-            <div className={`wrap h-[42px] relative ${active ? 'hidden' : 'block'}`}>
+            <div className={`wrap h-[42px] relative dd:hidden ${active ? 'hidden' : 'block'}`}>
               <div className="bg-oceanGreen py-[9px] px-[18px] fixed text-[16px] font-[600] leading-[1.5rem] w-full right-0 z-40 text-center">
                 <span>Join Sift at Money20/20 USA in Las Vegas</span>
                 <div className="close absolute right-[16px] top-2 cursor-pointer" onClick={handleTabClick}>

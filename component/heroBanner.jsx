@@ -69,7 +69,7 @@ function HeroBanner() {
                   </div>
                  
               </div>
-              <div className="tab_wrap mt-14">
+              <div className="tab_wrap mt-14 dmd:mt-8 tb:mt-5 ">
                   <div className="tab_navs">
                       {tabdata.map((item , indx) => {
                           return (
@@ -79,8 +79,8 @@ function HeroBanner() {
                           )
                       })}
                   </div>
-                  <div className="tab_content mt-10"><div className='relative flex flex-wrap w-threeCardWrap -ml-[10px]' key={i}>
-                      <Cards cardsData={ tabdata[i].tabContent}/>
+                  <div className="tab_content mt-10"><div className='relative flex flex-wrap w-threeCardWrap -ml-[10px] phd:w-full' key={i}>
+                      <Cards cardsData={ tabdata[i].tabContent }/>
                             </div>
                   </div>
               </div>

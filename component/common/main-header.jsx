@@ -4,7 +4,7 @@ import Image from '../../node_modules/next/image';
 import BtnPink from '../button/btnPink';
 export default function MainHeader() {
   return (
-    <div className='absolute z-10 w-full mt-[10px]'>
+    <div className='absolute z-10 w-full mt-[10px] dd:hidden'>
       <div className="container flex items-center justify-end">
         <div className="search mt-[15px] mx-4 cursor-pointer">
           <Image width={19} height={19} src="/header/search.svg"/>
