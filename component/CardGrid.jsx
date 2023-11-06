@@ -58,7 +58,7 @@ const smallcards = [
 
 function CardGrid() {
     return (
-        <section className='relative card_grid z-10'>
+        <section className='relative card_grid z-10 overflow-x-hidden overflow-y-clip'>
             <div className="container">
                 <div class="wrapper flex w-threeCardWrap flex-wrap -ml-[10px]">
                     <div class="col_two w-halfWidth mx-[10px] cd:w-full cd:mb-[20px]">

@@ -8,6 +8,7 @@ import Smallcards from '../../component/SmallCards'
 import Capsule from '../../component/imgWithTextCapsule'
 import ColThreeCard from '../../component/colThreeCard'
 import TextImgTab from '../../component/textImageTab'
+import FooterCta from '../../component/FooterCta'
  
 export default function Home() {
   const first = {
@@ -69,7 +70,8 @@ export default function Home() {
         <Capsule />
         <TextImgTab />
       </div>
-      <ColThreeCard/>
+      <ColThreeCard />
+      <FooterCta />
     </>
   )
 }
