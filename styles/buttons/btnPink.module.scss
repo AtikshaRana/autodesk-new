@@ -1,0 +1,31 @@
+.btn_pink{
+    position :relative;
+    overflow: hidden;
+    transition: all .3s ease-in-out;
+    z-index: 4;
+    &::after{
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: black;
+        transition: all .3s ease-in-out;
+        z-index: -1;
+    }
+    &:hover{
+        color: white;
+        &::after{
+            width: 100%;
+        }
+       
+    }
+    &:active {
+        color: white;
+        &::after{
+            width: 100%;
+        }
+      }
+    
+}

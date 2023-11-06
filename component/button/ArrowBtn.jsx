@@ -8,7 +8,7 @@ const redArrow = <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xml
 function ArrowBtn(props) {
   return (
     <>
-          <Link className='relative inline_block transition-all pr-[20px] hover:pr-[30px]' href={`/`}><span className='absolute top-[5px] right-[5px] w-[10px] h-[10px]'>{redArrow}</span>{ props.text}</Link>
+          <Link className='arrow_btn relative inline_block transition-all duration-700 pr-[20px] hover:text-pink' href={`/`}><span className='absolute top-[5px] right-[5px] w-[10px] h-[10px]'>{redArrow}</span>{ props.text}</Link>
     </>
   )
 }
