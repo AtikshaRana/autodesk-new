@@ -1,8 +1,21 @@
 .imgTextTab{
-    .imgWrap{
-        @media (max-width: 767px) {
-               max-width: 300px;
-               width: 100%;
+    .logoWrap{
+        max-width: 220px;
+        width: 100%;
+        height: 40px;
+        
+    }
+    .logo{
+        object-fit: contain;
+        width: 100%;
+        height: 100%;
+    }
+    .tab-content{
+        .imgWrap{
+            @media (max-width: 767px) {
+                   max-width: 300px;
+                   width: 100%;
+            }
         }
     }
 }

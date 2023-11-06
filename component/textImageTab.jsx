@@ -3,9 +3,10 @@ import React, { useState, useEffect, useRef } from "react";
 import Image from "../node_modules/next/image";
 import BtnTransparent from "./button/btnTransparent";
 import Style from "./../styles/imgTextTab.module.scss";
+import IntroWithCta from "../component/introWithCta"
 const Data = [
   {
-    title: `Use Case one`,
+    logo: '/logos/doordash.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
@@ -27,7 +28,7 @@ const Data = [
     },
   },
   {
-    title: "Use Case Two ",
+    logo: '/logos/yelp.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
@@ -49,7 +50,7 @@ const Data = [
     },
   },
   {
-    title: "Use Case three",
+    logo: '/logos/HelloFresh.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
@@ -71,7 +72,7 @@ const Data = [
     },
   },
   {
-    title: "Use Case Four ",
+    logo: '/logos/nikon.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
@@ -147,9 +148,15 @@ export default function TextImgTab() {
     borderBottomLeftRadius: `${border > "0" ? "0" : "20px"}`,
     height: `${border > "0" ? "0" : "50%"}`,
   };
+  const intro = {
+    highLightedText: "Our Impact",
+    normalText: "on customers success across industries ",
+  }
+
   return (
     <section className={`bg-darkBlue img-text-tab ${Style.imgTextTab}`}>
       <div className="container">
+        <IntroWithCta bg={"black"} data={intro}/>
         <div className="tab-wrap">
           <div className="links">
             <ul
@@ -192,7 +199,9 @@ export default function TextImgTab() {
                     key={index}
                     onClick={() => handleTabClick(index)}
                   >
-                    {data.title}
+                    <div className={` mx-auto ${Style.logoWrap}`}>
+                      <Image className={Style.logo} width={220} height={500} src={data.logo} />
+                    </div>
                   </li>
                 ))}
               </div>
