@@ -204,18 +204,20 @@ h6{
     border: 2.5px solid white;
     border-top: none;
     border-right: none;
-  } .img-text-tab .sideBorder::after{
+  } 
+  .img-text-tab .sideBorder::after{
     content: "";
     position: absolute;
     left: -2.2px;
-    top: -4px;
+    top: -3px;
     width: 1px;
-    height: 5px;
+    height: 3px;
     border-radius: 11px;
-    border-left: 2.5px solid #FF3B84;
+    border-left: 2.5px solid transparent;
+    border-left: 2.5px solid white;
+    /* transition: border-left 0.2s ease-in-out; */
   }
   .img-text-tab .moveBorder{
-    content: '';
     position: absolute;
     left: 0; 
     bottom: 0;
@@ -225,5 +227,17 @@ h6{
     border-top: none;
     border-right: none;
     transition: all 0.3s ease; 
+  }
+  .img-text-tab .moveBorder.show::after{
+    content: "";
+    position: absolute;
+    left: -2.3px;
+    top: -2px;
+    width: 1px;
+    height: 3px;
+    border-radius: 11px;
+    border-left: 2.5px solid transparent;
+    border-left: 2.5px solid #FF3B84;
+    /* transition: border-left 0.2s ease-in-out; */
   }
 }

@@ -121,6 +121,7 @@ export default function TextImgTab() {
   const [linksLength, setLinksLength] = useState(0);
   const [windowWidth, setWindowWidth] = useState(0);
   const [show, setShow] = useState(false);
+  
   const ulRef = useRef(null);
 
   useEffect(() => {
@@ -189,7 +190,7 @@ export default function TextImgTab() {
                 }`} onClick={() => onPhoneClick()}>
                 <div className="activeVal">{Data[activeTab].title}</div>
                 <div className={` activeVal mx-auto ${Style.logoWrap}`}>
-                      <Image className={Style.logo} width={220} height={500} src={Data[activeTab].logo} />
+                      <Image className={Style.logo} width={220} height={500} src={Data[activeTab].logo} alt="logo"/>
                     </div>
               </div >
               <div
@@ -219,14 +220,16 @@ export default function TextImgTab() {
                     onClick={() => handleTabClick(index)}
                   >
                     <div className={` mx-auto ${Style.logoWrap}`}>
-                      <Image className={Style.logo} width={220} height={500} src={data.logo} />
+                      <Image className={Style.logo} width={220} height={500} src={data.logo} alt="logo"/>
                     </div>
                   </li>
                 ))}
               </div>
 
-              <span className={`sideBorder`}></span>
-              <span className={`moveBorder`} style={bordrWidth}></span>
+              <span className={`sideBorder  `}></span>
+              <span className={`moveBorder ${
+                  activeTab === 0 ? "show" : ""
+                }` } style={bordrWidth}></span>
             </ul>
           </div>
           <div className="tab-content mt-[60px]">
