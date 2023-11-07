@@ -182,14 +182,15 @@ export default function TextImgTab() {
               } ${
                 windowWidth < 767 ? "rounded-[5px] rounded-t-[5px] bg-white " : ""
               } ${
-                show === true ? "rounded-b-[0] " : ""
+                show === true ? "rounded-b-[0]"  : ""
+              } ${
+                show === true ? Style.rotateArrow : ""
               }` }
             >
               <div className={`cursor-pointer p-4 ${Style.forPhone} ${
                   windowWidth < 767 ? "" : " hidden"
                 }`} onClick={() => onPhoneClick()}>
-                <div className="activeVal">{Data[activeTab].title}</div>
-                <div className={` activeVal mx-auto ${Style.logoWrap}`}>
+                <div className={` flex items-center activeVal mx-auto ${Style.logoWrap}`}>
                       <Image className={Style.logo} width={220} height={500} src={Data[activeTab].logo} alt="logo"/>
                     </div>
               </div >
@@ -232,9 +233,9 @@ export default function TextImgTab() {
                 }` } style={bordrWidth}></span>
             </ul>
           </div>
-          <div className="tab-content mt-[60px]">
+          <div className="tab-content mt-[60px] dd:mt-[30px]">
             <div className="flex flex-wrap  rounded-[30px] overflow-hidden">
-            <div className="content-wrap w-1/2 text-white bg-yello p-[50px]">
+            <div className="content-wrap w-1/2 dd:w-full text-white bg-yello p-[50px] dd:p-[25px]">
               <div className="quotation">
                 <Image width={64} height={64} src={Data[activeTab].content.quotationsImg} /> 
               </div>
@@ -249,14 +250,14 @@ export default function TextImgTab() {
                   <BtnTransparent text={Data[activeTab].content.cta} />
                 </div>
               </div>
-              <div className={`w-1/2  mx-auto ${Style.imgWrap}`}>
+              <div className={`w-1/2 dd:w-full mx-auto ${Style.imgWrap}`}>
                 <div className={`${Style.imgWithCount}`}>
                   <Image className={Style.image} width={632} height={453} src={Data[activeTab].imgWithContent.img}/>
                 </div>
-                <div className={`bg-darkBlue ${Style.counter}`}>
-                  <div className="flex p-[20px] justify-around">
+                <div className={`bg-darkBlue  ${Style.counter}`}>
+                  <div className="flex flex-wrap p-[20px] justify-around">
                     {Data[activeTab].imgWithContent.count.map((data , index) => ( 
-                      <div key={index} className="countWithText pr-4">
+                      <div key={index} className="countWithText pr-4 pd:pr-0 pd:w-full pd:mb-[10px] pd:last-of-type:mb-[0]">
                         <h2 className="text-yello">{data.num}</h2>
                         <p className="text-white">{data.discription}</p>
                       </div>

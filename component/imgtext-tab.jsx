@@ -203,6 +203,8 @@ export default function ImgTextTab() {
                 windowWidth < 767 ? "rounded-[5px] rounded-t-[5px] bg-white " : ""
               } ${
                 show === true ? "rounded-b-[0] " : ""
+              } ${
+                show === true ? Style.rotateArrow : ""
               }` }
             >
               <div className={`cursor-pointer p-4 ${Style.forPhone} ${
