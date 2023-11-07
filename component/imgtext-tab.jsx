@@ -242,11 +242,10 @@ export default function ImgTextTab() {
                   </li>
                 ))}
               </div>
-
-              <span className={`sideBorder  ${
-                  activeTab === 0 ? "pink" : "white"
-                }`}></span>
-              <span className={`moveBorder`} style={bordrWidth}></span>
+              <span className={`sideBorder`}></span>
+              <span className={`moveBorder ${
+                  activeTab === 0 ? "show" : ""
+                }` } style={bordrWidth}></span>
             </ul>
           </div>
           <div className="tab-content mt-[60px]">
