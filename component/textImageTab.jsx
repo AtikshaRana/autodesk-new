@@ -234,24 +234,35 @@ export default function TextImgTab() {
           </div>
           <div className="tab-content mt-[60px]">
             <div className="flex flex-wrap  rounded-[30px] overflow-hidden">
-            <div className="content-wrap w-full md:w-2/5 text-white bg-yello p-[50px]">
+            <div className="content-wrap w-1/2 text-white bg-yello p-[50px]">
               <div className="quotation">
                 <Image width={64} height={64} src={Data[activeTab].content.quotationsImg} /> 
               </div>
-                <h4 className="">
+                <h4 className="text-black dUp:text-[32px] font-[600] my-4">
                   {Data[activeTab].content.title}
                 </h4>
-                <h4 className=" ">{Data[activeTab].content.name}</h4>
-                <span>
+                <h4 className=" text-black">{Data[activeTab].content.name}</h4>
+                <span className="text-black">
                 {Data[activeTab].content.occupation}
                 </span>
                 <div className="mt-5">
                   <BtnTransparent text={Data[activeTab].content.cta} />
                 </div>
               </div>
-              <div className={`w-full md:w-3/5 pr-[20px] mb-4 mx-auto ${Style.imgWrap}`}>
-                <div className="contentWrap">
-                  <Image width={632} height={453} src={Data[activeTab].imgWithContent.img}/>
+              <div className={`w-1/2  mx-auto ${Style.imgWrap}`}>
+                <div className={`${Style.imgWithCount}`}>
+                  <Image className={Style.image} width={632} height={453} src={Data[activeTab].imgWithContent.img}/>
+                </div>
+                <div className={`bg-darkBlue ${Style.counter}`}>
+                  <div className="flex p-[20px] justify-around">
+                    {Data[activeTab].imgWithContent.count.map((data , index) => ( 
+                      <div key={index} className="countWithText pr-4">
+                        <h2 className="text-yello">{data.num}</h2>
+                        <p className="text-white">{data.discription}</p>
+                      </div>
+                    ))
+                    }
+                  </div>
                 </div>
               </div>
             </div>

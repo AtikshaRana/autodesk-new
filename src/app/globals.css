@@ -221,12 +221,12 @@ h6{
     position: absolute;
     left: 0; 
     bottom: 0;
-    width: 100%; 
+    width: 100%;
     border-bottom-left-radius: 20px;
     border: 2.5px solid #FF3B84;
     border-top: none;
     border-right: none;
-    transition: all 0.3s ease; 
+    transition: left 0.3s ease; 
   }
   .img-text-tab .moveBorder.show::after{
     content: "";

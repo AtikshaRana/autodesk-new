@@ -259,7 +259,7 @@ export default function ImgTextTab() {
                 <p className="mb-[20px">{Data[activeTab].content.blurb}</p>
                 <ul className=" ml-[18px] list-disc mt-[20px]">
                   {Data[activeTab].content.links.map((link, index) => (
-                    <li>{link.link}</li>
+                    <li key={index}>{link.link}</li>
                   ))}
                 </ul>
                 <div className="mt-5">
