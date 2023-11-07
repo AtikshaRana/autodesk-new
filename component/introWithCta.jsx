@@ -15,6 +15,7 @@ export default function IntroWithCta({bg , data}) {
         </h2>
       </div>
       <div className="btn w-1/5 block elcd:w-2/5 elcd:pl-[10px] phd:w-full phd:pl-0 ">
+        
         <BtnTransparent text="Talk to an expert" />
       </div>
     </div>

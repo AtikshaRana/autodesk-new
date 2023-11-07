@@ -189,7 +189,7 @@ export default function ImgTextTab() {
     left: `${border}px`,
     width: `${liwidth[activeTab]}px`,
     borderBottomLeftRadius: `${border > "0" ? "0" : "20px"}`,
-    height: `${border > "0" ? "0" : "50%"}`,
+    height: `${border > "0" ? "0" : "22px"}`,
   };
   return (
     <section className={`bg-darkBlue img-text-tab ${Style.imgTextTab}`}>

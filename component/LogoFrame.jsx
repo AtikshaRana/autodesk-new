@@ -18,7 +18,6 @@ const logos = [{
     }]
 
 function LogoFrame(props) {
-    
   return (
       <section className='bg-skyblue'>
           <div className="container">
@@ -36,7 +35,6 @@ function LogoFrame(props) {
                   </div>
               </div>
         </div>
-      
       </section>
    )
 }

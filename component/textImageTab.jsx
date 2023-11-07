@@ -10,88 +10,107 @@ const Data = [
     src: "/",
     img: "/tab-image.svg",
     content: {
-      title: "Ullamcorper quam nec risus vel cursus nec",
-      blurb:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-      links: [
-        {
-          link: "Sed ut perspiciatis unde omnis",
-        },
-        {
-          link: "Voluptatem accusantium dolore laudant",
-        },
-        {
-          link: "Totam rem aperiam eaque ipsa tellus",
-        },
-      ],
-      cta: "Learn more",
+      quotationsImg: "/logos/vector.png",
+      title: "Est tation latine aliquip id, mea ad tale illud definitiones. Periculis omitur necessitus eum ad, pro eripuit minimum comprehensam stet prompta reformidans.”",
+      name: "Connie Robertson",
+      occupation: "CMO at Swan Bitcoin",
+      cta: "Read customer story",
+      defualtCta: "defualt",
     },
+    imgWithContent: {
+      img: "/logos/girl.png",
+
+      count: [
+        {
+          num: "+85",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+        {
+          num: "5x",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+      ]
+    }
   },
   {
     logo: '/logos/yelp.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
-      title: "Two quam nec risus vel cursus nec",
-      blurb:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-      links: [
-        {
-          link: "Sed ut perspiciatis unde omnis",
-        },
-        {
-          link: "Voluptatem accusantium dolore laudant",
-        },
-        {
-          link: "Totam rem aperiam eaque ipsa tellus",
-        },
-      ],
-      cta: "Learn more",
+      quotationsImg: "/logos/vector.png",
+      title: "Est tation latine aliquip id, mea ad tale illud definitiones. Periculis omitur necessitus eum ad, pro eripuit minimum comprehensam stet prompta reformidans.”",
+      name: "Connie Robertson",
+      occupation: "CMO at Swan Bitcoin",
+      cta: "Read customer story",
+      defualtCta: "defualt",
     },
+    imgWithContent: {
+      img: "/logos/girl.png",
+
+      count: [
+        {
+          num: "+85",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+        {
+          num: "5x",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+      ]
+    }
   },
   {
     logo: '/logos/HelloFresh.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
-      title: "three quam nec risus vel cursus nec",
-      blurb:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-      links: [
-        {
-          link: "Sed ut perspiciatis unde omnis",
-        },
-        {
-          link: "Voluptatem accusantium dolore laudant",
-        },
-        {
-          link: "Totam rem aperiam eaque ipsa tellus",
-        },
-      ],
-      cta: "Learn more",
+      quotationsImg: "/logos/vector.png",
+      title: "Est tation latine aliquip id, mea ad tale illud definitiones. Periculis omitur necessitus eum ad, pro eripuit minimum comprehensam stet prompta reformidans.”",
+      name: "Connie Robertson",
+      occupation: "CMO at Swan Bitcoin",
+      cta: "Read customer story",
+      defualtCta: "defualt",
     },
+    imgWithContent: {
+      img: "/logos/girl.png",
+
+      count: [
+        {
+          num: "+85",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+        {
+          num: "5x",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+      ]
+    }
   },
   {
     logo: '/logos/nikon.svg',
     src: "/",
     img: "/tab-image.svg",
     content: {
-      title: "Four quam nec risus vel cursus nec",
-      blurb:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae iaculis tortor sit euismod pellentesque consequat egestas. Integer donec felis, sed tempor turpis.",
-      links: [
-        {
-          link: "Sed ut perspiciatis unde omnis",
-        },
-        {
-          link: "Voluptatem accusantium dolore laudant",
-        },
-        {
-          link: "Totam rem aperiam eaque ipsa tellus",
-        },
-      ],
-      cta: "Learn more",
+      quotationsImg: "/logos/vector.png",
+      title: "Est tation latine aliquip id, mea ad tale illud definitiones. Periculis omitur necessitus eum ad, pro eripuit minimum comprehensam stet prompta reformidans.”",
+      name: "Connie Robertson",
+      occupation: "CMO at Swan Bitcoin",
+      cta: "Read customer story",
+      defualtCta: "defualt",
     },
+    imgWithContent: {
+      img: "/logos/girl.png",
+      count: [
+        {
+          num: "+85",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+        {
+          num: "5x",
+          discription: "Lorem Ipsum Dolor Sit ",
+        },
+      ]
+    }
   },
 ];
 export default function TextImgTab() {
@@ -107,13 +126,10 @@ export default function TextImgTab() {
   useEffect(() => {
     if (typeof window !== "undefined") {
       setWindowWidth(window.innerWidth);
-
       const handleResize = () => {
         setWindowWidth(window.innerWidth);
       };
-
       window.addEventListener("resize", handleResize);
-
       return () => {
         window.removeEventListener("resize", handleResize);
       };
@@ -146,7 +162,7 @@ export default function TextImgTab() {
     left: `${border}px`,
     width: `${liwidth[activeTab]}px`,
     borderBottomLeftRadius: `${border > "0" ? "0" : "20px"}`,
-    height: `${border > "0" ? "0" : "50%"}`,
+    height: `${border > "0" ? "0" : "22px"}`,
   };
   const intro = {
     highLightedText: "Our Impact",
@@ -154,9 +170,9 @@ export default function TextImgTab() {
   }
 
   return (
-    <section className={`bg-darkBlue img-text-tab ${Style.imgTextTab}`}>
+    <section className={`bg-skyblue img-text-tab ${Style.imgTextTab}`}>
       <div className="container">
-        <IntroWithCta bg={"black"} data={intro}/>
+        <IntroWithCta bg={"white"} data={intro}/>
         <div className="tab-wrap">
           <div className="links">
             <ul
@@ -172,6 +188,9 @@ export default function TextImgTab() {
                   windowWidth < 767 ? "" : " hidden"
                 }`} onClick={() => onPhoneClick()}>
                 <div className="activeVal">{Data[activeTab].title}</div>
+                <div className={` activeVal mx-auto ${Style.logoWrap}`}>
+                      <Image className={Style.logo} width={220} height={500} src={Data[activeTab].logo} />
+                    </div>
               </div >
               <div
                 className={`flex sidesBorder flex-wrap ${
@@ -211,22 +230,25 @@ export default function TextImgTab() {
             </ul>
           </div>
           <div className="tab-content mt-[60px]">
-            <div className="flex flex-wrap">
-              <div className={` w-full md:w-3/5 pr-[20px] mb-4 mx-auto ${Style.imgWrap}`}>
-                <Image width={632} height={453} src={Data[activeTab].img} />
+            <div className="flex flex-wrap  rounded-[30px] overflow-hidden">
+            <div className="content-wrap w-full md:w-2/5 text-white bg-yello p-[50px]">
+              <div className="quotation">
+                <Image width={64} height={64} src={Data[activeTab].content.quotationsImg} /> 
               </div>
-              <div className="content-wrap w-full md:w-2/5 text-white">
-                <h3 className="">
+                <h4 className="">
                   {Data[activeTab].content.title}
-                </h3>
-                <p className="mb-[20px">{Data[activeTab].content.blurb}</p>
-                <ul className=" ml-[18px] list-disc mt-[20px]">
-                  {Data[activeTab].content.links.map((link, index) => (
-                    <li>{link.link}</li>
-                  ))}
-                </ul>
+                </h4>
+                <h4 className=" ">{Data[activeTab].content.name}</h4>
+                <span>
+                {Data[activeTab].content.occupation}
+                </span>
                 <div className="mt-5">
                   <BtnTransparent text={Data[activeTab].content.cta} />
+                </div>
+              </div>
+              <div className={`w-full md:w-3/5 pr-[20px] mb-4 mx-auto ${Style.imgWrap}`}>
+                <div className="contentWrap">
+                  <Image width={632} height={453} src={Data[activeTab].imgWithContent.img}/>
                 </div>
               </div>
             </div>
