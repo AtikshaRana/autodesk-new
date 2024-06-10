@@ -59,8 +59,7 @@ export default function page() {
         component: "CTA",
       },
     ],
-    videoUrl:
-      "https://a-us.storyblok.com/f/1018383/x/a690a8c4d5/homepage-hero-transparent-mock.webm",
+    videoUrl: "/video/homepage-hero-transparent-mock.webm",
     description: {},
   };
 

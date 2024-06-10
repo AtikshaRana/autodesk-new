@@ -8,7 +8,7 @@ export default function VideoBlock({ blok }) {
                 preload="metadata"
                 loop
                 muted
-                poster="https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png" controls
+                poster="https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png"
             >
                 <source src={blok} type="video/mp4" />
             </video>

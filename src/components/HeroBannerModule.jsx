@@ -229,9 +229,8 @@ export default function HeroBannerModule({ blok }) {
           >
             {blok?.videoUrl && (
 
-              <div className="media-wrap ml-auto max-w-[600px]" loading="lazy">
-                <VideoBlock blok={blok?.videoUrl} />
-              </div>
+              <VideoBlock blok={blok?.videoUrl} />
+
             )}
             {blok?.foregroundImg && (
               <div className="media-wrap ml-auto max-w-[600px] md:mx-auto">
