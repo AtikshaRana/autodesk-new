@@ -11,6 +11,7 @@ import CtaBannerModule from "@/components/CtaBannerModule";
 export default function page() {
   const IntroBlok = {
     alignment: "Center",
+
     backgroundColor: "Gray Gradient",
     component: "TitleSubtitleDescriptionModule",
     cta: [],
