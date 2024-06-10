@@ -9,7 +9,6 @@ import { Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 export default function QuoteModule({ blok }) {
-  console.log("QuoteModule", blok);
   const twConfig = {
     white: "bg-white",
     black: "bg-black",
