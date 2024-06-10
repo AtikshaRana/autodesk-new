@@ -1,0 +1,72 @@
+.button-primary {
+  @apply bg-black px-[20px] py-[12px] uppercase text-white outline outline-[1px] outline-black transition-all duration-300 hover:bg-iris hover:outline-iris;
+}
+.button-primary svg .cls-2 {
+  @apply stroke-white;
+}
+.button-primary.black {
+  @apply bg-white text-black outline-white hover:bg-iris hover:text-white hover:outline-iris;
+}
+.button-primary.black .cls-2 {
+  @apply !stroke-black;
+}
+.button-primary.black:hover svg .cls-2 {
+  @apply !stroke-white;
+}
+
+.button-primary-white {
+  @apply bg-white px-[20px] py-[12px] uppercase text-black outline outline-[1px] outline-white transition-all duration-200 hover:bg-iris hover:text-white hover:outline-iris;
+}
+
+.button-secondary {
+  @apply bg-transparent px-[20px]  py-[12px] uppercase text-white outline outline-[1px] outline-white transition-all duration-300 hover:outline-iris;
+}
+.button-secondary svg .cls-2 {
+  @apply stroke-white;
+}
+
+.button-secondary-with-border-black {
+  @apply bg-transparent  px-[20px] py-[12px] uppercase text-black outline outline-[1px] outline-black transition-all duration-300 hover:outline-iris;
+}
+.button-secondary-with-border-black svg .cls-2 {
+  @apply stroke-black;
+}
+
+.link-with-underline {
+  @apply py-[12px] uppercase text-black underline transition-all duration-200 hover:text-iris focus:text-iris focus:opacity-[1];
+}
+.link-with-underline::after {
+  @apply absolute bottom-[5px] left-0 h-[1px] w-full bg-black content-[""];
+}
+.link-with-underline:hover::after {
+  @apply bg-iris;
+}
+.link-with-underline.icon::after {
+  @apply w-[calc(100%-17px)];
+}
+
+.link-with-underline-white {
+  @apply py-[8px] pr-[20px] uppercase text-white transition-all duration-200 hover:text-iris hover:opacity-[0.6] focus:text-iris focus:opacity-[1];
+}
+.link-with-underline-white::after {
+  @apply absolute bottom-[5px] left-0 h-[1px] w-full bg-white content-[""];
+}
+.link-with-underline-white.icon::after {
+  @apply w-[calc(100%-17px)];
+}
+.link-with-underline-white:hover::after {
+  @apply bg-iris;
+}
+
+/* button Tertiary */
+.button-tertiary {
+  @apply px-[20px] py-[12px] uppercase text-black outline outline-[1px] outline-transparent transition-all duration-300 hover:outline-iris;
+}
+.button-tertiary.black {
+  @apply px-[20px] py-[12px] uppercase text-white outline outline-[1px] outline-transparent transition-all duration-300 hover:outline-iris;
+}
+
+.button.medium {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}

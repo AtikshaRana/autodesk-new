@@ -1,0 +1,11 @@
+export function classifyStr(str) {
+  if (str?.length > 0) return str.replace(/\s+/g, "-").toLowerCase();
+
+  return "";
+}
+
+export function modifyStr(str) {
+  if (str?.length > 0) return str.replace(/ /g, "_").toLowerCase();
+
+  return "";
+}

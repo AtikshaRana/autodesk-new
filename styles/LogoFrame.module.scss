@@ -1,9 +1,0 @@
-.img{
-    animation: scroll 60s linear infinite;
-    animation-iteration-count: infinite;
-}
-
-@keyframes scroll {
-    0% {transform: translateX(0);}
-    100% {transform: translatex(-1000%)}
-  }
