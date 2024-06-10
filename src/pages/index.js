@@ -39,8 +39,7 @@ export default function Home() {
       },
     ],
     videoUrl:
-      //"https://a-us.storyblok.com/f/1018383/x/a690a8c4d5/homepage-hero-transparent-mock.webm",
-      "",
+      "https://a-us.storyblok.com/f/1018383/x/a690a8c4d5/homepage-hero-transparent-mock.webm",
     description: {},
   };
   const IntroBlok = {
