@@ -1,0 +1,2226 @@
+{
+  "full_slug": "us/pricing/buildingconnected",
+  "content": {
+    "_uid": "0633742a-67c6-4620-8f6e-955262a98121",
+    "body": [
+      {
+        "_uid": "d95aff68-bb6c-433c-aa24-185d9cb2651a",
+        "amount": "7",
+        "margin": "",
+        "bgColor": {
+          "_uid": "ac8ae6b3-af9e-4b82-826a-694b1e05cb26",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"d95aff68-bb6c-433c-aa24-185d9cb2651a\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "ff7b3cda-91d6-42cd-8638-2f28e4149014",
+        "body": [],
+        "icon": [],
+        "title": "",
+        "variant": "",
+        "iconText": "",
+        "subtitle": "BuildingConnected Pricing",
+        "component": "titleSubtitleDescriptionModule",
+        "smallTitle": false,
+        "description": [],
+        "textAlignment": "left",
+        "subtitleProportion": "",
+        "descriptionProportion": "",
+        "_editable": "<!--#storyblok#{\"name\": \"titleSubtitleDescriptionModule\", \"space\": \"64835\", \"uid\": \"ff7b3cda-91d6-42cd-8638-2f28e4149014\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "m": "",
+        "p": "",
+        "id": "",
+        "mb": "",
+        "ml": "",
+        "mr": "",
+        "mt": "",
+        "mx": "",
+        "my": "",
+        "pb": "",
+        "pl": "",
+        "pr": "",
+        "pt": "",
+        "px": "",
+        "py": "",
+        "css": [],
+        "top": "",
+        "_uid": "c4fdca06-a24e-4902-92b5-fdaf8a4fdfc8",
+        "flex": "",
+        "left": "",
+        "clone": false,
+        "color": {
+          "_uid": "93ee14f0-360e-4d19-8984-d6963c6a7153",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "order": "",
+        "right": "",
+        "width": "auto",
+        "border": "",
+        "bottom": "",
+        "height": "auto",
+        "zIndex": "",
+        "bgColor": {
+          "_uid": "562ccbf1-4bc3-4a0d-a438-988587c129e7",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "bgImage": "",
+        "content": [
+          {
+            "_uid": "0ecb1f42-0d90-45cd-88e2-17f470aa899b",
+            "heading": "",
+            "product": "BuildingConnected",
+            "variant": "card",
+            "advanced": "",
+            "trialUrl": [],
+            "component": "pricingCardsModule",
+            "topHeight": "0",
+            "trialText": "",
+            "pricingCards": [
+              {
+                "cta": [
+                  {
+                    "_uid": "5c61ca06-e3b4-4285-9926-c3ffa201011f",
+                    "icon": "chevron_right",
+                    "size": "large",
+                    "text": "Request a Quote",
+                    "color": {
+                      "_uid": "e89c4d4d-df18-4a07-809b-94ae2762cf3e",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "b8a783e8-1dd2-4884-ae93-3e629266aeed",
+                      "color": "#1858A8",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "354907c9-366a-405a-aa0c-76ec5f1e4325",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/contact/buy-building-connected",
+                      "story": {
+                        "name": "Get Pricing - BuildingConnected",
+                        "id": 368831630,
+                        "uuid": "354907c9-366a-405a-aa0c-76ec5f1e4325",
+                        "slug": "buy-building-connected",
+                        "full_slug": "us/contact/buy-building-connected",
+                        "url": "us/contact/buy-building-connected"
+                      }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": true,
+                    "dataProduct": "buildingConnected",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "price-quote",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"5c61ca06-e3b4-4285-9926-c3ffa201011f\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "plc": "",
+                "_uid": "00771a6e-317b-44de-bada-fd4a3a8a6082",
+                "title": "BuildingConnected Pro",
+                "tooltip": [],
+                "variant": "card",
+                "advanced": "",
+                "maxWidth": "",
+                "subtitle": "Access 1.5+ million builders to invite and manage bids ",
+                "checklist": [
+                  {
+                    "_uid": "8dbb334c-996a-410d-ac44-9f3a34ea834c",
+                    "icon": {
+                      "id": 7050213,
+                      "alt": "black checkmark circle",
+                      "name": "",
+                      "focus": "",
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/3a7bc7a550/circle-check-black.svg",
+                      "copyright": "",
+                      "fieldtype": "asset",
+                      "is_external_url": false
+                    },
+                    "fontSize": "",
+                    "iconSize": "18",
+                    "component": "checklist",
+                    "checklistItems": [
+                      {
+                        "_uid": "e14e6e24-8423-427e-87c2-bbfa70f3db08",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Unlimited Builders Network access ",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"e14e6e24-8423-427e-87c2-bbfa70f3db08\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "6fd56b9b-a9c5-47ab-880f-e90fcd92d509",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Unlimited bid invites and projects ",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"6fd56b9b-a9c5-47ab-880f-e90fcd92d509\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "da7ea94d-58c6-450a-8133-77ebf7161c0c",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Bid leveling and cost comparison",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"da7ea94d-58c6-450a-8133-77ebf7161c0c\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "8d4835bb-131a-4d7c-9e52-79d1704080be",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Custom bid forms",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"8d4835bb-131a-4d7c-9e52-79d1704080be\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "bc6b767d-49d9-43cb-be2c-d2e38b9cce99",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Historical bid data and analytics",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"bc6b767d-49d9-43cb-be2c-d2e38b9cce99\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "a609ca13-ce0f-4dbf-9707-a706cb28171f",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "And more!",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"a609ca13-ce0f-4dbf-9707-a706cb28171f\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "_editable": "<!--#storyblok#{\"name\": \"checklist\", \"space\": \"64835\", \"uid\": \"8dbb334c-996a-410d-ac44-9f3a34ea834c\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "component": "pricingCard",
+                "featuredText": "",
+                "highlightColor": {
+                  "_uid": "457e7e21-cdf0-4c14-a3a6-52a087197023",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "contactMarkdown": "Only available as an annual subscription",
+                "fullyExpandable": "",
+                "titleBelowPrice": true,
+                "mobilePreviewText": "Access 1.5+ million builders to invite and manage bids",
+                "hasMobileAccordion": true,
+                "_editable": "<!--#storyblok#{\"name\": \"pricingCard\", \"space\": \"64835\", \"uid\": \"00771a6e-317b-44de-bada-fd4a3a8a6082\", \"id\": \"33773575\"}-->"
+              },
+              {
+                "cta": [
+                  {
+                    "_uid": "eccbc2a8-3367-41d1-a44f-a1d9bf359b22",
+                    "icon": "chevron_right",
+                    "size": "large",
+                    "text": "Request a Quote",
+                    "color": {
+                      "_uid": "e89c4d4d-df18-4a07-809b-94ae2762cf3e",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "b8a783e8-1dd2-4884-ae93-3e629266aeed",
+                      "color": "#1858A8",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "354907c9-366a-405a-aa0c-76ec5f1e4325",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/contact/buy-building-connected",
+                      "story": {
+                        "name": "Get Pricing - BuildingConnected",
+                        "id": 368831630,
+                        "uuid": "354907c9-366a-405a-aa0c-76ec5f1e4325",
+                        "slug": "buy-building-connected",
+                        "full_slug": "us/contact/buy-building-connected",
+                        "url": "us/contact/buy-building-connected"
+                      }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": true,
+                    "dataProduct": "buildingConnected",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "price-quote",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"eccbc2a8-3367-41d1-a44f-a1d9bf359b22\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "plc": "",
+                "_uid": "fb9355a6-6c61-4b3f-a3b9-ee4c19b0f501",
+                "title": "Bid Board Pro",
+                "tooltip": [],
+                "variant": "card",
+                "advanced": "",
+                "maxWidth": "",
+                "subtitle": "Identify new job opportunities and track bids",
+                "checklist": [
+                  {
+                    "_uid": "03206417-8536-4560-abad-f441f65e95dd",
+                    "icon": {
+                      "id": 7050213,
+                      "alt": "black checkmark circle",
+                      "name": "",
+                      "focus": "",
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/3a7bc7a550/circle-check-black.svg",
+                      "copyright": "",
+                      "fieldtype": "asset",
+                      "is_external_url": false
+                    },
+                    "fontSize": "",
+                    "iconSize": "18",
+                    "component": "checklist",
+                    "checklistItems": [
+                      {
+                        "_uid": "6bc35698-af52-48a2-b548-f9b1c22b3944",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Automated bid tracking",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"6bc35698-af52-48a2-b548-f9b1c22b3944\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "fcfba6bb-ed10-4f18-8e8e-6bd8b8f95e0d",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Bid forwarding",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"fcfba6bb-ed10-4f18-8e8e-6bd8b8f95e0d\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "0eef7810-ff94-4bbe-b7e5-a2d04156fc76",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Company-wide views",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"0eef7810-ff94-4bbe-b7e5-a2d04156fc76\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "333b2294-cca7-47a0-ab32-6d840fcc297a",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Calendar sync",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"333b2294-cca7-47a0-ab32-6d840fcc297a\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "34a88bc1-d7ab-4887-9e1c-0a9c7a92cb12",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Bid analytics and reporting",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"34a88bc1-d7ab-4887-9e1c-0a9c7a92cb12\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "a83c65ee-6719-4405-bab7-aee03d0ebed5",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "And more!",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"a83c65ee-6719-4405-bab7-aee03d0ebed5\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "_editable": "<!--#storyblok#{\"name\": \"checklist\", \"space\": \"64835\", \"uid\": \"03206417-8536-4560-abad-f441f65e95dd\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "component": "pricingCard",
+                "featuredText": "",
+                "highlightColor": {
+                  "_uid": "36b00dc4-ad43-4dff-bbac-5977c39b39ea",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "contactMarkdown": "",
+                "fullyExpandable": "",
+                "titleBelowPrice": true,
+                "mobilePreviewText": "Identify new job opportunities and track bids",
+                "hasMobileAccordion": true,
+                "_editable": "<!--#storyblok#{\"name\": \"pricingCard\", \"space\": \"64835\", \"uid\": \"fb9355a6-6c61-4b3f-a3b9-ee4c19b0f501\", \"id\": \"33773575\"}-->"
+              },
+              {
+                "cta": [
+                  {
+                    "_uid": "ae78a22b-a472-4818-a644-faf4807c26bc",
+                    "icon": "chevron_right",
+                    "size": "large",
+                    "text": "Request a Quote",
+                    "color": {
+                      "_uid": "e89c4d4d-df18-4a07-809b-94ae2762cf3e",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "b8a783e8-1dd2-4884-ae93-3e629266aeed",
+                      "color": "#1858A8",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "354907c9-366a-405a-aa0c-76ec5f1e4325",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/contact/buy-building-connected",
+                      "story": {
+                        "name": "Get Pricing - BuildingConnected",
+                        "id": 368831630,
+                        "uuid": "354907c9-366a-405a-aa0c-76ec5f1e4325",
+                        "slug": "buy-building-connected",
+                        "full_slug": "us/contact/buy-building-connected",
+                        "url": "us/contact/buy-building-connected"
+                      }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": true,
+                    "dataProduct": "buildingConnected",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "price-quote",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"ae78a22b-a472-4818-a644-faf4807c26bc\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "plc": "",
+                "_uid": "518d1c8a-c602-4106-b123-d8b3df472538",
+                "title": "TradeTapp",
+                "tooltip": [],
+                "variant": "card",
+                "advanced": "",
+                "maxWidth": "",
+                "subtitle": "Qualify and manage subcontractor financial and safety risk ",
+                "checklist": [
+                  {
+                    "_uid": "4f8334e0-ca5f-43f3-acf1-e7d2d997220a",
+                    "icon": {
+                      "id": 7050213,
+                      "alt": "black checkmark circle",
+                      "name": "",
+                      "focus": "",
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/3a7bc7a550/circle-check-black.svg",
+                      "copyright": "",
+                      "fieldtype": "asset",
+                      "is_external_url": false
+                    },
+                    "fontSize": "",
+                    "iconSize": "18",
+                    "component": "checklist",
+                    "checklistItems": [
+                      {
+                        "_uid": "e8d5718a-cc2d-4d79-99ca-0c5f68759389",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Custom questionnaires ",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"e8d5718a-cc2d-4d79-99ca-0c5f68759389\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "1e74fdc0-b132-46cf-b8d1-2097a000e5f6",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Automated risk assessment",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"1e74fdc0-b132-46cf-b8d1-2097a000e5f6\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "17b4eb88-ec2d-4f37-9201-608bb1a3a69b",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Project specific approvals",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"17b4eb88-ec2d-4f37-9201-608bb1a3a69b\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "e82ad86d-447e-49a8-b6f2-91a060c3c060",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Custom financial calculations",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"e82ad86d-447e-49a8-b6f2-91a060c3c060\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "d205c482-d8aa-4fb7-a80e-574f56b74ba2",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "Integration with ERPs and backlog",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"d205c482-d8aa-4fb7-a80e-574f56b74ba2\", \"id\": \"33773575\"}-->"
+                      },
+                      {
+                        "_uid": "408010e7-c161-4844-ac52-54fee2233b42",
+                        "color": {
+                          "_uid": "3af1efd8-4d38-4dd4-87fd-f7fb15bb7cd6",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "noIcon": false,
+                        "itemText": "And more!",
+                        "component": "checklistItem",
+                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"408010e7-c161-4844-ac52-54fee2233b42\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "_editable": "<!--#storyblok#{\"name\": \"checklist\", \"space\": \"64835\", \"uid\": \"4f8334e0-ca5f-43f3-acf1-e7d2d997220a\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "component": "pricingCard",
+                "featuredText": "",
+                "highlightColor": {
+                  "_uid": "dcd5a901-c3a8-4a4c-a62d-7fc7fc9d31a7",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "contactMarkdown": "",
+                "fullyExpandable": "",
+                "titleBelowPrice": true,
+                "mobilePreviewText": "Qualify and manage subcontractor financial and safety risk",
+                "hasMobileAccordion": true,
+                "_editable": "<!--#storyblok#{\"name\": \"pricingCard\", \"space\": \"64835\", \"uid\": \"518d1c8a-c602-4106-b123-d8b3df472538\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "verticalLayout": false,
+            "hideBillingSwitch": true,
+            "mobilePreviewText": "",
+            "hideAnnualizedPricing": false,
+            "_editable": "<!--#storyblok#{\"name\": \"pricingCardsModule\", \"space\": \"64835\", \"uid\": \"0ecb1f42-0d90-45cd-88e2-17f470aa899b\", \"id\": \"33773575\"}-->"
+          }
+        ],
+        "display": "flex",
+        "htmlTag": "div",
+        "flexGrow": "",
+        "flexWrap": "",
+        "fontSize": "",
+        "maxWidth": "initial",
+        "minWidth": "initial",
+        "overflow": "",
+        "position": "",
+        "alignSelf": "",
+        "borderTop": "",
+        "boxShadow": "",
+        "component": "box",
+        "displayLG": "",
+        "displayMD": "",
+        "displaySM": "",
+        "displayXL": "",
+        "displayXS": "",
+        "fontStyle": "",
+        "maxHeight": "initial",
+        "minHeight": "initial",
+        "textAlign": "",
+        "alignItems": "",
+        "borderLeft": "",
+        "flexShrink": "",
+        "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+        "fontWeight": "",
+        "lineHeight": "",
+        "visibility": "",
+        "whiteSpace": "",
+        "borderColor": {
+          "_uid": "88cce73a-a222-49ae-ac20-bfd4c946da04",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "borderRight": "",
+        "alignContent": "",
+        "borderBottom": "",
+        "borderRadius": "",
+        "displayPrint": "",
+        "textOverflow": "",
+        "flexDirection": "",
+        "letterSpacing": "",
+        "justifyContent": "",
+        "hasPageContainer": true,
+        "hasFixedContainer": true,
+        "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"c4fdca06-a24e-4902-92b5-fdaf8a4fdfc8\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "_uid": "9b8c7a6a-cd42-4bf7-9b8c-f6fd50a4e447",
+        "amount": "10",
+        "margin": "",
+        "bgColor": {
+          "_uid": "d3216070-5b13-40c2-8ffb-3cfda3522407",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"9b8c7a6a-cd42-4bf7-9b8c-f6fd50a4e447\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "_uid": "08f67e9d-25be-42dd-9da8-968c88b56ef8",
+        "divider": false,
+        "gapWidth": "2",
+        "noMargin": true,
+        "component": "twoColumnLayoutModule",
+        "container": "contentContainer",
+        "hasBorder": false,
+        "l10nExport": false,
+        "leftColumn": [
+          {
+            "m": "",
+            "p": "",
+            "id": "",
+            "mb": "",
+            "ml": "",
+            "mr": "",
+            "mt": "",
+            "mx": "",
+            "my": "",
+            "pb": "",
+            "pl": "",
+            "pr": "",
+            "pt": "",
+            "px": "",
+            "py": "7",
+            "css": [
+              {
+                "key": "gap",
+                "_uid": "eff5b978-038d-462c-8a9c-673fe594404f",
+                "value": "32px",
+                "component": "entry",
+                "_editable": "<!--#storyblok#{\"name\": \"entry\", \"space\": \"64835\", \"uid\": \"eff5b978-038d-462c-8a9c-673fe594404f\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "top": "",
+            "_uid": "0e29753c-7259-42ae-81ca-1d47c143ea6e",
+            "flex": "",
+            "left": "",
+            "clone": false,
+            "color": {
+              "_uid": "b8bdd743-1d95-48d4-91d5-be581868a21e",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "order": "",
+            "right": "",
+            "width": "100%",
+            "bgClip": "",
+            "bgSize": "",
+            "border": "",
+            "bottom": "",
+            "height": "100%",
+            "zIndex": "",
+            "bgColor": {
+              "_uid": "c173c3de-7736-40d8-b51b-d58a6fa8e993",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "bgImage": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset"
+            },
+            "content": [
+              {
+                "m": "",
+                "p": "",
+                "id": "",
+                "mb": "",
+                "ml": "",
+                "mr": "",
+                "mt": "",
+                "mx": "",
+                "my": "",
+                "pb": "",
+                "pl": "",
+                "pr": "",
+                "pt": "",
+                "px": "",
+                "py": "",
+                "css": [],
+                "top": "",
+                "_uid": "2afec6af-fe99-461b-9827-1db343821f2f",
+                "flex": "",
+                "left": "",
+                "clone": false,
+                "color": {
+                  "_uid": "7b054caa-4424-4fb2-8184-c47ffa89e71e",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "order": "",
+                "right": "",
+                "width": "auto",
+                "bgClip": "",
+                "bgSize": "",
+                "border": "",
+                "bottom": "",
+                "height": "auto",
+                "zIndex": "",
+                "bgColor": {
+                  "_uid": "061a7f98-2aec-4a2a-b795-4525a1a7ad3c",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "bgImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "content": [
+                  {
+                    "_uid": "dbb1b57f-b00b-49a1-b91f-df19ce47b64c",
+                    "text": "Win more business and reduce risk using ACC for Preconstruction",
+                    "align": "inherit",
+                    "color": {
+                      "_uid": "70c04959-0fce-4d00-b03e-763ac5fe8c12",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "image": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": "",
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "noWrap": false,
+                    "display": "initial",
+                    "variant": "h3",
+                    "component": "typography",
+                    "paragraph": false,
+                    "gutterBottom": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"typography\", \"space\": \"64835\", \"uid\": \"dbb1b57f-b00b-49a1-b91f-df19ce47b64c\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "display": "flex",
+                "htmlTag": "div",
+                "bgOrigin": "",
+                "bgRepeat": "",
+                "flexGrow": "",
+                "flexWrap": "",
+                "fontSize": "",
+                "maxWidth": "initial",
+                "minWidth": "initial",
+                "overflow": "",
+                "position": "",
+                "alignSelf": "",
+                "borderTop": "",
+                "boxShadow": "",
+                "component": "box",
+                "displayLG": "",
+                "displayMD": "",
+                "displaySM": "",
+                "displayXL": "",
+                "displayXS": "",
+                "fontStyle": "",
+                "maxHeight": "initial",
+                "minHeight": "initial",
+                "mobileCSS": [],
+                "tabletCSS": [
+                  {
+                    "key": "text-align",
+                    "_uid": "24b74b09-4241-4310-9ad3-e2f3d55563ee",
+                    "value": "center",
+                    "component": "entry",
+                    "_editable": "<!--#storyblok#{\"name\": \"entry\", \"space\": \"64835\", \"uid\": \"24b74b09-4241-4310-9ad3-e2f3d55563ee\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "textAlign": "",
+                "alignItems": "",
+                "bgPosition": "",
+                "borderLeft": "",
+                "flexShrink": "",
+                "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                "fontWeight": "",
+                "lineHeight": "",
+                "visibility": "",
+                "whiteSpace": "",
+                "bgBlendMode": "",
+                "borderColor": {
+                  "_uid": "eaee9ec7-5e7d-4d71-b8bf-68bf577a4da1",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "borderRight": "",
+                "alignContent": "",
+                "borderBottom": "",
+                "borderRadius": "",
+                "displayPrint": "",
+                "textOverflow": "",
+                "flexDirection": "",
+                "letterSpacing": "",
+                "justifyContent": "",
+                "optimizelyTest": {
+                  "_uid": "96d73923-a823-4e9d-b7ed-149ece1fdb78",
+                  "plugin": "optimizely",
+                  "segments": []
+                },
+                "hasPageContainer": false,
+                "hasFixedContainer": false,
+                "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"2afec6af-fe99-461b-9827-1db343821f2f\", \"id\": \"33773575\"}-->"
+              },
+              {
+                "_uid": "028ff51f-f881-47ea-bcb3-76b185079951",
+                "text": "Get access to multiple best-in-class cloud-based preconstruction solutions at one price. Centralize bid management with BuildingConnected or increase confidence in your estimates with Autodesk Takeoff and ProEst while streamlining subcontractors’ qualification with TradeTapp.  ",
+                "align": "inherit",
+                "color": {
+                  "_uid": "70c04959-0fce-4d00-b03e-763ac5fe8c12",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "image": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "noWrap": false,
+                "display": "initial",
+                "variant": "h5",
+                "component": "typography",
+                "paragraph": false,
+                "gutterBottom": false,
+                "_editable": "<!--#storyblok#{\"name\": \"typography\", \"space\": \"64835\", \"uid\": \"028ff51f-f881-47ea-bcb3-76b185079951\", \"id\": \"33773575\"}-->"
+              },
+              {
+                "m": "",
+                "p": "",
+                "id": "",
+                "mb": "",
+                "ml": "",
+                "mr": "",
+                "mt": "",
+                "mx": "",
+                "my": "",
+                "pb": "",
+                "pl": "",
+                "pr": "",
+                "pt": "",
+                "px": "",
+                "py": "0",
+                "css": [],
+                "top": "",
+                "_uid": "acbf9e1e-c76e-4a9d-9bb2-5c5d506d985a",
+                "flex": "",
+                "left": "",
+                "clone": false,
+                "color": {
+                  "_uid": "b6f75f0a-dbee-4cbd-99db-9ce1cb581185",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "order": "",
+                "right": "",
+                "width": "auto",
+                "bgClip": "",
+                "bgSize": "",
+                "border": "",
+                "bottom": "",
+                "height": "auto",
+                "zIndex": "",
+                "bgColor": {
+                  "_uid": "8738dd22-12db-4503-b87d-6ee1370d5d75",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "bgImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "content": [
+                  {
+                    "_uid": "22c70a18-15a2-4221-801d-4ad4376f7c2f",
+                    "icon": "chevron_right",
+                    "size": "extraLarge",
+                    "text": "Explore more",
+                    "color": {
+                      "_uid": "85b47941-3295-4b4a-9c6b-a64d094a6579",
+                      "color": "#000002",
+                      "plugin": "official-colorpicker"
+                    },
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "c9b696df-43fe-4ed8-b64d-cabf8d61574b",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "bc480080-d6e1-4325-9dfb-2025a3653feb",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/pricing/preconstruction",
+                      "story": {
+                        "name": "Preconstruction Bundle",
+                        "id": 275178674,
+                        "uuid": "bc480080-d6e1-4325-9dfb-2025a3653feb",
+                        "slug": "preconstruction",
+                        "full_slug": "us/pricing/preconstruction",
+                        "url": "us/pricing/preconstruction"
+                      }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "fragment": "",
+                    "analytics": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "openInNewTab": false,
+                    "alignmentButton": "left",
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"22c70a18-15a2-4221-801d-4ad4376f7c2f\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "display": "flex",
+                "htmlTag": "div",
+                "bgOrigin": "",
+                "bgRepeat": "",
+                "flexGrow": "",
+                "flexWrap": "",
+                "fontSize": "",
+                "maxWidth": "initial",
+                "minWidth": "initial",
+                "overflow": "",
+                "position": "",
+                "alignSelf": "",
+                "borderTop": "",
+                "boxShadow": "",
+                "component": "box",
+                "displayLG": "",
+                "displayMD": "",
+                "displaySM": "",
+                "displayXL": "",
+                "displayXS": "",
+                "fontStyle": "",
+                "maxHeight": "initial",
+                "minHeight": "initial",
+                "mobileCSS": [],
+                "tabletCSS": [
+                  {
+                    "key": "justify-content",
+                    "_uid": "c0842f55-cfd7-4014-ab95-70f162387927",
+                    "value": "center",
+                    "component": "entry",
+                    "_editable": "<!--#storyblok#{\"name\": \"entry\", \"space\": \"64835\", \"uid\": \"c0842f55-cfd7-4014-ab95-70f162387927\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "textAlign": "",
+                "alignItems": "",
+                "bgPosition": "",
+                "borderLeft": "",
+                "flexShrink": "",
+                "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                "fontWeight": "",
+                "lineHeight": "",
+                "visibility": "",
+                "whiteSpace": "",
+                "bgBlendMode": "",
+                "borderColor": {
+                  "_uid": "d12d2ad2-7299-4d66-aa2b-12f951f164fa",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "borderRight": "",
+                "alignContent": "",
+                "borderBottom": "",
+                "borderRadius": "",
+                "displayPrint": "",
+                "textOverflow": "",
+                "flexDirection": "",
+                "letterSpacing": "",
+                "justifyContent": "",
+                "hasPageContainer": false,
+                "hasFixedContainer": false,
+                "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"acbf9e1e-c76e-4a9d-9bb2-5c5d506d985a\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "display": "flex",
+            "htmlTag": "div",
+            "bgOrigin": "",
+            "bgRepeat": "",
+            "flexGrow": "",
+            "flexWrap": "",
+            "fontSize": "",
+            "maxWidth": "initial",
+            "minWidth": "initial",
+            "overflow": "",
+            "position": "",
+            "alignSelf": "",
+            "borderTop": "",
+            "boxShadow": "",
+            "component": "box",
+            "displayLG": "",
+            "displayMD": "",
+            "displaySM": "",
+            "displayXL": "",
+            "displayXS": "",
+            "fontStyle": "",
+            "maxHeight": "initial",
+            "minHeight": "initial",
+            "mobileCSS": [],
+            "tabletCSS": [
+              {
+                "key": "padding",
+                "_uid": "298a5479-6256-4ac1-9ede-b1c25dd8f130",
+                "value": "32px 0 0 0",
+                "component": "entry",
+                "_editable": "<!--#storyblok#{\"name\": \"entry\", \"space\": \"64835\", \"uid\": \"298a5479-6256-4ac1-9ede-b1c25dd8f130\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "textAlign": "",
+            "alignItems": "",
+            "bgPosition": "",
+            "borderLeft": "",
+            "flexShrink": "",
+            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+            "fontWeight": "",
+            "lineHeight": "",
+            "visibility": "",
+            "whiteSpace": "",
+            "bgBlendMode": "",
+            "borderColor": {
+              "_uid": "0f815ee3-880e-4479-b9a3-ef6bf716f5b9",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "borderRight": "",
+            "alignContent": "",
+            "borderBottom": "",
+            "borderRadius": "",
+            "displayPrint": "",
+            "textOverflow": "",
+            "flexDirection": "column",
+            "letterSpacing": "",
+            "justifyContent": "flex-start",
+            "optimizelyTest": {
+              "_uid": "3c8f01e9-a1b2-44b9-9d8b-fd70b1dd20c2",
+              "plugin": "optimizely",
+              "segments": []
+            },
+            "hasPageContainer": false,
+            "hasFixedContainer": false,
+            "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"0e29753c-7259-42ae-81ca-1d47c143ea6e\", \"id\": \"33773575\"}-->"
+          }
+        ],
+        "leftBgColor": {
+          "_uid": "0c5d4aa4-5d88-435a-9ade-cf8f25b399e2",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "rightColumn": [
+          {
+            "m": "",
+            "p": "",
+            "id": "",
+            "mb": "",
+            "ml": "",
+            "mr": "",
+            "mt": "",
+            "mx": "",
+            "my": "",
+            "pb": "",
+            "pl": "",
+            "pr": "",
+            "pt": "",
+            "px": "",
+            "py": "7",
+            "css": [],
+            "top": "",
+            "_uid": "f0a8b77d-2260-46fe-a27b-8daea31318ec",
+            "flex": "",
+            "left": "",
+            "clone": false,
+            "color": {
+              "_uid": "065dabcd-be5f-4bad-9bd0-e573701a849c",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "order": "",
+            "right": "",
+            "width": "auto",
+            "bgClip": "",
+            "bgSize": "",
+            "border": "",
+            "bottom": "",
+            "height": "100%",
+            "zIndex": "",
+            "bgColor": {
+              "_uid": "302ab355-8c72-4934-a6d7-216aeca3eb0b",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "bgImage": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset"
+            },
+            "content": [
+              {
+                "m": "",
+                "p": "",
+                "id": "",
+                "mb": "",
+                "ml": "",
+                "mr": "",
+                "mt": "",
+                "mx": "",
+                "my": "",
+                "pb": "",
+                "pl": "",
+                "pr": "",
+                "pt": "",
+                "px": "",
+                "py": "",
+                "css": [],
+                "top": "",
+                "_uid": "9c55065f-29da-44b3-943f-a8aa2b7b7626",
+                "flex": "",
+                "left": "",
+                "clone": false,
+                "color": {
+                  "_uid": "b51318a1-a400-4d6f-9c88-0bdb3daffc0e",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "order": "",
+                "right": "",
+                "width": "auto",
+                "bgClip": "",
+                "bgSize": "",
+                "border": "",
+                "bottom": "",
+                "height": "auto",
+                "zIndex": "",
+                "bgColor": {
+                  "_uid": "5e16f8fe-9356-4c98-b8f7-48405c23fba9",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "bgImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "content": [
+                  {
+                    "_uid": "fa3f52e0-7c4b-42ca-a6b1-bca11b1eb29e",
+                    "text": "Products Included:",
+                    "align": "inherit",
+                    "color": {
+                      "_uid": "fb9d312a-2067-4825-bfc4-9bee4d282e46",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "image": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": "",
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "noWrap": false,
+                    "display": "initial",
+                    "variant": "body1",
+                    "component": "typography",
+                    "paragraph": false,
+                    "gutterBottom": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"typography\", \"space\": \"64835\", \"uid\": \"fa3f52e0-7c4b-42ca-a6b1-bca11b1eb29e\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "1427ee54-fbd1-4a25-a0fd-90365c5be1cb",
+                    "amount": "3",
+                    "margin": "",
+                    "bgColor": {
+                      "_uid": "c4aaf1c3-559f-49fa-9430-d1c0776d8673",
+                      "color": "",
+                      "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"1427ee54-fbd1-4a25-a0fd-90365c5be1cb\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "93552eba-b37d-49c8-ad63-01a30fd482ff",
+                    "icon": [
+                      {
+                        "_uid": "ece8e821-0cae-42aa-bf40-5d4d5e6d3645",
+                        "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                        "title": "",
+                        "width": "",
+                        "height": "",
+                        "altText": "",
+                        "maxWidth": "",
+                        "minWidth": "",
+                        "component": "image",
+                        "maxHeight": "",
+                        "minHeight": "",
+                        "objectFit": "contain",
+                        "objectPosition": "",
+                        "advancedSettings": "",
+                        "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"ece8e821-0cae-42aa-bf40-5d4d5e6d3645\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "link": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "iconSvg": "",
+                    "subLink": [],
+                    "variant": "breadcrumbLink",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "Autodesk Takeoff",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"93552eba-b37d-49c8-ad63-01a30fd482ff\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "610c4bf2-5f09-431b-a125-3704f0ab2ad0",
+                    "amount": "1",
+                    "margin": "",
+                    "bgColor": {
+                      "_uid": "c4aaf1c3-559f-49fa-9430-d1c0776d8673",
+                      "color": "",
+                      "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"610c4bf2-5f09-431b-a125-3704f0ab2ad0\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "4060efb6-69e1-417e-afb7-6a91405b9f08",
+                    "icon": [
+                      {
+                        "_uid": "aa2f711f-1898-4b45-938e-168dd2502163",
+                        "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                        "title": "",
+                        "width": "",
+                        "height": "",
+                        "altText": "",
+                        "maxWidth": "",
+                        "minWidth": "",
+                        "component": "image",
+                        "maxHeight": "",
+                        "minHeight": "",
+                        "objectFit": "contain",
+                        "objectPosition": "",
+                        "advancedSettings": "",
+                        "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"aa2f711f-1898-4b45-938e-168dd2502163\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "link": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "iconSvg": "",
+                    "subLink": [],
+                    "variant": "breadcrumbLink",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "Autodesk Docs",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"4060efb6-69e1-417e-afb7-6a91405b9f08\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "0967b25b-22b3-4e86-a359-775d758cef98",
+                    "amount": "1",
+                    "margin": "",
+                    "bgColor": {
+                      "_uid": "c4aaf1c3-559f-49fa-9430-d1c0776d8673",
+                      "color": "",
+                      "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"0967b25b-22b3-4e86-a359-775d758cef98\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "f4bbd916-461d-4fba-bb64-e28878ae5e5b",
+                    "icon": [
+                      {
+                        "_uid": "5f679d91-ea46-4f87-86cf-5794abd648ba",
+                        "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                        "title": "",
+                        "width": "",
+                        "height": "",
+                        "altText": "",
+                        "maxWidth": "",
+                        "minWidth": "",
+                        "component": "image",
+                        "maxHeight": "",
+                        "minHeight": "",
+                        "objectFit": "contain",
+                        "objectPosition": "",
+                        "advancedSettings": "",
+                        "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"5f679d91-ea46-4f87-86cf-5794abd648ba\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "link": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "iconSvg": "",
+                    "subLink": [],
+                    "variant": "breadcrumbLink",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "BuildingConnected Pro",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"f4bbd916-461d-4fba-bb64-e28878ae5e5b\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "721a7941-fd7c-4027-bf27-edd2ae29cbcf",
+                    "amount": "1",
+                    "margin": "",
+                    "bgColor": {
+                      "_uid": "c4aaf1c3-559f-49fa-9430-d1c0776d8673",
+                      "color": "",
+                      "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"721a7941-fd7c-4027-bf27-edd2ae29cbcf\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "4ab74d7a-cd54-49d0-9c77-ca17e7c76624",
+                    "icon": [
+                      {
+                        "_uid": "2786b658-6b84-4e87-b36b-57b445981573",
+                        "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                        "title": "",
+                        "width": "",
+                        "height": "",
+                        "altText": "",
+                        "maxWidth": "",
+                        "minWidth": "",
+                        "component": "image",
+                        "maxHeight": "",
+                        "minHeight": "",
+                        "objectFit": "contain",
+                        "objectPosition": "",
+                        "advancedSettings": "",
+                        "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"2786b658-6b84-4e87-b36b-57b445981573\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "link": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "iconSvg": "",
+                    "subLink": [],
+                    "variant": "breadcrumbLink",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "BidBoard Pro",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"4ab74d7a-cd54-49d0-9c77-ca17e7c76624\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "5ab54af6-cc49-4440-bf52-5c25bda69fdd",
+                    "amount": "1",
+                    "margin": "",
+                    "bgColor": {
+                      "_uid": "c4aaf1c3-559f-49fa-9430-d1c0776d8673",
+                      "color": "",
+                      "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"5ab54af6-cc49-4440-bf52-5c25bda69fdd\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "e366611f-56e7-42b4-b65e-208c139a1c2a",
+                    "icon": [
+                      {
+                        "_uid": "fa0a71db-f977-48bd-acbb-4947bf2e0dd2",
+                        "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                        "title": "",
+                        "width": "",
+                        "height": "",
+                        "altText": "",
+                        "maxWidth": "",
+                        "minWidth": "",
+                        "component": "image",
+                        "maxHeight": "",
+                        "minHeight": "",
+                        "objectFit": "contain",
+                        "objectPosition": "",
+                        "advancedSettings": "",
+                        "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"fa0a71db-f977-48bd-acbb-4947bf2e0dd2\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "link": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "iconSvg": "",
+                    "subLink": [],
+                    "variant": "breadcrumbLink",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "ProEst",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"e366611f-56e7-42b4-b65e-208c139a1c2a\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "8e02101d-35c8-4314-b42c-e8dc183cd51e",
+                    "amount": "1",
+                    "margin": "",
+                    "bgColor": {
+                      "_uid": "c4aaf1c3-559f-49fa-9430-d1c0776d8673",
+                      "color": "",
+                      "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"8e02101d-35c8-4314-b42c-e8dc183cd51e\", \"id\": \"33773575\"}-->"
+                  },
+                  {
+                    "_uid": "d4297419-f9af-4b37-aecb-bae543d287e5",
+                    "icon": [
+                      {
+                        "_uid": "fe9293dd-6c68-46c2-b433-c006300f24cf",
+                        "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                        "title": "",
+                        "width": "",
+                        "height": "",
+                        "altText": "",
+                        "maxWidth": "",
+                        "minWidth": "",
+                        "component": "image",
+                        "maxHeight": "",
+                        "minHeight": "",
+                        "objectFit": "contain",
+                        "objectPosition": "",
+                        "advancedSettings": "",
+                        "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"fe9293dd-6c68-46c2-b433-c006300f24cf\", \"id\": \"33773575\"}-->"
+                      }
+                    ],
+                    "link": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "iconSvg": "",
+                    "subLink": [],
+                    "variant": "breadcrumbLink",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "TradeTapp",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"d4297419-f9af-4b37-aecb-bae543d287e5\", \"id\": \"33773575\"}-->"
+                  }
+                ],
+                "display": "flex",
+                "htmlTag": "div",
+                "bgOrigin": "",
+                "bgRepeat": "",
+                "flexGrow": "",
+                "flexWrap": "",
+                "fontSize": "",
+                "maxWidth": "initial",
+                "minWidth": "initial",
+                "overflow": "",
+                "position": "",
+                "alignSelf": "",
+                "borderTop": "",
+                "boxShadow": "",
+                "component": "box",
+                "displayLG": "",
+                "displayMD": "",
+                "displaySM": "",
+                "displayXL": "",
+                "displayXS": "",
+                "fontStyle": "",
+                "maxHeight": "initial",
+                "minHeight": "initial",
+                "mobileCSS": [],
+                "tabletCSS": [],
+                "textAlign": "",
+                "alignItems": "",
+                "bgPosition": "",
+                "borderLeft": "",
+                "flexShrink": "",
+                "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                "fontWeight": "",
+                "lineHeight": "",
+                "visibility": "",
+                "whiteSpace": "",
+                "bgBlendMode": "",
+                "borderColor": {
+                  "_uid": "e709e153-4372-44fe-837f-3ce4846bd2b6",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "borderRight": "",
+                "alignContent": "",
+                "borderBottom": "",
+                "borderRadius": "",
+                "displayPrint": "",
+                "textOverflow": "",
+                "flexDirection": "column",
+                "letterSpacing": "",
+                "justifyContent": "",
+                "optimizelyTest": {
+                  "_uid": "7b0f5cde-1ac2-4910-8ce5-16d0e2298e96",
+                  "plugin": "optimizely",
+                  "segments": []
+                },
+                "hasPageContainer": false,
+                "hasFixedContainer": false,
+                "backgroundImageAttributes": "",
+                "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"9c55065f-29da-44b3-943f-a8aa2b7b7626\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "display": "flex",
+            "htmlTag": "div",
+            "bgOrigin": "",
+            "bgRepeat": "",
+            "flexGrow": "",
+            "flexWrap": "",
+            "fontSize": "",
+            "maxWidth": "initial",
+            "minWidth": "initial",
+            "overflow": "",
+            "position": "",
+            "alignSelf": "",
+            "borderTop": "",
+            "boxShadow": "",
+            "component": "box",
+            "displayLG": "",
+            "displayMD": "",
+            "displaySM": "",
+            "displayXL": "",
+            "displayXS": "",
+            "fontStyle": "",
+            "maxHeight": "initial",
+            "minHeight": "initial",
+            "mobileCSS": [],
+            "tabletCSS": [
+              {
+                "key": "padding",
+                "_uid": "f6abef2b-1115-41ee-b2b9-b7d5995a3cbf",
+                "value": "0 0 32px 0",
+                "component": "entry",
+                "_editable": "<!--#storyblok#{\"name\": \"entry\", \"space\": \"64835\", \"uid\": \"f6abef2b-1115-41ee-b2b9-b7d5995a3cbf\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "textAlign": "",
+            "alignItems": "center",
+            "bgPosition": "",
+            "borderLeft": "",
+            "flexShrink": "",
+            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+            "fontWeight": "",
+            "lineHeight": "",
+            "visibility": "",
+            "whiteSpace": "",
+            "bgBlendMode": "",
+            "borderColor": {
+              "_uid": "39f2bd65-00be-4b2f-b8dc-8ce4bbf1eb73",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "borderRight": "",
+            "alignContent": "",
+            "borderBottom": "",
+            "borderRadius": "",
+            "displayPrint": "",
+            "textOverflow": "",
+            "flexDirection": "column",
+            "letterSpacing": "",
+            "justifyContent": "center",
+            "optimizelyTest": {
+              "_uid": "bb497fda-9c4c-44c5-ba26-2e250df241a5",
+              "plugin": "optimizely",
+              "segments": []
+            },
+            "hasPageContainer": false,
+            "hasFixedContainer": false,
+            "backgroundImageAttributes": "",
+            "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"f0a8b77d-2260-46fe-a27b-8daea31318ec\", \"id\": \"33773575\"}-->"
+          }
+        ],
+        "leftColWidth": "60",
+        "rightBgColor": {
+          "_uid": "68b75d6d-401b-4186-8928-fae6878f4b5e",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "backgroundImage": {
+          "id": 7052837,
+          "alt": "construction-skyline-bg",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "filename": "https://a.storyblok.com/f/64835/2880x1028/d7b04cdbe1/construction-skyline-bg.jpg",
+          "copyright": "",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "leftFlowsToBottom": false,
+        "backgroundAppliesTo": "page-container",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColumnLayoutModule\", \"space\": \"64835\", \"uid\": \"08f67e9d-25be-42dd-9da8-968c88b56ef8\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "_uid": "61406613-3e39-471b-8e6d-74566d445524",
+        "amount": "4",
+        "margin": "",
+        "bgColor": {
+          "_uid": "d2bb398f-0b29-4194-aad6-46ee68067cc5",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"61406613-3e39-471b-8e6d-74566d445524\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "74513050-027b-4694-a6ac-855fad672fa6",
+        "cards": [
+          {
+            "cta": [],
+            "_uid": "09e0867a-1229-4e7e-8b5a-1fc0f5b2ee29",
+            "title": "Project access anywhere ",
+            "image1": [
+              {
+                "_uid": "f6ad9cf1-25fe-40e6-ab5f-4eacd6327ad7",
+                "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                "width": "60",
+                "height": "",
+                "maxWidth": "60",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"f6ad9cf1-25fe-40e6-ab5f-4eacd6327ad7\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "image2": [],
+            "Advanced": "",
+            "alignment": "center",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "37011cf1-0acc-4743-8a75-b670c88ed85c",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Complete tasks effortlessly with a best-in-class mobile app built for the field.",
+            "noDescMargin": true,
+            "moreLinkSpace": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": true,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"09e0867a-1229-4e7e-8b5a-1fc0f5b2ee29\", \"id\": \"33773575\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "abfdadfc-c2bb-4063-9b18-c29c5bdb3a83",
+            "title": "Flexible to meet your needs",
+            "image1": [
+              {
+                "_uid": "40593c1c-3411-4e63-9d4d-88e74ccf30c3",
+                "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                "width": "60",
+                "height": "",
+                "maxWidth": "60",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"40593c1c-3411-4e63-9d4d-88e74ccf30c3\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "image2": [],
+            "Advanced": "",
+            "alignment": "center",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "c49ca400-fec4-45d0-88e7-2f971341a40e",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "columnAlign": "",
+            "description": "We can support your business needs with our flexible user, project, and account-based pricing.",
+            "noDescMargin": true,
+            "moreLinkSpace": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": true,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"abfdadfc-c2bb-4063-9b18-c29c5bdb3a83\", \"id\": \"33773575\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "e0c10bad-7c58-46d0-923f-057e6a2301cd",
+            "title": "Help when you need it",
+            "image1": [
+              {
+                "_uid": "37ca8cf5-85fd-4dcf-a5fe-88cba2380b89",
+                "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                "width": "60",
+                "height": "",
+                "maxWidth": "60",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"37ca8cf5-85fd-4dcf-a5fe-88cba2380b89\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "image2": [],
+            "Advanced": "",
+            "alignment": "center",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "3080d398-972a-46a4-ae79-c91c7f1fa99e",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Your success is our top priority. Our expert support team is there for you 24hrs a day M-F.",
+            "noDescMargin": true,
+            "moreLinkSpace": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": true,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"e0c10bad-7c58-46d0-923f-057e6a2301cd\", \"id\": \"33773575\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "3755b571-3649-4a5b-95b6-70c2e0e497e2",
+            "title": "Safe and secure",
+            "image1": [
+              {
+                "_uid": "1e0948e1-53e8-4b16-b0c7-22957f63a813",
+                "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                "title": "",
+                "width": "60",
+                "height": "",
+                "altText": "",
+                "maxWidth": "60",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"1e0948e1-53e8-4b16-b0c7-22957f63a813\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "image2": [],
+            "Advanced": "",
+            "alignment": "center",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "046fbd68-3fe0-42d2-9dc2-3b48356be42c",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Your data is secure with us. Autodesk Construction Cloud has enterprise-grade security.",
+            "noDescMargin": true,
+            "moreLinkSpace": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": true,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"3755b571-3649-4a5b-95b6-70c2e0e497e2\", \"id\": \"33773575\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "f2e79aa4-948c-41d2-81c0-e90976a49a3c",
+            "title": "Training that fits your schedule",
+            "image1": [
+              {
+                "_uid": "7cb31e3e-df3f-402b-8c7d-793517ff1f22",
+                "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                "width": "60",
+                "height": "",
+                "maxWidth": "60",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"7cb31e3e-df3f-402b-8c7d-793517ff1f22\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "image2": [],
+            "Advanced": "",
+            "alignment": "center",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "3dc9203b-a0b2-40e9-8bb5-7bd70b091ff7",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "We know your time is precious. Learn Autodesk Construction Cloud with free, 5-minute videos.",
+            "noDescMargin": true,
+            "moreLinkSpace": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": true,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"f2e79aa4-948c-41d2-81c0-e90976a49a3c\", \"id\": \"33773575\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "1b4f479d-07e9-43c5-9d39-5491f2055708",
+            "title": "Expert services for success",
+            "image1": [
+              {
+                "_uid": "21124cf6-9e66-4ade-80f4-dc3c087c55f6",
+                "image": "//a.storyblok.com/f/64835/x/8641645f53/outlined-circle-check-purple.svg",
+                "width": "60",
+                "height": "",
+                "maxWidth": "60",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"21124cf6-9e66-4ade-80f4-dc3c087c55f6\", \"id\": \"33773575\"}-->"
+              }
+            ],
+            "image2": [],
+            "Advanced": "",
+            "alignment": "center",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "17bb5281-f9c8-4c47-aa04-88aeac6b73a5",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Need extra support? Our delivery services team is ready to help your business succeed.",
+            "noDescMargin": true,
+            "moreLinkSpace": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": true,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"1b4f479d-07e9-43c5-9d39-5491f2055708\", \"id\": \"33773575\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "2c437e9a-77b6-422d-9194-f10738aede4b",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "title": "Leverage the power of Autodesk Construction Cloud",
+        "clearBg": false,
+        "advanced": "",
+        "maxWidth": "",
+        "subtitle": "",
+        "variants": "default",
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "eyebrowLabel": "",
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "b3d55be3-9ef3-4f36-b250-7eca49dc488e",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"74513050-027b-4694-a6ac-855fad672fa6\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "_uid": "596fb1a0-985c-495e-9f26-dddf36a8ca48",
+        "amount": "5",
+        "margin": "",
+        "bgColor": {
+          "_uid": "d2bb398f-0b29-4194-aad6-46ee68067cc5",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"596fb1a0-985c-495e-9f26-dddf36a8ca48\", \"id\": \"33773575\"}-->"
+      },
+      {
+        "_uid": "41ef6a07-1a33-4a51-b617-6c758eadd101",
+        "icon": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "link": [],
+        "button": [
+          {
+            "_uid": "6bfc2c14-730d-491c-afd6-28712f0254d3",
+            "icon": "chevron_right",
+            "size": "large",
+            "text": "Contact sales",
+            "color": {
+              "_uid": "c9839218-dd20-4361-89d4-40bb3b103601",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "modal": [],
+            "params": "",
+            "bgColor": {
+              "_uid": "10aa17bf-6817-4a31-a72a-9f76a85ad6e9",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "linksTo": {
+              "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+              "url": "",
+              "_uid": "835c34bc-51e7-422e-aef0-8047c76f6fab",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "us/contact/",
+              "story": {
+                "name": "Contact Us 2.5",
+                "id": 216790104,
+                "uuid": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                "slug": "contact",
+                "full_slug": "us/contact/",
+                "url": "us/contact/"
+              }
+            },
+            "variant": "contained",
+            "disabled": false,
+            "dropdown": [],
+            "fragment": "",
+            "component": "button",
+            "fullWidth": false,
+            "dataProduct": "buildingConnected",
+            "modalIsDark": false,
+            "openInNewTab": false,
+            "dataAnalytics": "cta-demo",
+            "alignmentButton": "left",
+            "forwardUTMParams": false,
+            "anchorLinkIsInvisible": false,
+            "isButtonAssetDownload": false,
+            "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"6bfc2c14-730d-491c-afd6-28712f0254d3\", \"id\": \"33773575\"}-->"
+          }
+        ],
+        "variant": "darkGreyPricing",
+        "headline": "### Have questions or need pricing on additional products? \n\n\n",
+        "component": "ctaBannerModule",
+        "backgroundImage": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "markdownHeadline": "",
+        "_editable": "<!--#storyblok#{\"name\": \"ctaBannerModule\", \"space\": \"64835\", \"uid\": \"41ef6a07-1a33-4a51-b617-6c758eadd101\", \"id\": \"33773575\"}-->"
+      }
+    ],
+    "config": [],
+    "subNav": "",
+    "typFor": {
+      "id": "",
+      "url": "",
+      "linktype": "story",
+      "fieldtype": "multilink",
+      "cached_url": ""
+    },
+    "noIndex": false,
+    "variant": "default",
+    "metaData": {
+      "_uid": "f3a9f81f-11bb-48b8-a594-8299cf3e8c91",
+      "title": "BuildingConnected Pricing | Autodesk Construction Cloud",
+      "plugin": "seo_metatags",
+      "og_image": "",
+      "og_title": "",
+      "description": "Explore pricing for BuildingConnected to streamline bid and risk management with tools that leverage the largest network of construction professionals.",
+      "twitter_image": "",
+      "twitter_title": "",
+      "og_description": "",
+      "twitter_description": ""
+    },
+    "component": "page",
+    "framework": "gatsby",
+    "passwords": [],
+    "topNavCTA": [],
+    "l10nExport": true,
+    "dataProduct": "",
+    "headerImage": [],
+    "invertedNav": false,
+    "topNavPhone": "",
+    "wistiaVideo": [],
+    "removeSubNav": false,
+    "canonicalPage": "",
+    "isLandingPage": false,
+    "redirectModal": "",
+    "swapLogoNavLP": "",
+    "conversionType": "",
+    "customNavLogin": [],
+    "customTopBanner": [],
+    "exitIntentModal": [],
+    "passwordProtect": false,
+    "removeBottomNav": false,
+    "removeTopBanner": false,
+    "removeNavLogoLink": false,
+    "_editable": "<!--#storyblok#{\"name\": \"page\", \"space\": \"64835\", \"uid\": \"0633742a-67c6-4620-8f6e-955262a98121\", \"id\": \"33773575\"}-->"
+  }
+}

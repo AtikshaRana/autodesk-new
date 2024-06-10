@@ -1,0 +1,2976 @@
+{
+  "full_slug": "us/products/autodesk-build",
+  "content": {
+    "_uid": "5195e14d-de5a-438e-8fe7-8b952b39dd20",
+    "body": [
+      {
+        "m": "",
+        "p": "",
+        "id": "mutinizeme",
+        "mb": "",
+        "ml": "",
+        "mr": "",
+        "mt": "",
+        "mx": "",
+        "my": "",
+        "pb": "",
+        "pl": "",
+        "pr": "",
+        "pt": "",
+        "px": "",
+        "py": "",
+        "css": [],
+        "top": "",
+        "_uid": "6172066d-cefc-4ce5-b57a-f5fe66426510",
+        "flex": "",
+        "left": "",
+        "clone": false,
+        "color": {
+          "_uid": "4b3bde1d-e949-4957-a020-37b5390d54bb",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "order": "",
+        "right": "",
+        "width": "auto",
+        "border": "",
+        "bottom": "",
+        "height": "auto",
+        "zIndex": "",
+        "bgColor": {
+          "_uid": "391fceef-2459-44b9-be47-d6a2460f0add",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "bgImage": "",
+        "content": [
+          {
+            "_uid": "f34c3394-e65d-4269-b682-263e3cb6004f",
+            "title": "Connect field and project management workflows.",
+            "video": "",
+            "button": [
+              {
+                "_uid": "687abd6e-32f4-48fa-a651-26ac2a53f3ef",
+                "icon": "chevron_right",
+                "size": "extraLarge",
+                "text": "Get a Demo",
+                "color": {
+                  "_uid": "1693ec56-09e4-4d69-ba09-063cf86fb39f",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "modal": [],
+                "params": "",
+                "bgColor": {
+                  "_uid": "da53ef54-5d28-4556-b6a5-651e983f185c",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/contact/"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "dropdown": [],
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "dataProduct": "build",
+                "modalIsDark": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-demo",
+                "alignmentButton": "left",
+                "forwardUTMParams": true,
+                "mutinyConversion": "",
+                "anchorLinkIsInvisible": false,
+                "isButtonAssetDownload": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"687abd6e-32f4-48fa-a651-26ac2a53f3ef\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "bgImage": [],
+            "topLogo": "//a.storyblok.com/f/64835/165x71/b5ad4fab3f/b-build.svg",
+            "variant": "default",
+            "appLinks": [],
+            "infoText": "",
+            "alertText": "Project Management Software for Construction ",
+            "boldTitle": true,
+            "component": "heroFrame",
+            "titleSize": "medium",
+            "description": "Seamlessly collaborate and deliver  projects on time, on budget with construction project and field management software.",
+            "bgImageAlign": "",
+            "moduleHeight": "",
+            "secondaryCTA": [
+              {
+                "id": "watch-video-modal-build",
+                "_uid": "2cee656c-afc7-4829-9079-b6991c422056",
+                "control": [
+                  {
+                    "_uid": "57097db9-c8b5-4d40-afa1-790d7f8a7537",
+                    "text": "Watch Video",
+                    "button": [
+                      {
+                        "_uid": "19d12a80-5ac9-441d-9ad2-f6c113437da9",
+                        "icon": "play_arrow",
+                        "size": "extraLarge",
+                        "text": "Watch Video",
+                        "color": {
+                          "_uid": "6f5f5768-e6a5-4d97-a869-f0802fb8d2c3",
+                          "color": "#FFFFFF",
+                          "plugin": "official-colorpicker"
+                        },
+                        "modal": [],
+                        "params": "",
+                        "bgColor": {
+                          "_uid": "ec60a1a4-63ef-42b9-9132-93853ffbf062",
+                          "color": "",
+                          "plugin": "official-colorpicker"
+                        },
+                        "linksTo": {
+                          "id": "",
+                          "url": "",
+                          "_uid": "53226171-8bb4-44ed-92b5-58c2fc259830",
+                          "anchor": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": ""
+                        },
+                        "variant": "text",
+                        "disabled": false,
+                        "dropdown": [],
+                        "fragment": "",
+                        "component": "button",
+                        "fullWidth": false,
+                        "dataProduct": "",
+                        "modalIsDark": false,
+                        "openInNewTab": false,
+                        "dataAnalytics": "",
+                        "alignmentButton": "left",
+                        "forwardUTMParams": false,
+                        "anchorLinkIsInvisible": false,
+                        "isButtonAssetDownload": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"19d12a80-5ac9-441d-9ad2-f6c113437da9\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "wistiaId": "av6ew3hbvr",
+                    "component": "wistiaLink",
+                    "contentToHyperlink": [],
+                    "_editable": "<!--#storyblok#{\"name\": \"wistiaLink\", \"space\": \"64835\", \"uid\": \"57097db9-c8b5-4d40-afa1-790d7f8a7537\", \"id\": \"24224940\"}-->"
+                  }
+                ],
+                "component": "abTest",
+                "variations": [
+                  {
+                    "id": "variation-a",
+                    "_uid": "7e664912-8655-4704-a83e-7b478b05a150",
+                    "content": [
+                      {
+                        "_uid": "ebc56ded-e888-4da7-9cd5-648392f00dc6",
+                        "icon": "play_arrow",
+                        "size": "extraLarge",
+                        "text": "Watch Video",
+                        "color": {
+                          "_uid": "85b47941-3295-4b4a-9c6b-a64d094a6579",
+                          "color": "#FFFFFF",
+                          "plugin": "official-colorpicker"
+                        },
+                        "modal": [
+                          {
+                            "_uid": "7ec01895-d14d-459a-bfa7-687ca5073c09",
+                            "intro": "",
+                            "title": "",
+                            "component": "wistiaVideoModule",
+                            "description": "",
+                            "hasContainer": false,
+                            "isGatedVideo": false,
+                            "wistiaVideoId": "av6ew3hbvr",
+                            "introDescription": "",
+                            "_editable": "<!--#storyblok#{\"name\": \"wistiaVideoModule\", \"space\": \"64835\", \"uid\": \"7ec01895-d14d-459a-bfa7-687ca5073c09\", \"id\": \"24224940\"}-->"
+                          },
+                          {
+                            "_uid": "84eb3bb5-ecc3-487d-bb68-4748d9a807af",
+                            "amount": "3",
+                            "margin": "",
+                            "bgColor": {
+                              "_uid": "fa07227c-70be-4e59-86cc-b5f6c65caa41",
+                              "color": "#E7E7E7",
+                              "plugin": "official-colorpicker"
+                            },
+                            "padding": "",
+                            "anchorId": "",
+                            "component": "spacing",
+                            "isFullWidth": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"84eb3bb5-ecc3-487d-bb68-4748d9a807af\", \"id\": \"24224940\"}-->"
+                          },
+                          {
+                            "m": "",
+                            "p": "",
+                            "id": "",
+                            "mb": "",
+                            "ml": "",
+                            "mr": "",
+                            "mt": "",
+                            "mx": "",
+                            "my": "",
+                            "pb": "",
+                            "pl": "",
+                            "pr": "",
+                            "pt": "",
+                            "px": "",
+                            "py": "",
+                            "css": [],
+                            "top": "",
+                            "_uid": "1ee66a1f-b694-4609-b776-993ef21f3935",
+                            "flex": "",
+                            "left": "",
+                            "clone": false,
+                            "color": {
+                              "_uid": "38de913a-330d-4dd8-b786-23912e49f959",
+                              "color": "",
+                              "plugin": "official-colorpicker"
+                            },
+                            "order": "",
+                            "right": "",
+                            "width": "1024px",
+                            "bgClip": "",
+                            "bgSize": "",
+                            "border": "",
+                            "bottom": "",
+                            "height": "auto",
+                            "zIndex": "",
+                            "bgColor": {
+                              "_uid": "1acda95f-c49b-4f96-b3bd-aa481f3adb1f",
+                              "color": "",
+                              "plugin": "official-colorpicker"
+                            },
+                            "bgImage": {
+                              "id": null,
+                              "alt": null,
+                              "name": "",
+                              "focus": null,
+                              "title": null,
+                              "filename": "",
+                              "copyright": null,
+                              "fieldtype": "asset"
+                            },
+                            "content": [
+                              {
+                                "_uid": "042fca26-2e03-44d0-90af-b4a293844d6b",
+                                "divider": false,
+                                "gapWidth": "1",
+                                "noMargin": true,
+                                "component": "twoColumnLayoutModule",
+                                "container": "fullWidth",
+                                "hasBorder": false,
+                                "l10nExport": false,
+                                "leftColumn": [
+                                  {
+                                    "_uid": "4363de2a-e95c-43fc-8f48-8dfdbafe3251",
+                                    "text": "Easy-to-use project management software.\n",
+                                    "align": "inherit",
+                                    "color": {
+                                      "_uid": "0b32e68f-6ddf-46e4-be62-545703700f64",
+                                      "color": "",
+                                      "plugin": "official-colorpicker"
+                                    },
+                                    "image": {
+                                      "id": null,
+                                      "alt": null,
+                                      "name": "",
+                                      "focus": null,
+                                      "title": null,
+                                      "filename": "",
+                                      "copyright": null,
+                                      "fieldtype": "asset"
+                                    },
+                                    "noWrap": false,
+                                    "display": "initial",
+                                    "variant": "h4",
+                                    "component": "typography",
+                                    "paragraph": false,
+                                    "gutterBottom": false,
+                                    "_editable": "<!--#storyblok#{\"name\": \"typography\", \"space\": \"64835\", \"uid\": \"4363de2a-e95c-43fc-8f48-8dfdbafe3251\", \"id\": \"24224940\"}-->"
+                                  },
+                                  {
+                                    "_uid": "825f8b71-f1f5-4089-92df-71bb417b2aa4",
+                                    "amount": ".5",
+                                    "margin": "",
+                                    "bgColor": {
+                                      "_uid": "2682ab51-c427-4094-ae95-e653f8d28142",
+                                      "color": "",
+                                      "plugin": "official-colorpicker"
+                                    },
+                                    "padding": "",
+                                    "anchorId": "",
+                                    "component": "spacing",
+                                    "isFullWidth": false,
+                                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"825f8b71-f1f5-4089-92df-71bb417b2aa4\", \"id\": \"24224940\"}-->"
+                                  },
+                                  {
+                                    "_uid": "9869a1a1-1826-4473-8b32-b2af6614700f",
+                                    "icon": {
+                                      "id": 2733131,
+                                      "alt": "checkmark",
+                                      "name": "",
+                                      "focus": "",
+                                      "title": "",
+                                      "filename": "https://a.storyblok.com/f/64835/x/2a3619938c/checkmark.svg",
+                                      "copyright": "",
+                                      "fieldtype": "asset",
+                                      "is_external_url": false
+                                    },
+                                    "fontSize": "",
+                                    "iconSize": "",
+                                    "component": "checklist",
+                                    "checklistItems": [
+                                      {
+                                        "_uid": "66838705-d32e-421a-9635-59e0630e9f1c",
+                                        "color": {
+                                          "_uid": "a0fcfe88-e7bc-4a55-8aa3-7beaa14d53ed",
+                                          "color": "",
+                                          "plugin": "official-colorpicker"
+                                        },
+                                        "noIcon": false,
+                                        "itemText": "Organize & collaborate on drawings, models and documents in the cloud",
+                                        "component": "checklistItem",
+                                        "customIcon": {
+                                          "id": null,
+                                          "alt": null,
+                                          "name": "",
+                                          "focus": null,
+                                          "title": null,
+                                          "filename": "",
+                                          "copyright": null,
+                                          "fieldtype": "asset"
+                                        },
+                                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"66838705-d32e-421a-9635-59e0630e9f1c\", \"id\": \"24224940\"}-->"
+                                      },
+                                      {
+                                        "_uid": "1256f991-63ca-4ea3-8602-8c13c2d9f99b",
+                                        "color": {
+                                          "_uid": "1c68314f-6f27-4f13-9f4f-358694bbd3f5",
+                                          "color": "",
+                                          "plugin": "official-colorpicker"
+                                        },
+                                        "noIcon": false,
+                                        "itemText": "Streamline Submittals, RFIs, Schedules & Meetings",
+                                        "component": "checklistItem",
+                                        "customIcon": {
+                                          "id": null,
+                                          "alt": null,
+                                          "name": "",
+                                          "focus": null,
+                                          "title": null,
+                                          "filename": "",
+                                          "copyright": null,
+                                          "fieldtype": "asset"
+                                        },
+                                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"1256f991-63ca-4ea3-8602-8c13c2d9f99b\", \"id\": \"24224940\"}-->"
+                                      },
+                                      {
+                                        "_uid": "da692d7f-c234-4a9c-bac2-d2517891a77f",
+                                        "color": {
+                                          "_uid": "23517182-5b8e-4a6a-b4c9-24d6842e6933",
+                                          "color": "",
+                                          "plugin": "official-colorpicker"
+                                        },
+                                        "noIcon": false,
+                                        "itemText": "Create, track, and resolve issues faster",
+                                        "component": "checklistItem",
+                                        "customIcon": {
+                                          "id": null,
+                                          "alt": null,
+                                          "name": "",
+                                          "focus": null,
+                                          "title": null,
+                                          "filename": "",
+                                          "copyright": null,
+                                          "fieldtype": "asset"
+                                        },
+                                        "_editable": "<!--#storyblok#{\"name\": \"checklistItem\", \"space\": \"64835\", \"uid\": \"da692d7f-c234-4a9c-bac2-d2517891a77f\", \"id\": \"24224940\"}-->"
+                                      }
+                                    ],
+                                    "_editable": "<!--#storyblok#{\"name\": \"checklist\", \"space\": \"64835\", \"uid\": \"9869a1a1-1826-4473-8b32-b2af6614700f\", \"id\": \"24224940\"}-->"
+                                  }
+                                ],
+                                "leftBgColor": {
+                                  "_uid": "7cf21c7d-f090-4b88-958f-76355f925fc3",
+                                  "color": "#E7E7E7",
+                                  "plugin": "official-colorpicker"
+                                },
+                                "rightColumn": [
+                                  {
+                                    "_uid": "bca8ffa9-1881-4757-b359-856f46159a17",
+                                    "amount": "4",
+                                    "margin": "",
+                                    "bgColor": {
+                                      "_uid": "bffb8058-ad1f-4ea7-8709-34b937d3ee03",
+                                      "color": "#E7E7E7",
+                                      "plugin": "official-colorpicker"
+                                    },
+                                    "padding": "",
+                                    "anchorId": "",
+                                    "component": "spacing",
+                                    "isFullWidth": true,
+                                    "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"bca8ffa9-1881-4757-b359-856f46159a17\", \"id\": \"24224940\"}-->"
+                                  },
+                                  {
+                                    "_uid": "f13794e1-c5b4-483d-9e2c-6afb2563e304",
+                                    "icon": "",
+                                    "size": "extraLarge",
+                                    "text": "Get a Demo",
+                                    "color": {
+                                      "_uid": "85b47941-3295-4b4a-9c6b-a64d094a6579",
+                                      "color": "#FFFFFF",
+                                      "plugin": "official-colorpicker"
+                                    },
+                                    "params": "",
+                                    "bgColor": {
+                                      "_uid": "c9b696df-43fe-4ed8-b64d-cabf8d61574b",
+                                      "color": "#1858A8",
+                                      "plugin": "official-colorpicker"
+                                    },
+                                    "linksTo": {
+                                      "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                                      "url": "",
+                                      "linktype": "story",
+                                      "fieldtype": "multilink",
+                                      "cached_url": "us/contact/"
+                                    },
+                                    "variant": "contained",
+                                    "disabled": false,
+                                    "fragment": "",
+                                    "analytics": "",
+                                    "component": "button",
+                                    "fullWidth": false,
+                                    "openInNewTab": false,
+                                    "alignmentButton": "left",
+                                    "mutinyConversion": "Video Modal Get a Demo button",
+                                    "anchorLinkIsInvisible": false,
+                                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"f13794e1-c5b4-483d-9e2c-6afb2563e304\", \"id\": \"24224940\"}-->"
+                                  }
+                                ],
+                                "leftColWidth": "70",
+                                "rightBgColor": {
+                                  "_uid": "02f10cb1-0959-469d-affb-9889145d8371",
+                                  "color": "#E7E7E7",
+                                  "plugin": "official-colorpicker"
+                                },
+                                "backgroundImage": {
+                                  "id": null,
+                                  "alt": null,
+                                  "name": "",
+                                  "focus": null,
+                                  "title": null,
+                                  "filename": "",
+                                  "copyright": null,
+                                  "fieldtype": "asset"
+                                },
+                                "leftFlowsToBottom": false,
+                                "backgroundAppliesTo": "full-width",
+                                "_editable": "<!--#storyblok#{\"name\": \"twoColumnLayoutModule\", \"space\": \"64835\", \"uid\": \"042fca26-2e03-44d0-90af-b4a293844d6b\", \"id\": \"24224940\"}-->"
+                              }
+                            ],
+                            "display": "flex",
+                            "htmlTag": "div",
+                            "bgOrigin": "",
+                            "bgRepeat": "",
+                            "flexGrow": "",
+                            "flexWrap": "",
+                            "fontSize": "",
+                            "maxWidth": "initial",
+                            "minWidth": "initial",
+                            "overflow": "",
+                            "position": "",
+                            "alignSelf": "",
+                            "borderTop": "",
+                            "boxShadow": "",
+                            "component": "box",
+                            "displayLG": "",
+                            "displayMD": "",
+                            "displaySM": "",
+                            "displayXL": "",
+                            "displayXS": "",
+                            "fontStyle": "",
+                            "maxHeight": "initial",
+                            "minHeight": "initial",
+                            "mobileCSS": [],
+                            "tabletCSS": [],
+                            "textAlign": "",
+                            "alignItems": "",
+                            "bgPosition": "",
+                            "borderLeft": "",
+                            "flexShrink": "",
+                            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                            "fontWeight": "",
+                            "lineHeight": "",
+                            "visibility": "",
+                            "whiteSpace": "",
+                            "bgBlendMode": "",
+                            "borderColor": {
+                              "_uid": "c6a1db57-9de7-45e1-9852-59330493f76c",
+                              "color": "",
+                              "plugin": "official-colorpicker"
+                            },
+                            "borderRight": "",
+                            "alignContent": "",
+                            "borderBottom": "",
+                            "borderRadius": "",
+                            "displayPrint": "",
+                            "textOverflow": "",
+                            "flexDirection": "",
+                            "letterSpacing": "",
+                            "justifyContent": "",
+                            "hasPageContainer": false,
+                            "hasFixedContainer": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"1ee66a1f-b694-4609-b776-993ef21f3935\", \"id\": \"24224940\"}-->"
+                          }
+                        ],
+                        "params": "",
+                        "bgColor": {
+                          "_uid": "c9b696df-43fe-4ed8-b64d-cabf8d61574b",
+                          "color": "#1858A8",
+                          "plugin": "official-colorpicker"
+                        },
+                        "linksTo": {
+                          "id": "",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": ""
+                        },
+                        "variant": "text",
+                        "disabled": false,
+                        "dropdown": [],
+                        "fragment": "",
+                        "analytics": "",
+                        "component": "button",
+                        "fullWidth": false,
+                        "dataProduct": "",
+                        "modalIsDark": false,
+                        "openInNewTab": false,
+                        "dataAnalytics": "",
+                        "alignmentButton": "left",
+                        "forwardUTMParams": false,
+                        "mutinyConversion": "",
+                        "anchorLinkIsInvisible": false,
+                        "isButtonAssetDownload": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"ebc56ded-e888-4da7-9cd5-648392f00dc6\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "component": "abTestVariation",
+                    "_editable": "<!--#storyblok#{\"name\": \"abTestVariation\", \"space\": \"64835\", \"uid\": \"7e664912-8655-4704-a83e-7b478b05a150\", \"id\": \"24224940\"}-->"
+                  }
+                ],
+                "previewVariationId": "variation-a",
+                "_editable": "<!--#storyblok#{\"name\": \"abTest\", \"space\": \"64835\", \"uid\": \"2cee656c-afc7-4829-9079-b6991c422056\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "smallerTitle": false,
+            "alertTextIsH1": true,
+            "bottomContent": [],
+            "topLogoH1Text": "",
+            "breadcrumbLink": [],
+            "textProportion": "50",
+            "backgroundImage": "//a.storyblok.com/f/64835/2880x1200/90127e17a3/1440x600hero_static_build-2x.jpg",
+            "foregroundImage": "",
+            "rightImageAlign": [],
+            "topLogoMaxHeight": "",
+            "alertTextPosition": "100%",
+            "eyebrowCustomColor": {
+              "_uid": "c14a7f2f-cd0c-438e-bc5b-89d656a6490b",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "smallerDescription": false,
+            "hasBackgroundOverlay": true,
+            "_editable": "<!--#storyblok#{\"name\": \"heroFrame\", \"space\": \"64835\", \"uid\": \"f34c3394-e65d-4269-b682-263e3cb6004f\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "display": "flex",
+        "htmlTag": "div",
+        "flexGrow": "",
+        "flexWrap": "",
+        "fontSize": "",
+        "maxWidth": "initial",
+        "minWidth": "initial",
+        "overflow": "",
+        "position": "",
+        "alignSelf": "",
+        "borderTop": "",
+        "boxShadow": "",
+        "component": "box",
+        "displayLG": "",
+        "displayMD": "",
+        "displaySM": "",
+        "displayXL": "",
+        "displayXS": "",
+        "fontStyle": "",
+        "maxHeight": "initial",
+        "minHeight": "initial",
+        "textAlign": "",
+        "alignItems": "",
+        "borderLeft": "",
+        "flexShrink": "",
+        "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+        "fontWeight": "",
+        "lineHeight": "",
+        "visibility": "",
+        "whiteSpace": "",
+        "borderColor": {
+          "_uid": "f23693d5-386f-4bed-978f-97b2ca07a1a9",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "borderRight": "",
+        "alignContent": "",
+        "borderBottom": "",
+        "borderRadius": "",
+        "displayPrint": "",
+        "textOverflow": "",
+        "flexDirection": "",
+        "letterSpacing": "",
+        "justifyContent": "",
+        "optimizelyTest": {
+          "_uid": "e9798697-1fee-499d-99a1-b9ddedb4f671",
+          "plugin": "optimizely",
+          "segments": []
+        },
+        "hasPageContainer": false,
+        "hasFixedContainer": false,
+        "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"6172066d-cefc-4ce5-b57a-f5fe66426510\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "e16c5e36-2a1a-42cb-b6f7-db070932bbab",
+        "amount": "0",
+        "margin": "",
+        "bgColor": {
+          "_uid": "325f8998-f028-4770-8def-e504126cfd62",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "build-capabilities",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"e16c5e36-2a1a-42cb-b6f7-db070932bbab\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "ceba5516-0f90-4514-909d-071a7e56e0c3",
+        "cards": [
+          {
+            "cta": [
+              {
+                "_uid": "580a62b2-1bec-4df7-972f-1626278904d5",
+                "icon": [],
+                "link": {
+                  "id": "7f87d907-77dd-4326-913a-4740b2e3209d",
+                  "url": "",
+                  "_uid": "4decda8c-5659-4478-a101-f9ad6a46015b",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/workflows/construction-project-management"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"580a62b2-1bec-4df7-972f-1626278904d5\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "aab06767-263f-4ce7-9b4b-dc08022a2d37",
+            "title": "Project Management",
+            "image1": [
+              {
+                "_uid": "c1a869cd-a829-4e1e-93aa-55c8b4dec332",
+                "image": "//a.storyblok.com/f/64835/x/34a6dfb72b/ico_project-management.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Construction Project Management icon for Autodesk Build. ",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "",
+                "objectPosition": "center",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"c1a869cd-a829-4e1e-93aa-55c8b4dec332\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "8077858b-b8cd-4fc4-b9c4-1d721db249d8",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Ensure projects stay on track; improve collaboration and reduce miscommunication, error, and rework.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"aab06767-263f-4ce7-9b4b-dc08022a2d37\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "3aa262da-fe45-45a0-84f1-85f1a16a2525",
+                "icon": [],
+                "link": {
+                  "id": "42dbde39-5296-42d8-9d73-7b3002cf1d44",
+                  "url": "",
+                  "_uid": "733198c5-a7d1-4c69-ac44-f1a7f75e7d98",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/workflows/construction-quality-management"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"3aa262da-fe45-45a0-84f1-85f1a16a2525\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "2e80ca42-d7df-4770-9f9e-f92c27b25a25",
+            "title": "Quality Management",
+            "image1": [
+              {
+                "_uid": "2d1c0279-d009-400b-ade4-0d58eddab353",
+                "image": "//a.storyblok.com/f/64835/x/4280848584/ico_quality-management.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Construction Quality Management Icon for Autodesk Build.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"2d1c0279-d009-400b-ade4-0d58eddab353\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "Advanced": "",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "b0f10d31-3a9b-4400-8205-1176151d376e",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Track all issues in one place and resolve them earlier. Reduce costly rework and keep projects on schedule.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"2e80ca42-d7df-4770-9f9e-f92c27b25a25\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "90dee902-e05b-47e4-baad-8219ea4b7aaf",
+                "icon": [],
+                "link": {
+                  "id": "88a71315-b3db-471c-afb8-487da0f17051",
+                  "url": "",
+                  "_uid": "a2253639-5da8-4810-98f9-7cf8b3ea23f5",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/workflows/construction-site-safety"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"90dee902-e05b-47e4-baad-8219ea4b7aaf\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "f635b6fd-65a0-4e5f-b787-e4d3670cca0b",
+            "title": "Safety Management",
+            "image1": [
+              {
+                "_uid": "a1a654a8-ed01-467e-9cc2-abfa701aabab",
+                "image": "//a.storyblok.com/f/64835/x/b9e2b4ed27/ico_safety-management.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Construction Safety Management Icon for Autodesk Build.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"a1a654a8-ed01-467e-9cc2-abfa701aabab\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "def1a618-1237-4079-902b-0885615d66c9",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Develop easy-to-adopt, repeatable safety programs and get all team members to take ownership of site safety.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"f635b6fd-65a0-4e5f-b787-e4d3670cca0b\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "99f28f2b-c9b9-4132-91b3-ac365056eb1f",
+                "icon": [],
+                "link": {
+                  "id": "cddc0a32-a2af-43bc-b294-bc3fbf409025",
+                  "url": "",
+                  "_uid": "36dbd203-8b39-4f18-8d5c-592dae92a505",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/workflows/construction-cost-management"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"99f28f2b-c9b9-4132-91b3-ac365056eb1f\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "c682afd2-c208-430c-aa66-9f9c36d80f5d",
+            "title": "Cost Control",
+            "image1": [
+              {
+                "_uid": "2e8a10a8-ce48-4751-b2cb-daa140857753",
+                "image": "//a.storyblok.com/f/64835/x/07171236a6/ico_cost-management.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Construction Cost Control Management Icon for Autodesk Build.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"2e8a10a8-ce48-4751-b2cb-daa140857753\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "6bc10298-fe5c-4262-9b38-c3a4cb4625d4",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Connect project management and field execution data to cost activities to understand root causes and scope cost impacts.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"c682afd2-c208-430c-aa66-9f9c36d80f5d\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "7f832d2f-3707-4a12-8459-2a47b6ec7744",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "Improve construction management and empower all builders with connected teams, workflows, and data.",
+        "clearBg": false,
+        "advanced": "",
+        "maxWidth": "",
+        "variants": "default",
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "27f8d282-3268-4a45-ab9d-a01a95c4fa44",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"ceba5516-0f90-4514-909d-071a7e56e0c3\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "9a2c61d2-c031-4374-b326-5cbbc805542c",
+        "amount": "0",
+        "margin": "",
+        "bgColor": {
+          "_uid": "d7412c78-f7d7-45d5-a951-25e10bbc8de3",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "build-features",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"9a2c61d2-c031-4374-b326-5cbbc805542c\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "a9f97b4a-dba8-40e9-8268-c077db9d63e4",
+        "tabs": [
+          {
+            "_uid": "1f90fa6f-d720-4520-b850-6a1f6ddd03ed",
+            "title": "Project",
+            "content": [
+              {
+                "_uid": "4d9b7352-99dd-4366-8fb5-7603cef2abf2",
+                "title": "",
+                "features": [
+                  {
+                    "cta": [
+                      {
+                        "_uid": "cdc3a4a0-f207-40dd-99d6-dd041662cef6",
+                        "icon": [],
+                        "link": {
+                          "id": "709c049b-0de6-46b5-9916-371b96808ff1",
+                          "url": "",
+                          "anchor": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "us/tools/schedule"
+                        },
+                        "modal": [],
+                        "params": "",
+                        "allCaps": false,
+                        "subLink": [],
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "dataProduct": "",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "dataAnalytics": "",
+                        "forcePageLoad": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"cdc3a4a0-f207-40dd-99d6-dd041662cef6\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "c71506ae-1cfd-49f9-b712-6c41a296a135",
+                    "component": "deviceFrameFeature",
+                    "description": "Instantly share, collaborate, and connect project schedules with field and office teams.",
+                    "featureName": "Manage Project Schedules ",
+                    "previewMedia": {
+                      "id": 2907761,
+                      "alt": "Schedule",
+                      "_uid": "ff6d8018-9544-4ea8-9e0c-ae55ad988c68",
+                      "name": "",
+                      "focus": null,
+                      "title": "Schedule",
+                      "filename": "https://a.storyblok.com/f/64835/x/95e18ab627/schedule-product-video.mp4",
+                      "copyright": "Autodesk, Inc.",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"c71506ae-1cfd-49f9-b712-6c41a296a135\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "137c8ae1-c40a-4b8f-bb50-dde4dea96a48",
+                        "icon": [],
+                        "link": {
+                          "id": "3047e811-0673-4a05-bbd1-7552b7fb639e",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/construction-rfi-tracking"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"137c8ae1-c40a-4b8f-bb50-dde4dea96a48\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "783cf8bd-fb05-42a8-b2f3-b011e834ca6c",
+                    "component": "deviceFrameFeature",
+                    "description": "Create RFIs and manage the review process, and connect RFIs to issues, change orders and meeting minutes.",
+                    "featureName": "Connect RFIs",
+                    "previewMedia": {
+                      "id": 1746639,
+                      "alt": "",
+                      "_uid": "f1c96fa0-508c-4065-8bca-c525aa916324",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/2512336eea/seamlessly-manage-and-connect-rfis.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"783cf8bd-fb05-42a8-b2f3-b011e834ca6c\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "e1f044d7-2109-4e50-a40f-925251bcf7c5",
+                        "icon": [],
+                        "link": {
+                          "id": "1dbf0007-115d-4eac-aa1f-2cb2ec0efb97",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/construction-submittal-software"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"e1f044d7-2109-4e50-a40f-925251bcf7c5\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "3fc40e78-897a-44f0-bf66-ce6f787622fd",
+                    "component": "deviceFrameFeature",
+                    "description": "Create and track submittal items and manage all information in a single submittal log.",
+                    "featureName": "Simplify Submittals",
+                    "previewMedia": {
+                      "id": 1749384,
+                      "alt": "",
+                      "_uid": "ada5a95d-f79d-4d1b-af99-bafc9e038f05",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/17897626c2/submittals.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"3fc40e78-897a-44f0-bf66-ce6f787622fd\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "1d429ac1-27ed-4966-a9d0-6d6a4032414d",
+                        "icon": [],
+                        "link": {
+                          "id": "58bd8769-7f32-4a25-9fca-bf12292c158c",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/construction-meeting-records"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"1d429ac1-27ed-4966-a9d0-6d6a4032414d\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "90958898-d8a6-489e-bac1-6ee55fae0cc2",
+                    "component": "deviceFrameFeature",
+                    "description": "Track commitments made, link essential, and keep an organized history of all meeting records. ",
+                    "featureName": "Improve Meetings",
+                    "previewMedia": {
+                      "id": 1618457,
+                      "alt": "",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/d9fe6f5fd8/meeting-minutes-sample-mp4_web.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"90958898-d8a6-489e-bac1-6ee55fae0cc2\", \"id\": \"24224940\"}-->"
+                  }
+                ],
+                "component": "deviceFrameFeatureModule",
+                "deviceType": "desktop",
+                "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeatureModule\", \"space\": \"64835\", \"uid\": \"4d9b7352-99dd-4366-8fb5-7603cef2abf2\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "component": "tab",
+            "_editable": "<!--#storyblok#{\"name\": \"tab\", \"space\": \"64835\", \"uid\": \"1f90fa6f-d720-4520-b850-6a1f6ddd03ed\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "be7bdae0-1f6c-4b6c-8040-7f31846b687e",
+            "title": "Field",
+            "content": [
+              {
+                "_uid": "57219875-7b2e-4db5-a2d4-8e2c3c52daa3",
+                "title": "",
+                "features": [
+                  {
+                    "cta": [
+                      {
+                        "_uid": "7dfff5d7-f99b-4ab7-a511-7c9d8c79b47e",
+                        "icon": [],
+                        "link": {
+                          "id": "f923a904-4253-41fb-b732-4d9807e7e07b",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/issues-software"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"7dfff5d7-f99b-4ab7-a511-7c9d8c79b47e\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "47111121-9616-4ebc-b1e7-f4030a400924",
+                    "component": "deviceFrameFeature",
+                    "description": "Manage all design, quality, and safety issues from one place. ",
+                    "featureName": "Centralize Issue Management ",
+                    "previewMedia": {
+                      "id": 1749271,
+                      "alt": "",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/12cb895215/issues_ipad.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"47111121-9616-4ebc-b1e7-f4030a400924\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "051c19d9-7622-472d-a7b3-00b2db9dc1ab",
+                        "icon": [],
+                        "link": {
+                          "id": "1f52f9f1-197f-4511-bc4d-3ca5f6869c77",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/photo-management"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"051c19d9-7622-472d-a7b3-00b2db9dc1ab\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "4240d640-dac6-4ac5-877d-91a856cd3609",
+                    "component": "deviceFrameFeature",
+                    "description": "Capture what’s happening in the field and share it with stakeholders in a central gallery. ",
+                    "featureName": "Connect Field & Office ",
+                    "previewMedia": {
+                      "id": 1748691,
+                      "alt": "",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/d0b13faf80/photos_ipad.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"4240d640-dac6-4ac5-877d-91a856cd3609\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "9cc6210b-237a-42e2-ab05-46f2ab78bd5a",
+                        "icon": [],
+                        "link": {
+                          "id": "c51d2006-8eff-464d-afc1-33ebd36d7ff7",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/forms-and-contracts"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"9cc6210b-237a-42e2-ab05-46f2ab78bd5a\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "c34947ef-982b-448c-8d23-5e02f200d554",
+                    "component": "deviceFrameFeature",
+                    "description": "Ensure the entire team maintains quality and safety standards from any device, anywhere. ",
+                    "featureName": "Streamline Quality & Safety Inspections",
+                    "previewMedia": {
+                      "id": 1618456,
+                      "alt": "",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/cf20937b94/forms-sample_ipad.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"c34947ef-982b-448c-8d23-5e02f200d554\", \"id\": \"24224940\"}-->"
+                  }
+                ],
+                "component": "deviceFrameFeatureModule",
+                "deviceType": "tablet",
+                "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeatureModule\", \"space\": \"64835\", \"uid\": \"57219875-7b2e-4db5-a2d4-8e2c3c52daa3\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "component": "tab",
+            "_editable": "<!--#storyblok#{\"name\": \"tab\", \"space\": \"64835\", \"uid\": \"be7bdae0-1f6c-4b6c-8040-7f31846b687e\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "aeadf73c-7b70-4066-a662-734a3748f866",
+            "title": "Sheets",
+            "content": [
+              {
+                "_uid": "a8fb77fe-13be-4699-8532-65ebc58c9e5c",
+                "title": "",
+                "features": [
+                  {
+                    "cta": [
+                      {
+                        "_uid": "1c4b66ef-c18b-4411-a9dc-f61c2859b4dc",
+                        "icon": [],
+                        "link": {
+                          "id": "28951aa0-0f89-4e69-a58b-80a6253cc5be",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/construction-document-management"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"1c4b66ef-c18b-4411-a9dc-f61c2859b4dc\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "16645b43-0143-4c80-b97f-cf85675651a0",
+                    "component": "deviceFrameFeature",
+                    "description": "Ensure teams have access to the right information, anytime, with auto-sync to mobile devices.  ",
+                    "featureName": "Publish Docs to the Field",
+                    "previewMedia": {
+                      "id": 1840295,
+                      "alt": "",
+                      "_uid": "7f3d03aa-6efc-446a-b040-6bea1b8efa54",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/573e75230b/sheet-publishing.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"16645b43-0143-4c80-b97f-cf85675651a0\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "e57e44fb-9837-49f8-aa80-1ded79026acd",
+                        "icon": [],
+                        "link": {
+                          "id": "919bb499-eff9-4b49-8afa-f3e30a4910cf",
+                          "url": "",
+                          "anchor": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/construction-drawing-management"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"e57e44fb-9837-49f8-aa80-1ded79026acd\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "d25aa903-3440-4ae4-84a5-c0a4e150a142",
+                    "component": "deviceFrameFeature",
+                    "description": "Use markup tools to call attention to details on your drawings and share with your team for better collaboration. ",
+                    "featureName": "Create & Share Markups",
+                    "previewMedia": {
+                      "id": 1840291,
+                      "alt": "",
+                      "_uid": "4da642c7-dacf-4fa7-8466-940d13ea4175",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/5b8d063000/create-and-share-markups.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"d25aa903-3440-4ae4-84a5-c0a4e150a142\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "93d3fd6b-f0f3-4899-9c20-19c38433f730",
+                        "icon": [],
+                        "link": {
+                          "id": "919bb499-eff9-4b49-8afa-f3e30a4910cf",
+                          "url": "",
+                          "anchor": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/construction-drawing-management"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"93d3fd6b-f0f3-4899-9c20-19c38433f730\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "310484fb-019c-4947-95bd-029cb5c60efd",
+                    "component": "deviceFrameFeature",
+                    "description": "Navigate 2D drawings and 3D models with ease and better visualize your team’s work. Built for a mobile experience.  ",
+                    "featureName": "Navigate 2D Drawings and 3D Models Onsite",
+                    "previewMedia": {
+                      "id": 1840297,
+                      "alt": "",
+                      "_uid": "1e793aa6-2c52-4c7e-99ff-90a8220f1ac8",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/23c6e3647a/navigate-2d-drawings-and-3d-models-onsite.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"310484fb-019c-4947-95bd-029cb5c60efd\", \"id\": \"24224940\"}-->"
+                  }
+                ],
+                "component": "deviceFrameFeatureModule",
+                "deviceType": "tablet",
+                "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeatureModule\", \"space\": \"64835\", \"uid\": \"a8fb77fe-13be-4699-8532-65ebc58c9e5c\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "component": "tab",
+            "_editable": "<!--#storyblok#{\"name\": \"tab\", \"space\": \"64835\", \"uid\": \"aeadf73c-7b70-4066-a662-734a3748f866\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "78489774-e793-4645-a15a-2360e0a98893",
+            "title": "Cost",
+            "content": [
+              {
+                "_uid": "3dfdf0e5-20c8-452f-bc0b-c153337630be",
+                "title": "",
+                "features": [
+                  {
+                    "cta": [
+                      {
+                        "_uid": "b334b18d-5e80-4ec7-8a10-f42f37eeedfa",
+                        "icon": [],
+                        "link": {
+                          "id": "e106b14a-d790-4f95-a3f5-560fcd5fc148",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/change-order-tracking"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"b334b18d-5e80-4ec7-8a10-f42f37eeedfa\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "f3fbab5c-57f0-464d-a339-dd34cbde6fe4",
+                    "component": "deviceFrameFeature",
+                    "description": "Manage change orders with clear visibility into impacts on the overall project budget. ",
+                    "featureName": "Control Change Orders",
+                    "previewMedia": {
+                      "id": 1749270,
+                      "alt": "",
+                      "_uid": "774f0682-28bb-4e9f-83a7-2078512dd705",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/7ef6efc0bd/change-order.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"f3fbab5c-57f0-464d-a339-dd34cbde6fe4\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "b4b06f4a-8101-4c37-ac1e-e4165ed9016c",
+                        "icon": [],
+                        "link": {
+                          "id": "90d2150f-11a3-463f-90d6-90592ffa3f1a",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/expense-and-cost-tracking"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"b4b06f4a-8101-4c37-ac1e-e4165ed9016c\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "cdfda34b-b646-43c1-8362-7111651fb0e0",
+                    "component": "deviceFrameFeature",
+                    "description": "Manage pay applications and track payments against the total work to be completed. ",
+                    "featureName": "Manage Payments",
+                    "previewMedia": {
+                      "id": 1749580,
+                      "alt": "",
+                      "_uid": "9ab70c19-4fb5-4c26-9d77-2e20fcfa1889",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/246772f421/budget-pay-app.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"cdfda34b-b646-43c1-8362-7111651fb0e0\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "4adc7b07-f741-4a08-bcb0-349006c3503b",
+                        "icon": [],
+                        "link": {
+                          "id": "90d2150f-11a3-463f-90d6-90592ffa3f1a",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/expense-and-cost-tracking"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"4adc7b07-f741-4a08-bcb0-349006c3503b\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "e2602929-5b08-4256-81ee-2c7daeecf017",
+                    "component": "deviceFrameFeature",
+                    "description": "Connect your accounting system to streamline invoice reviews and approvals. ",
+                    "featureName": "Streamline Expenses",
+                    "previewMedia": {
+                      "id": 1749605,
+                      "alt": "",
+                      "_uid": "387e3a45-99de-42f9-980e-e5c36637a09f",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/3a10d05c9b/expenses.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"e2602929-5b08-4256-81ee-2c7daeecf017\", \"id\": \"24224940\"}-->"
+                  },
+                  {
+                    "cta": [
+                      {
+                        "_uid": "7b87923c-f004-4ca0-bb56-a2a484c4b048",
+                        "icon": [],
+                        "link": {
+                          "id": "b541176f-8684-4159-9761-c007710a3f0a",
+                          "url": "",
+                          "linktype": "story",
+                          "fieldtype": "multilink",
+                          "cached_url": "tools/income-and-budget-tracking"
+                        },
+                        "params": "",
+                        "allCaps": false,
+                        "variant": "constructionWorkflow",
+                        "download": "",
+                        "fragment": "",
+                        "noFollow": false,
+                        "component": "link",
+                        "downloadable": false,
+                        "openInNewTab": false,
+                        "textToHyperlink": "Learn More",
+                        "contentToHyperlink": [],
+                        "linkWithoutUnderline": false,
+                        "anchorLinkIsInvisible": false,
+                        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"7b87923c-f004-4ca0-bb56-a2a484c4b048\", \"id\": \"24224940\"}-->"
+                      }
+                    ],
+                    "_uid": "5efef679-cf81-4367-88bf-fb895a2d9dcc",
+                    "component": "deviceFrameFeature",
+                    "description": "Improve cost forecast accuracy with centralized and connected cost activities.",
+                    "featureName": "Improve Forecasting",
+                    "previewMedia": {
+                      "id": 1749612,
+                      "alt": "",
+                      "_uid": "8e2dbf68-d8a6-4e68-b8a1-ecec40a81917",
+                      "name": "",
+                      "focus": null,
+                      "title": "",
+                      "filename": "https://a.storyblok.com/f/64835/x/add5dc0a12/forecast-adjustment.mp4",
+                      "copyright": "",
+                      "fieldtype": "asset"
+                    },
+                    "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"5efef679-cf81-4367-88bf-fb895a2d9dcc\", \"id\": \"24224940\"}-->"
+                  }
+                ],
+                "component": "deviceFrameFeatureModule",
+                "deviceType": "desktop",
+                "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeatureModule\", \"space\": \"64835\", \"uid\": \"3dfdf0e5-20c8-452f-bc0b-c153337630be\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "component": "tab",
+            "_editable": "<!--#storyblok#{\"name\": \"tab\", \"space\": \"64835\", \"uid\": \"78489774-e793-4645-a15a-2360e0a98893\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "title": "Deliver projects on time and on budget with the help of our easy-to-use and highly configurable tools.",
+        "component": "tabsModule",
+        "renderTitleAs": "",
+        "_editable": "<!--#storyblok#{\"name\": \"tabsModule\", \"space\": \"64835\", \"uid\": \"a9f97b4a-dba8-40e9-8268-c077db9d63e4\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "58120483-11d3-4b52-a296-dbbdb597bc1a",
+        "cards": [],
+        "color": {
+          "_uid": "1a7adab4-7ebd-4da0-8caf-7ce2739a40f1",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "Additional CONSTRUCTION PROJECT MANAGEMENT FEATURES",
+        "clearBg": false,
+        "advanced": "",
+        "maxWidth": "",
+        "variants": "grey-title-w-line",
+        "alignment": "center",
+        "boldTitle": false,
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "removeMargin": false,
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "05defa9e-9f73-4595-a6fa-554934b429da",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"58120483-11d3-4b52-a296-dbbdb597bc1a\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "613ccfe2-b749-4675-9d07-27c95ff33485",
+        "cards": [
+          {
+            "cta": [
+              {
+                "_uid": "19072281-995f-439a-9ae6-ab192e6507dd",
+                "icon": [],
+                "link": {
+                  "id": "c51d2006-8eff-464d-afc1-33ebd36d7ff7",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/tools/construction-forms"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"19072281-995f-439a-9ae6-ab192e6507dd\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "3c064681-bfcc-4049-8d19-baa1231e89b9",
+            "title": "Mobile Punch Lists",
+            "image1": [
+              {
+                "_uid": "dc51f0c5-2ecf-4252-913d-51f007c7290e",
+                "image": "",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"dc51f0c5-2ecf-4252-913d-51f007c7290e\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "8672a7ed-6bf9-4ddd-8ecc-b474d48f81e2",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Easy-to-use punch list and digital closeout tools ensure that the work is complete and compliant.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"3c064681-bfcc-4049-8d19-baa1231e89b9\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "b9593bd1-f865-467a-b6e3-0e22a6502bc4",
+                "icon": [],
+                "link": {
+                  "id": "2b4bdd19-b5c0-436a-844f-a2d227c0caee",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/tools/construction-daily-reports"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"b9593bd1-f865-467a-b6e3-0e22a6502bc4\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "3df11bcc-c075-4898-bd71-e430c537c6cf",
+            "title": "Customized Reports",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "77ceea04-f674-439e-b336-c5ac2f3d5bd6",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Generate and share reports with team members to keep everyone updated on work progress.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"3df11bcc-c075-4898-bd71-e430c537c6cf\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "e59ce258-636a-4154-9e64-c6bc47c71553",
+                "icon": [],
+                "link": {
+                  "id": "64d1cb2c-5150-40de-95a1-bd095782e2a2",
+                  "url": "",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/tools/construction-iq"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"e59ce258-636a-4154-9e64-c6bc47c71553\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "7c48b575-d15b-48ee-afa8-353633379e03",
+            "title": "Predictive Insights",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "4aca2751-a8ee-4a1e-886f-a655592e5b0a",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Gain visibility into high-risk issues that can impact cost, schedule, quality, and safety.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"7c48b575-d15b-48ee-afa8-353633379e03\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "abd6644b-3bf9-4280-bca4-21966dc192df",
+                "icon": [],
+                "link": {
+                  "id": "c51d2006-8eff-464d-afc1-33ebd36d7ff7",
+                  "url": "",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/tools/construction-forms"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"abd6644b-3bf9-4280-bca4-21966dc192df\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "1483212d-753e-4840-8dfb-64045b58de29",
+            "title": "Standardized Forms",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "ceb50896-6cc1-4b59-bb1c-0df96669ac3c",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Standardize data collection with customizable quality and safety checklists.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"1483212d-753e-4840-8dfb-64045b58de29\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "98a504ff-e7ba-4f89-a576-0e23abe0fbf8",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "",
+        "clearBg": false,
+        "maxWidth": "",
+        "variants": "default",
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "f6390f24-586a-4cd0-ab18-5d9239e5c7c4",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"613ccfe2-b749-4675-9d07-27c95ff33485\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "2088e4f2-0d55-48fd-84ae-8fae47a2e14f",
+        "link": [],
+        "button": [
+          {
+            "_uid": "1afa62dd-06ac-4560-b6f1-786710df0c16",
+            "icon": "chevron_right",
+            "size": "medium",
+            "text": "Get a Demo",
+            "color": {
+              "_uid": "1adc591f-4356-4fee-ae1d-c6c0c584fe41",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "modal": [],
+            "params": "",
+            "bgColor": {
+              "_uid": "4ddd6ae6-92d5-42a6-bae8-638dc3e71ebf",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "linksTo": {
+              "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "us/contact/"
+            },
+            "variant": "contained",
+            "disabled": false,
+            "dropdown": [],
+            "fragment": "",
+            "component": "button",
+            "fullWidth": false,
+            "dataProduct": "build",
+            "modalIsDark": false,
+            "openInNewTab": false,
+            "dataAnalytics": "cta-demo",
+            "alignmentButton": "left",
+            "forwardUTMParams": false,
+            "anchorLinkIsInvisible": false,
+            "isButtonAssetDownload": false,
+            "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"1afa62dd-06ac-4560-b6f1-786710df0c16\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "variant": "",
+        "headline": "Unlock the potential of unified construction management software.",
+        "component": "ctaBannerModule",
+        "_editable": "<!--#storyblok#{\"name\": \"ctaBannerModule\", \"space\": \"64835\", \"uid\": \"2088e4f2-0d55-48fd-84ae-8fae47a2e14f\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "dc34051d-0ba0-4fc7-9ad7-1f98db1ba9ec",
+        "quote": "Time is one of the most valuable assets in construction. When you have everybody on the same interface, you can seamlessly and efficiently communicate across all platforms. Autodesk Build is going to save time by eliminating redundancies and having one platform that I need to open to convey information across the entire team.",
+        "component": "quoteModule",
+        "attribution": "Amy Kozlowski, Project Manager at Herrero Builders",
+        "removeTopSpacing": false,
+        "_editable": "<!--#storyblok#{\"name\": \"quoteModule\", \"space\": \"64835\", \"uid\": \"dc34051d-0ba0-4fc7-9ad7-1f98db1ba9ec\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "c88ebcf8-176c-448b-997a-5b5144d444e7",
+        "cards": [
+          {
+            "cta": [
+              {
+                "_uid": "62d43f8d-dda6-49f6-9fa7-36578bc1caf4",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://construction.autodesk.com/resources/acc-videos/autodesk-build-increases-efficiency-and-collaboration-for-boldt-company/",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://construction.autodesk.com/resources/acc-videos/autodesk-build-increases-efficiency-and-collaboration-for-boldt-company/"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "mutinyConversion": "",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"62d43f8d-dda6-49f6-9fa7-36578bc1caf4\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "e226d1f6-b371-4b55-83cc-a699d10ff90d",
+            "title": "Increases efficiency",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "Advanced": "",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "242ca948-b1d6-49d6-9f68-188b41ff722f",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Learn how Autodesk Build increases efficiency and collaboration for the BOLDT company. With all project information in one place, Autodesk Build provides greater transparency and visibility for project teams.  ",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"e226d1f6-b371-4b55-83cc-a699d10ff90d\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "e9a7b248-b4a6-4853-aa1a-3c36a18d7a93",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://construction.autodesk.com/resources/project-manager/oahu-metal-glazing-experiences-75-time-savings-in-project-kickoff-with-autodesk-build/ ",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://construction.autodesk.com/resources/project-manager/oahu-metal-glazing-experiences-75-time-savings-in-project-kickoff-with-autodesk-build/ "
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "mutinyConversion": "",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"e9a7b248-b4a6-4853-aa1a-3c36a18d7a93\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "50e2965b-9749-46ad-b440-d43fa558e880",
+            "title": "Saves time",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "Advanced": "",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "da6a1ef9-ef7d-4b45-bebe-d88ebcc2a50e",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Learn how Oahu Metal & Glazing experiences 75% time-savings in project kickoff with Autodesk Build. Autodesk Build helps streamline operations, standardize processes and saves time.  ",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"50e2965b-9749-46ad-b440-d43fa558e880\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "1d0b4a48-6980-4dcd-907a-9e14b324d77f",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://construction.autodesk.com/resources/project-manager/wilson-co-drives-workflow-efficiency-by-standardizing-on-autodesk-build/  ",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://construction.autodesk.com/resources/project-manager/wilson-co-drives-workflow-efficiency-by-standardizing-on-autodesk-build/  "
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "mutinyConversion": "",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"1d0b4a48-6980-4dcd-907a-9e14b324d77f\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "dc70fabe-1c09-4b22-aa1e-4e18bcb7ac82",
+            "title": "Connects workflows",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "Advanced": "",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "b7f48035-6f06-4cba-ad41-16628400c17b",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": " Learn how S. M. Wilson & Co. drives workflow efficiency by standardizing Autodesk Build. Autodesk Build enables teams to efficiently link project information like RFIs, Issues, Sheets and Photos to other tools and streamlines workflows. ",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"dc70fabe-1c09-4b22-aa1e-4e18bcb7ac82\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "06027d54-60da-4d9e-bbc0-5b229925d6ff",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://construction.autodesk.com/resources/project-manager/modular-power-solutions-standardizes-its-manufacturing-process-with-autodesk-build/",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://construction.autodesk.com/resources/project-manager/modular-power-solutions-standardizes-its-manufacturing-process-with-autodesk-build/"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"06027d54-60da-4d9e-bbc0-5b229925d6ff\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_uid": "26a8a42b-e8d2-4c15-a51d-e98158ef46dd",
+            "title": "Improves progress tracking",
+            "image1": [],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "Advanced": "",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "a2d92ee4-cb87-4616-9d58-5dea1e4cedce",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Learn how Modular Power Solutions standardizes its manufacturing process with Autodesk Build. Autodesk Build helps project teams stay on top of progress, with clear visualizations that make it easy to understand where a project stands.  ",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"26a8a42b-e8d2-4c15-a51d-e98158ef46dd\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "f47a497f-6cf8-4061-9971-a855668ad52d",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "The benefits of Autodesk project management software for construction.",
+        "clearBg": false,
+        "maxWidth": "",
+        "variants": "default",
+        "alignment": "center",
+        "boldTitle": false,
+        "component": "cardModule",
+        "references": [],
+        "description": "Explore the advantages teams receive by implementing cloud-based construction project management software.",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "removeMargin": false,
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "46544dd3-2ea5-417d-bcc8-01ae7891cd2a",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"c88ebcf8-176c-448b-997a-5b5144d444e7\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "599a301e-5b7b-4ba1-b1fe-be0ca632a7e0",
+        "amount": "0",
+        "margin": "",
+        "bgColor": {
+          "_uid": "fe56f63a-424b-4dad-a621-893f39abb2a7",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "build-plangrid-pricing",
+        "metaData": {
+          "_uid": "7a6a51a5-e193-4468-9df1-0fc3338eb942",
+          "title": "",
+          "plugin": "seo_metatags",
+          "og_image": "",
+          "og_title": "",
+          "description": "",
+          "twitter_image": "",
+          "twitter_title": "",
+          "og_description": "",
+          "twitter_description": ""
+        },
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"599a301e-5b7b-4ba1-b1fe-be0ca632a7e0\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "092396be-e2c7-4139-a6a7-5bda37640bc9",
+        "icon": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": null,
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "link": [],
+        "button": [
+          {
+            "_uid": "2c9f43d4-3d85-4b2b-96c0-b8790c89a5fe",
+            "icon": "chevron_right",
+            "size": "medium",
+            "text": "Request a Demo",
+            "color": {
+              "_uid": "1adc591f-4356-4fee-ae1d-c6c0c584fe41",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "modal": [],
+            "params": "",
+            "bgColor": {
+              "_uid": "4ddd6ae6-92d5-42a6-bae8-638dc3e71ebf",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "linksTo": {
+              "id": "62bb0d4a-b6a1-4d13-9f38-21dc52dff022",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "us/contact"
+            },
+            "variant": "contained",
+            "disabled": false,
+            "dropdown": [],
+            "fragment": "",
+            "component": "button",
+            "fullWidth": false,
+            "dataProduct": "takeoff",
+            "modalIsDark": false,
+            "openInNewTab": false,
+            "dataAnalytics": "cta-demo",
+            "alignmentButton": "left",
+            "forwardUTMParams": false,
+            "anchorLinkIsInvisible": false,
+            "isButtonAssetDownload": false,
+            "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"2c9f43d4-3d85-4b2b-96c0-b8790c89a5fe\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "variant": "",
+        "headline": "Learn more about Autodesk construction project management software.",
+        "component": "ctaBannerModule",
+        "backgroundImage": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": null,
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "markdownHeadline": "",
+        "_editable": "<!--#storyblok#{\"name\": \"ctaBannerModule\", \"space\": \"64835\", \"uid\": \"092396be-e2c7-4139-a6a7-5bda37640bc9\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "79d1f63a-2ffa-4796-af8d-6fb1bb8bb27f",
+        "cards": [
+          {
+            "_uid": "4a00ba47-d979-4cc1-af3f-e7b89a89b8d7",
+            "image": [
+              {
+                "_uid": "30421889-adb6-462c-bd00-91dfe35696cd",
+                "image": "//a.storyblok.com/f/64835/1336x1030/c93fb4bdc1/optimize-construction-project-management-workflows-with-the-cloud.png",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Two Construction Project Managers looking at information that helps them optimize project management workflows.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "125px",
+                "minHeight": "",
+                "objectFit": "cover",
+                "objectPosition": "top",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"30421889-adb6-462c-bd00-91dfe35696cd\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "title": "Optimize Project Management",
+            "alignment": "left",
+            "component": "resourceCard",
+            "titleColor": {
+              "_uid": "6ccc12de-ddd6-4e7f-8a02-cb20b3ff7ed6",
+              "color": "#666666",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Learn how a cloud-based platform can help you optimize your construction project management workflows.",
+            "isClickable": false,
+            "noDescMargin": false,
+            "removeMargin": false,
+            "buttonAssetUrl": [
+              {
+                "_uid": "15de9550-9ef6-430f-82b1-9b8a0f450a9d",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://adskconstruction.autodesk.com/project-management/optimize-construction-project-management-workflows-with-the-cloud-2",
+                  "_uid": "7cf13ed2-b263-4104-996f-74093d67c509",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://adskconstruction.autodesk.com/project-management/optimize-construction-project-management-workflows-with-the-cloud-2"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Get the eBook",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"15de9550-9ef6-430f-82b1-9b8a0f450a9d\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "notVisibleOnMobile": false,
+            "_editable": "<!--#storyblok#{\"name\": \"resourceCard\", \"space\": \"64835\", \"uid\": \"4a00ba47-d979-4cc1-af3f-e7b89a89b8d7\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "4812e64b-2595-4a8b-842c-a9be8e204e6d",
+            "image": [
+              {
+                "_uid": "9dc0efd0-8638-45a5-8dc1-5bf07e7d538e",
+                "image": "//a.storyblok.com/f/64835/1920x1080/aa26d6bc3d/ultimate-guide-to-construction-submittals-and-template.jpg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Four construction workers on site looking at construction management software to improve submittals tracking.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "125px",
+                "minHeight": "",
+                "objectFit": "cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"9dc0efd0-8638-45a5-8dc1-5bf07e7d538e\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "title": "The Ultimate Guide to Submittals",
+            "alignment": "left",
+            "component": "resourceCard",
+            "titleColor": {
+              "_uid": "57c8da80-10b2-4b8e-be8e-947b8469fa3d",
+              "color": "#666666",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Read out guide to learn about construction submittals, why they matter, and how to streamline the process.",
+            "isClickable": false,
+            "noDescMargin": false,
+            "removeMargin": false,
+            "buttonAssetUrl": [
+              {
+                "_uid": "b69c52d9-180e-4128-87b9-53dd5f606718",
+                "link": {
+                  "id": "",
+                  "url": "https://constructionblog.autodesk.com/submittals-template/",
+                  "_uid": "21ca3825-d021-4654-9ee0-7f5bc773d15c",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://constructionblog.autodesk.com/submittals-template/"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Read the Blog",
+                "contentToHyperlink": [],
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"b69c52d9-180e-4128-87b9-53dd5f606718\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "notVisibleOnMobile": false,
+            "_editable": "<!--#storyblok#{\"name\": \"resourceCard\", \"space\": \"64835\", \"uid\": \"4812e64b-2595-4a8b-842c-a9be8e204e6d\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "f15fc295-9d32-4eed-aa04-ed357498be60",
+            "image": [
+              {
+                "_uid": "bb9fa32e-39f1-4ce2-aa82-226335e26d98",
+                "image": "//a.storyblok.com/f/64835/1920x1080/49e872bb43/digital-strategy-playbook-construction-rfis.jpg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Conceptual image of construction working looking at digital information that helps them improve construction RFIs.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "125px",
+                "minHeight": "",
+                "objectFit": "cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"bb9fa32e-39f1-4ce2-aa82-226335e26d98\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "title": "Create a Digital Strategy for RFIs",
+            "alignment": "left",
+            "component": "resourceCard",
+            "titleColor": {
+              "_uid": "b0dade65-208f-4409-8f89-2fc89ee2be13",
+              "color": "#666666",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Learn how to streamline RFI workflows, identify and remove barriers, and create a winning digital strategy for RFIs.",
+            "isClickable": false,
+            "noDescMargin": false,
+            "removeMargin": false,
+            "buttonAssetUrl": [
+              {
+                "_uid": "7e9a67a5-7ebf-4bce-9547-6895ff1a8f5b",
+                "link": {
+                  "id": "af013054-26e9-4078-8ef3-f940122bb882",
+                  "url": "",
+                  "_uid": "422dbeac-3c37-479e-a342-a4dd866a726b",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "resources/the-ultimate-guide-to-rfi-workflows"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Get the eBook",
+                "contentToHyperlink": [],
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"7e9a67a5-7ebf-4bce-9547-6895ff1a8f5b\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "notVisibleOnMobile": false,
+            "_editable": "<!--#storyblok#{\"name\": \"resourceCard\", \"space\": \"64835\", \"uid\": \"f15fc295-9d32-4eed-aa04-ed357498be60\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "69c075bd-d9b1-4dd1-9770-dff03e2875ff",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "",
+        "clearBg": false,
+        "maxWidth": "",
+        "variants": "default",
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "333f0911-9897-4fe4-a2d9-67f289b6474d",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"79d1f63a-2ffa-4796-af8d-6fb1bb8bb27f\", \"id\": \"24224940\"}-->"
+      },
+      {
+        "_uid": "5f62de6d-20cb-472d-a133-09f04c0767ce",
+        "title": "Frequently asked questions about Autodesk Build.",
+        "component": "accordionModule",
+        "backgroundImage": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "oneAccordionOpen": false,
+        "accordionSections": [
+          {
+            "_uid": "1f67b70f-a57f-4645-b70c-4f4a62a2b7b8",
+            "component": "accordionSection",
+            "sectionTitle": "What is Autodesk Build? ",
+            "expandedContent": [
+              {
+                "_uid": "6323ab2e-ffa3-4da9-a28d-cdb409fcce65",
+                "variant": "default",
+                "markdown": "Autodesk Build provides the tools needed to streamline workflows between the office, trailer, and jobsite. Managing, sharing, and accessing project documents has never been easier. Autodesk Build helps you manage costs more effectively. Streamline your process and make cost management easier than ever before with Autodesk Build. With Autodesk Build, you can monitor quality and safety by using issues and forms. Organize the flow of information with RFIs, submittals and meetings. Track progress as the project evolves to ensure a successful outcome. Autodesk Build makes it easier than ever to take control of your projects and achieve success. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"6323ab2e-ffa3-4da9-a28d-cdb409fcce65\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"1f67b70f-a57f-4645-b70c-4f4a62a2b7b8\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "aed877f0-b91e-4d15-ab19-874faec2c216",
+            "component": "accordionSection",
+            "sectionTitle": "How does Autodesk Build help with construction project management? ",
+            "expandedContent": [
+              {
+                "_uid": "0dcf93af-4ef6-42a4-abed-afabbd2af50b",
+                "variant": "default",
+                "markdown": "Autodesk Build enables construction teams to track project performance in real-time, ensuring that projects are delivered on time and on budget. It also helps to improve collaboration and productivity by providing a single source of truth for all project information. It provides powerful project creation, schedule management and tracking capabilities so that construction teams can effectively monitor progress, collaborate, and make decisions quickly. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"0dcf93af-4ef6-42a4-abed-afabbd2af50b\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"aed877f0-b91e-4d15-ab19-874faec2c216\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "709629ef-e906-44f5-bf89-3af5ccb94f5a",
+            "component": "accordionSection",
+            "sectionTitle": "How does Autodesk Build improve collaboration between teams? ",
+            "expandedContent": [
+              {
+                "_uid": "60b50339-2b2c-4e12-a5a9-e173ef1b5396",
+                "variant": "default",
+                "markdown": "Autodesk Build is a cloud-based platform accessible from any device, allowing teams to collaborate and stay connected no matter where they are. Autodesk Build is the perfect solution for teams looking to increase collaboration, improve project performance and reduce operational costs. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"60b50339-2b2c-4e12-a5a9-e173ef1b5396\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"709629ef-e906-44f5-bf89-3af5ccb94f5a\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "fdf387e5-9b26-4897-8517-c26d9b67fcb8",
+            "component": "accordionSection",
+            "sectionTitle": "Can Autodesk Build integrate with other Autodesk products? ",
+            "expandedContent": [
+              {
+                "_uid": "7f4d1456-f9e9-4134-b776-67ff982a881c",
+                "variant": "default",
+                "markdown": "Autodesk Build helps to bring design data into construction with its connection to Autodesk Docs, BIM Collaborate and BIM Collaborate Pro. With its connection to Autodesk Docs, BIM Collaborate, BIM Collaborate Pro. With these services, teams can collaborate on designs, coordinate models, and manage costs so that projects are completed in a more efficient and timely manner. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"7f4d1456-f9e9-4134-b776-67ff982a881c\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"fdf387e5-9b26-4897-8517-c26d9b67fcb8\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "8f396ab6-ae40-4eb5-9ccb-2eb4bfb2671e",
+            "component": "accordionSection",
+            "sectionTitle": "Is Autodesk Build suitable for small and large projects? ",
+            "expandedContent": [
+              {
+                "_uid": "c2c14737-3615-4e85-9401-822e295ba005",
+                "variant": "default",
+                "markdown": "Autodesk Build is the ultimate construction management solution for businesses of all sizes. Our platform helps you stay on budget and on schedule, promote collaboration, and get the most out of your projects. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"c2c14737-3615-4e85-9401-822e295ba005\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"8f396ab6-ae40-4eb5-9ccb-2eb4bfb2671e\", \"id\": \"24224940\"}-->"
+          },
+          {
+            "_uid": "92f5a64c-a2b5-4758-ba90-1159f819aece",
+            "component": "accordionSection",
+            "sectionTitle": "Is Autodesk Build available on mobile devices? ",
+            "expandedContent": [
+              {
+                "_uid": "1131b825-c274-46ca-a588-a33d4c6d2865",
+                "variant": "default",
+                "markdown": "Yes, the Autodesk Build is available on mobile app. The Autodesk Construction Cloud mobile app is available for members who subscribe to any of the following Autodesk Construction Cloud offerings: \n\n\nAutodesk Build, \nBIM Collaborate, \nBIM Collaborate Pro, \nAutodesk Docs.",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"1131b825-c274-46ca-a588-a33d4c6d2865\", \"id\": \"24224940\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"92f5a64c-a2b5-4758-ba90-1159f819aece\", \"id\": \"24224940\"}-->"
+          }
+        ],
+        "isFaqAsStructuredData": true,
+        "_editable": "<!--#storyblok#{\"name\": \"accordionModule\", \"space\": \"64835\", \"uid\": \"5f62de6d-20cb-472d-a133-09f04c0767ce\", \"id\": \"24224940\"}-->"
+      }
+    ],
+    "isTyp": false,
+    "config": [],
+    "subNav": "63b6148b-15f5-47b6-8ce3-6e090938056f",
+    "typFor": {
+      "id": "",
+      "url": "",
+      "linktype": "story",
+      "fieldtype": "multilink",
+      "cached_url": ""
+    },
+    "noIndex": false,
+    "variant": "default",
+    "markdown": "",
+    "metaData": {
+      "_uid": "a14c39e0-42d8-463c-b539-95823b2f70be",
+      "title": "Project Management Software For Construction | Autodesk Build",
+      "plugin": "seo_metatags",
+      "og_image": "",
+      "og_title": "",
+      "description": "Utilize project management software for construction platform empower your team to seamlessly collaborate and deliver projects on time, on budget. ",
+      "twitter_image": "",
+      "twitter_title": "",
+      "og_description": "",
+      "twitter_description": ""
+    },
+    "component": "page",
+    "framework": "gatsby",
+    "passwords": [],
+    "topNavCTA": [
+      {
+        "_uid": "9c5c4615-3ad3-4eb6-8d21-879722b0cd67",
+        "icon": "chevron_right",
+        "size": "medium",
+        "text": "Try Now",
+        "color": {
+          "_uid": "b69da622-3c36-4363-b6e2-7983d4dcf096",
+          "color": "#000002",
+          "plugin": "official-colorpicker"
+        },
+        "modal": [],
+        "params": "",
+        "bgColor": {
+          "_uid": "1ef63281-b17f-4ecd-be9c-edddcf5d311f",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "linksTo": {
+          "id": "f787dba0-1512-435a-99b0-647b90854869",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": "us/trial/autodesk-build"
+        },
+        "variant": "contained",
+        "disabled": false,
+        "dropdown": [],
+        "fragment": "",
+        "component": "button",
+        "fullWidth": false,
+        "dataProduct": "",
+        "modalIsDark": false,
+        "openInNewTab": false,
+        "dataAnalytics": "",
+        "alignmentButton": "left",
+        "forwardUTMParams": true,
+        "anchorLinkIsInvisible": false,
+        "isButtonAssetDownload": false,
+        "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"9c5c4615-3ad3-4eb6-8d21-879722b0cd67\", \"id\": \"24224940\"}-->"
+      }
+    ],
+    "l10nExport": true,
+    "dataProduct": "",
+    "headerImage": [],
+    "invertedNav": false,
+    "topNavPhone": "",
+    "wistiaVideo": [],
+    "removeSubNav": false,
+    "canonicalPage": "",
+    "isLandingPage": false,
+    "redirectModal": "",
+    "swapLogoNavLP": "",
+    "conversionType": "",
+    "customNavLogin": [],
+    "customTopBanner": [],
+    "exitIntentModal": [],
+    "passwordProtect": false,
+    "removeBottomNav": false,
+    "removeTopBanner": false,
+    "removeNavLogoLink": false,
+    "_editable": "<!--#storyblok#{\"name\": \"page\", \"space\": \"64835\", \"uid\": \"5195e14d-de5a-438e-8fe7-8b952b39dd20\", \"id\": \"24224940\"}-->"
+  }
+}

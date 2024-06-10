@@ -21,46 +21,17 @@ function DynamicBtn({ blok, bg }) {
     button_tertiary: "button-tertiary",
   };
 
-  const { dataProduct } = useContext(PageContext);
-  const trackingAttr = composeTrackingAttr({
-    analytics: blok?.dataAnalytics,
-    product: blok?.dataProduct || dataProduct,
-  });
-  const href = multilinkToUrl(blok.linkUrl);
-  const wistiaId = href.includes("#wistia_")
-    ? href.substring("#wistia_".length)
-    : null;
-  const [wistiaScriptLoaded, setWistiaScriptLoaded] = useState(false);
-
-  useEffect(() => {
-    if (wistiaScriptLoaded) {
-      initWistiaPopover(wistiaId);
-    }
-  }, [wistiaScriptLoaded]);
-
-  const handleClick = (e) => {
-    if (blok?.mutinyConversion) {
-      triggerMutinyConversion(blok.mutinyConversion);
-    }
-
-    if (wistiaId && !wistiaScriptLoaded) {
-      e.preventDefault();
-      loadWistiaScript(setWistiaScriptLoaded);
-    }
-  };
-
   const renderButton = () => {
     return (
       <Link
-        href={href}
+        href={"#"}
         className={clsx(
-          "button relative inline-block cursor-pointer rounded-[4px] ",
+          "button relative mb-[1px] inline-block cursor-pointer rounded-[4px] ",
           twConfig[modifyStr(blok?.style)],
           blok?.icon && "icon !pr-[46px]",
+          blok?.type == "Login" && "login-btn",
           bg,
         )}
-        onClick={handleClick}
-        {...trackingAttr}
       >
         {blok?.text}
         <span className="absolute right-[16px] top-[50%] h-[24px] w-[24px] translate-y-[-50%] bg-contain bg-center bg-no-repeat">
@@ -70,18 +41,7 @@ function DynamicBtn({ blok, bg }) {
     );
   };
 
-  if (wistiaId) {
-    return (
-      <span>
-        <span
-          className={`wistia_embed wistia_async_${wistiaId} popover=true popoverContent=link absolute`}
-        />
-        {renderButton()}
-      </span>
-    );
-  } else {
-    return <>{renderButton()}</>;
-  }
+  return <>{renderButton()}</>;
 }
 
 export default DynamicBtn;

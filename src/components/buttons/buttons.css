@@ -33,10 +33,13 @@
 }
 
 .link-with-underline {
-  @apply py-[12px] uppercase text-black underline transition-all duration-200 hover:text-iris focus:text-iris focus:opacity-[1];
+  @apply py-[12px] uppercase text-black transition-all duration-200 hover:text-iris focus:text-iris focus:opacity-[1];
+}
+.link-with-underline:hover svg .cls-2 {
+  @apply stroke-iris;
 }
 .link-with-underline::after {
-  @apply absolute bottom-[5px] left-0 h-[1px] w-full bg-black content-[""];
+  @apply absolute bottom-[9px] left-0 h-[1px] w-full bg-black content-[""];
 }
 .link-with-underline:hover::after {
   @apply bg-iris;
@@ -49,13 +52,16 @@
   @apply py-[8px] pr-[20px] uppercase text-white transition-all duration-200 hover:text-iris hover:opacity-[0.6] focus:text-iris focus:opacity-[1];
 }
 .link-with-underline-white::after {
-  @apply absolute bottom-[5px] left-0 h-[1px] w-full bg-white content-[""];
+  @apply absolute bottom-[9px] left-0 h-[1px] w-full bg-white content-[""];
 }
 .link-with-underline-white.icon::after {
   @apply w-[calc(100%-17px)];
 }
 .link-with-underline-white:hover::after {
   @apply bg-iris;
+}
+.link-with-underline-white:hover svg .cls-2 {
+  @apply stroke-iris;
 }
 
 /* button Tertiary */

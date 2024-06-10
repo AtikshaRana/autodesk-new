@@ -1,0 +1,2081 @@
+{
+  "full_slug": "us/products/construction-app",
+  "content": {
+    "_uid": "5195e14d-de5a-438e-8fe7-8b952b39dd20",
+    "body": [
+      {
+        "_uid": "deffe3b3-5412-4fe1-8697-b42815f04961",
+        "title": "The mobile construction app built for the field\n",
+        "video": "",
+        "button": [
+          {
+            "_uid": "008bf0ef-93db-498f-9ef8-acf5a244c062",
+            "icon": "chevron_right",
+            "size": "large",
+            "text": "Try for Free",
+            "color": {
+              "_uid": "162a7387-b851-4909-ace2-a7749b85a466",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "modal": [],
+            "params": "",
+            "bgColor": {
+              "_uid": "1d1c2d8d-8b60-413a-afd3-507f0759f799",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "linksTo": {
+              "id": "f787dba0-1512-435a-99b0-647b90854869",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "us/trial/autodesk-build"
+            },
+            "variant": "contained",
+            "disabled": false,
+            "dropdown": [],
+            "fragment": "",
+            "component": "button",
+            "fullWidth": false,
+            "dataProduct": "plangrid",
+            "modalIsDark": false,
+            "openInNewTab": false,
+            "dataAnalytics": "cta-demo",
+            "alignmentButton": "left",
+            "forwardUTMParams": true,
+            "anchorLinkIsInvisible": false,
+            "isButtonAssetDownload": false,
+            "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"008bf0ef-93db-498f-9ef8-acf5a244c062\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "bgImage": [],
+        "topLogo": "",
+        "variant": "default",
+        "appLinks": [
+          {
+            "_uid": "175526cf-47de-44ec-9c65-b0c3b3ee4ccf",
+            "icon": [
+              {
+                "_uid": "a627b2f3-74ca-48d9-b5f7-90c80029573c",
+                "image": "//a.storyblok.com/f/64835/16x19/100d925ae7/apple-ios-1.svg",
+                "title": "apple ios logo",
+                "width": "",
+                "height": "",
+                "altText": "apple ios logo",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Contain",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"a627b2f3-74ca-48d9-b5f7-90c80029573c\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "link": {
+              "id": "",
+              "url": "https://apps.apple.com/us/app/plangrid-construction-software/id498795789",
+              "_uid": "ca127c40-3a71-42ea-a29b-729c0734503a",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "https://apps.apple.com/us/app/plangrid-construction-software/id498795789"
+            },
+            "params": "",
+            "allCaps": false,
+            "variant": "",
+            "download": "",
+            "fragment": "",
+            "noFollow": false,
+            "component": "link",
+            "downloadable": false,
+            "openInNewTab": false,
+            "textToHyperlink": "Available on the App Store",
+            "linkWithoutBorder": false,
+            "contentToHyperlink": [],
+            "linkWithoutUnderline": true,
+            "anchorLinkIsInvisible": false,
+            "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"175526cf-47de-44ec-9c65-b0c3b3ee4ccf\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "1262f2e6-5ac4-484e-aca9-f590b5cd5689",
+            "icon": [
+              {
+                "_uid": "8e4467c2-ee4c-46ac-8620-2dc140a661cb",
+                "image": "//a.storyblok.com/f/64835/16x18/51d36aecf7/google-play-1.svg",
+                "title": "google play store icon",
+                "width": "",
+                "height": "",
+                "altText": "google play store icon",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Contain",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"8e4467c2-ee4c-46ac-8620-2dc140a661cb\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "link": {
+              "id": "",
+              "url": "https://play.google.com/store/apps/details?id=com.plangrid.android&hl=en_US&gl=US",
+              "_uid": "7b7d2890-df59-4b6d-a84d-c882ae6b262a",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "https://play.google.com/store/apps/details?id=com.plangrid.android&hl=en_US&gl=US"
+            },
+            "params": "",
+            "allCaps": false,
+            "variant": "standard",
+            "download": "",
+            "fragment": "",
+            "noFollow": false,
+            "component": "link",
+            "downloadable": false,
+            "openInNewTab": false,
+            "textToHyperlink": "Get it on Google Play",
+            "contentToHyperlink": [],
+            "linkWithoutUnderline": true,
+            "anchorLinkIsInvisible": false,
+            "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"1262f2e6-5ac4-484e-aca9-f590b5cd5689\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "infoText": "",
+        "alertText": "Autodesk Construction Cloud mobile",
+        "boldTitle": false,
+        "component": "heroFrame",
+        "titleSize": "medium",
+        "description": "Make critical decisions faster with one mobile construction app for **Autodesk Build**, **Autodesk BIM Collaborate**, **Autodesk BIM Collaborate Pro** and **Autodesk Docs**.",
+        "bgImageAlign": "",
+        "moduleHeight": "60vh",
+        "secondaryCTA": [],
+        "smallerTitle": false,
+        "alertTextIsH1": false,
+        "bottomContent": [],
+        "topLogoH1Text": "",
+        "breadcrumbLink": [],
+        "textProportion": "50",
+        "backgroundImage": "//a.storyblok.com/f/64835/3840x2160/80c0f24af7/plangrid-build-website-hero-2x.png",
+        "foregroundImage": "",
+        "rightImageAlign": [],
+        "topLogoMaxHeight": "",
+        "alertTextPosition": "100%",
+        "eyebrowCustomColor": {
+          "_uid": "bcbcc2cb-f02a-4ec1-9a92-a8481986f5d0",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "smallerDescription": false,
+        "hasBackgroundOverlay": false,
+        "_editable": "<!--#storyblok#{\"name\": \"heroFrame\", \"space\": \"64835\", \"uid\": \"deffe3b3-5412-4fe1-8697-b42815f04961\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "45772ea7-7b48-40f9-aaae-e056eb911267",
+        "amount": "0",
+        "margin": "",
+        "bgColor": {
+          "_uid": "46a938d9-af7f-45ae-9b42-75bb0a8b195b",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "products",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"45772ea7-7b48-40f9-aaae-e056eb911267\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "be4b44d2-7267-4076-8dd4-5f08453f6fa0",
+        "amount": "7",
+        "margin": "",
+        "bgColor": {
+          "_uid": "0ba0f15b-db4d-4b1c-88e1-1161b07b5819",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"be4b44d2-7267-4076-8dd4-5f08453f6fa0\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "adc0fcfd-227c-4330-b518-ab4f8986917b",
+        "body": [],
+        "icon": [],
+        "title": "",
+        "variant": "",
+        "iconText": "",
+        "subtitle": "Manage the jobsite and the office with one construction management app.",
+        "component": "titleSubtitleDescriptionModule",
+        "smallTitle": true,
+        "description": [
+          {
+            "_uid": "dfece86c-055b-4b9c-97ba-c22950654b8a",
+            "variant": "",
+            "markdown": "Access the following products with the Autodesk Construction Cloud mobile app",
+            "component": "markdown",
+            "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"dfece86c-055b-4b9c-97ba-c22950654b8a\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "iconTextIsH1": false,
+        "subtitleColor": {
+          "_uid": "ac9c5e35-158e-4fd3-8abe-90770b6e9577",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "textAlignment": "",
+        "subtitleProportion": "",
+        "descriptionProportion": "",
+        "_editable": "<!--#storyblok#{\"name\": \"titleSubtitleDescriptionModule\", \"space\": \"64835\", \"uid\": \"adc0fcfd-227c-4330-b518-ab4f8986917b\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "7c188a81-ada0-48c7-b0ba-0c3b5c6821ef",
+        "cards": [
+          {
+            "_uid": "eca7e8b6-d9ae-4f6c-9768-be73cdb74c6e",
+            "logo": [],
+            "name": [
+              {
+                "_uid": "6d747db9-f6d8-48c0-911e-ca01e32eb724",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "isH1ForPage": false,
+                "productName": "",
+                "productImage": [
+                  {
+                    "_uid": "8a375b1e-432f-4f7d-afab-24f3551271f8",
+                    "image": "//a.storyblok.com/f/64835/x/77d2516795/b-build.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Autodesk Build",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "55px",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "mobileImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "objectPosition": "left",
+                    "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"8a375b1e-432f-4f7d-afab-24f3551271f8\", \"id\": \"24225403\"}-->"
+                  }
+                ],
+                "isProductCard": true,
+                "hasPrecedingLogo": false,
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"6d747db9-f6d8-48c0-911e-ca01e32eb724\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "image": [
+              {
+                "_uid": "2c1ad7c1-7c9a-4247-b8af-f53e1bfca8ad",
+                "image": "//a.storyblok.com/f/64835/x/d6abd5c812/iso-build.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Autodesk Build isometric drawing of a building under construction.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Contain",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"2c1ad7c1-7c9a-4247-b8af-f53e1bfca8ad\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "isNav": false,
+            "button": [
+              {
+                "_uid": "63019f84-c37b-44a2-b540-00321fd0bc9c",
+                "icon": "chevron_right",
+                "size": "medium",
+                "text": "Try Now",
+                "color": {
+                  "_uid": "7db8804c-f965-432a-92a0-1ead677c41f7",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "modal": [],
+                "params": "",
+                "bgColor": {
+                  "_uid": "19cc9b65-8714-4515-a112-c50fb422ec65",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "f787dba0-1512-435a-99b0-647b90854869",
+                  "url": "",
+                  "_uid": "84e93861-5a04-446b-b2b7-978daba60cf0",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/trial/autodesk-build"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "dropdown": [],
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "dataProduct": "build",
+                "modalIsDark": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-trial",
+                "alignmentButton": "left",
+                "forwardUTMParams": true,
+                "anchorLinkIsInvisible": false,
+                "isButtonAssetDownload": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"63019f84-c37b-44a2-b540-00321fd0bc9c\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "linksTo": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "variant": "",
+            "component": "unifiedProductCard",
+            "bottomImage": [],
+            "description": "Improve construction management and empower all builders with connected teams, workflows, and data",
+            "secondaryCta": [
+              {
+                "_uid": "797fd59b-081f-4f17-91af-a94f90a1d106",
+                "icon": [],
+                "link": {
+                  "id": "13646988-0b1f-460e-be33-3ebf7902980d",
+                  "url": "",
+                  "_uid": "ee3a6c1c-a3a3-4baa-9091-c45cfa4434be",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/products/autodesk-build"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "blueWithDashed",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "generic",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-learn-more",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"797fd59b-081f-4f17-91af-a94f90a1d106\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "bottomSectionHeight": "",
+            "_editable": "<!--#storyblok#{\"name\": \"unifiedProductCard\", \"space\": \"64835\", \"uid\": \"eca7e8b6-d9ae-4f6c-9768-be73cdb74c6e\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "481c417f-9b46-4ff6-862a-ab296082d021",
+            "logo": [],
+            "name": [
+              {
+                "_uid": "97009ce7-e9fa-4a0f-85a4-70572290509e",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "isH1ForPage": false,
+                "productName": "",
+                "productImage": [
+                  {
+                    "_uid": "01aafe25-ec65-4f54-8a67-0ece5da7e709",
+                    "image": "//a.storyblok.com/f/64835/x/2d591a9b2a/d-docs.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Autodesk Docs",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "55px",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "mobileImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "objectPosition": "left",
+                    "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"01aafe25-ec65-4f54-8a67-0ece5da7e709\", \"id\": \"24225403\"}-->"
+                  }
+                ],
+                "isProductCard": true,
+                "hasPrecedingLogo": false,
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"97009ce7-e9fa-4a0f-85a4-70572290509e\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "image": [
+              {
+                "_uid": "7deea38e-f2b5-4c1f-8a92-d8fea3beba7c",
+                "image": "//a.storyblok.com/f/64835/x/687c56c940/iso-docs.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Autodesk PlanGrid Build isometric of field construction on the go.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Contain",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"7deea38e-f2b5-4c1f-8a92-d8fea3beba7c\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "isNav": false,
+            "button": [
+              {
+                "_uid": "5cee5be9-c55f-4352-aad4-5a9e609f92a0",
+                "icon": "chevron_right",
+                "size": "medium",
+                "text": "Try Now",
+                "color": {
+                  "_uid": "b3878bb5-3162-48f7-b5ba-c4c57f8675f3",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "modal": [],
+                "params": "",
+                "bgColor": {
+                  "_uid": "aa7de9de-7204-462d-8570-dffb7d1368d3",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "",
+                  "url": "https://acc.autodesk.com/access/start-trial?key=TRIAL-BM36DP",
+                  "_uid": "a172ea96-a29f-418a-b5fa-ef190ebb8cd3",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://acc.autodesk.com/access/start-trial?key=TRIAL-BM36DP"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "dropdown": [],
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "dataProduct": "docs",
+                "modalIsDark": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-trial",
+                "alignmentButton": "left",
+                "forwardUTMParams": false,
+                "anchorLinkIsInvisible": false,
+                "isButtonAssetDownload": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"5cee5be9-c55f-4352-aad4-5a9e609f92a0\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "linksTo": {
+              "id": "",
+              "url": "",
+              "_uid": "9eb2a013-e3bf-4361-80ae-1900a9d19f88",
+              "anchor": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "variant": "",
+            "component": "unifiedProductCard",
+            "bottomImage": [],
+            "description": "Centralize document management for a single source of truth across the project lifecycle for all project teams.",
+            "secondaryCta": [
+              {
+                "_uid": "cda1daa4-3c15-45c7-b540-3b9c9c201caa",
+                "icon": [],
+                "link": {
+                  "id": "aa199d2e-bd93-4960-b9b2-4199a01a4cb3",
+                  "url": "",
+                  "_uid": "f11ddf32-c66c-4e5a-9870-ddcbcf24b214",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/products/autodesk-docs"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "subLink": [],
+                "variant": "blueWithDashed",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "generic",
+                "downloadable": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"cda1daa4-3c15-45c7-b540-3b9c9c201caa\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "bottomSectionHeight": "",
+            "_editable": "<!--#storyblok#{\"name\": \"unifiedProductCard\", \"space\": \"64835\", \"uid\": \"481c417f-9b46-4ff6-862a-ab296082d021\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "acace740-b91e-487e-9c9d-64bac8d6fc8f",
+            "logo": [],
+            "name": [
+              {
+                "_uid": "74a7659d-ce1d-434a-a9a6-445a29849f0a",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "isH1ForPage": false,
+                "productName": "",
+                "productImage": [
+                  {
+                    "_uid": "d24efdac-90eb-4708-b77a-be0e6b6a708e",
+                    "image": "//a.storyblok.com/f/64835/x/799b856ebc/c-bim-collaborate.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Autodesk BIM Collaborate",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "55px",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "mobileImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "objectPosition": "left",
+                    "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"d24efdac-90eb-4708-b77a-be0e6b6a708e\", \"id\": \"24225403\"}-->"
+                  }
+                ],
+                "isProductCard": true,
+                "hasPrecedingLogo": false,
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"74a7659d-ce1d-434a-a9a6-445a29849f0a\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "image": [
+              {
+                "_uid": "0c65670a-dedf-4670-a841-a78d63a45cca",
+                "image": "//a.storyblok.com/f/64835/x/fc370f25f0/iso-bim-collaborate.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Autodesk BIM Collaborate isometric drawing of construction collaboration.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Contain",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"0c65670a-dedf-4670-a841-a78d63a45cca\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "isNav": false,
+            "button": [
+              {
+                "_uid": "27b1f82f-f8ca-4b01-b8aa-ce07c1b4617e",
+                "icon": "chevron_right",
+                "size": "medium",
+                "text": "Try Now",
+                "color": {
+                  "_uid": "a5e4cf65-5406-4a7a-8088-5bef5f35e6e9",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "modal": [],
+                "params": "",
+                "bgColor": {
+                  "_uid": "d154365a-53ef-4b3a-b31d-106603d6ab0b",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "97c82f03-e6be-41e2-9124-c69e49a2f92f",
+                  "url": "",
+                  "_uid": "eec93005-1dbf-4a3c-be60-4e899df59ea8",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/trial/autodesk-bim-collaborate"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "dropdown": [],
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "dataProduct": "bim_collab",
+                "modalIsDark": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-trial",
+                "alignmentButton": "left",
+                "forwardUTMParams": false,
+                "anchorLinkIsInvisible": false,
+                "isButtonAssetDownload": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"27b1f82f-f8ca-4b01-b8aa-ce07c1b4617e\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "linksTo": {
+              "id": "",
+              "url": "",
+              "_uid": "c7f41172-a4e5-453a-8767-d367db4cd602",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "variant": "",
+            "component": "unifiedProductCard",
+            "bottomImage": [],
+            "description": "Connect decision-makers and construction teams to manage design reviews and automate model coordination with trades. ",
+            "secondaryCta": [
+              {
+                "_uid": "d5671926-6b98-4a20-837b-a1aa0d40d46d",
+                "icon": [],
+                "link": {
+                  "id": "01725c81-5823-4fde-89ad-7dfdabeba2b9",
+                  "url": "",
+                  "_uid": "d86c6b1a-0803-437a-ad82-ed29221963a5",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/autodesk-bim-collaborate"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "blueWithDashed",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"d5671926-6b98-4a20-837b-a1aa0d40d46d\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "bottomSectionHeight": "",
+            "_editable": "<!--#storyblok#{\"name\": \"unifiedProductCard\", \"space\": \"64835\", \"uid\": \"acace740-b91e-487e-9c9d-64bac8d6fc8f\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "b70c5280-089a-428a-a605-388c539b8c95",
+            "logo": [],
+            "name": [
+              {
+                "_uid": "cd592cd9-38e4-4829-8db7-9d3f69aa71ba",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "isH1ForPage": false,
+                "productName": "",
+                "productImage": [
+                  {
+                    "_uid": "9982b1d0-e47f-48e1-a243-5f442f331fb0",
+                    "image": "//a.storyblok.com/f/64835/x/072a29b497/c-bim-collaborate-pr.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Autodesk BIM Collaborate Pro",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "mobileImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                      "id": null,
+                      "alt": null,
+                      "name": "",
+                      "focus": null,
+                      "title": null,
+                      "filename": null,
+                      "copyright": null,
+                      "fieldtype": "asset"
+                    },
+                    "objectPosition": "left",
+                    "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"9982b1d0-e47f-48e1-a243-5f442f331fb0\", \"id\": \"24225403\"}-->"
+                  }
+                ],
+                "isProductCard": true,
+                "backgroundColor": {
+                  "_uid": "056d1624-105d-48be-949c-d170d766d0b6",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "hasPrecedingLogo": false,
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"cd592cd9-38e4-4829-8db7-9d3f69aa71ba\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "image": [
+              {
+                "_uid": "9ee44703-b3e2-496e-af4a-691a0be5509e",
+                "image": "//a.storyblok.com/f/64835/x/fc370f25f0/iso-bim-collaborate.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Autodesk BIM Collaborate isometric drawing of construction collaboration.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Contain",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"9ee44703-b3e2-496e-af4a-691a0be5509e\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "isNav": false,
+            "button": [
+              {
+                "_uid": "fe06ded8-691d-43c2-8639-b68355ca2714",
+                "icon": "chevron_right",
+                "size": "medium",
+                "text": "Try Now",
+                "color": {
+                  "_uid": "2318bbf3-d284-4130-abf7-4967e95d10d6",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "modal": [],
+                "params": "",
+                "bgColor": {
+                  "_uid": "a28acb9d-e9e7-4f05-b2d6-aab6bb005edb",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "",
+                  "url": "https://projectdelivery.autodesk.com/bim-collaborate-trials/coming-soon/",
+                  "_uid": "6ad7da66-7e05-4bd7-bba0-b7cf2d94e387",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://projectdelivery.autodesk.com/bim-collaborate-trials/coming-soon/"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "dropdown": [],
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "dataProduct": "bim_collab_pro",
+                "modalIsDark": false,
+                "openInNewTab": false,
+                "dataAnalytics": "cta-trial",
+                "alignmentButton": "left",
+                "forwardUTMParams": false,
+                "anchorLinkIsInvisible": false,
+                "isButtonAssetDownload": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"fe06ded8-691d-43c2-8639-b68355ca2714\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "linksTo": {
+              "id": "",
+              "url": "",
+              "_uid": "c7f41172-a4e5-453a-8767-d367db4cd602",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "variant": "",
+            "component": "unifiedProductCard",
+            "bottomImage": [],
+            "description": "Co-author designs, perform design reviews, and automate model coordination with trades in the office and the field.",
+            "secondaryCta": [
+              {
+                "_uid": "c17ea535-76ea-4683-8edb-e6fe1cbb9003",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://www.autodesk.com/products/bim-collaborate/overview",
+                  "_uid": "77d98c45-a64e-486a-9af1-f967d1eaca23",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://www.autodesk.com/products/bim-collaborate/overview"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "variant": "blueWithDashed",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "forcePageLoad": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"c17ea535-76ea-4683-8edb-e6fe1cbb9003\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "bottomSectionHeight": "",
+            "_editable": "<!--#storyblok#{\"name\": \"unifiedProductCard\", \"space\": \"64835\", \"uid\": \"b70c5280-089a-428a-a605-388c539b8c95\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "99b42518-da40-419f-836e-57e741481dbb",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "",
+        "clearBg": false,
+        "advanced": "",
+        "maxWidth": "",
+        "variants": "default",
+        "alignment": "center",
+        "boldTitle": false,
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "removeMargin": false,
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "ed91dc23-786a-4776-9800-95cfcbe17254",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "leftAlignedCards": false,
+        "overrideColumnWidth": "2",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"7c188a81-ada0-48c7-b0ba-0c3b5c6821ef\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "94eaa95c-1e7f-4627-b57f-093174185ff6",
+        "amount": "0",
+        "margin": "",
+        "bgColor": {
+          "_uid": "aebedcc3-1bd0-4788-aeb0-c1bd6ce9ae72",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "plangridbuild-features",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"94eaa95c-1e7f-4627-b57f-093174185ff6\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "6f13a381-3c9a-48f9-8293-d0dd14d49787",
+        "amount": "8",
+        "margin": "",
+        "bgColor": {
+          "_uid": "0ba0f15b-db4d-4b1c-88e1-1161b07b5819",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"6f13a381-3c9a-48f9-8293-d0dd14d49787\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "m": "",
+        "p": "",
+        "id": "",
+        "mb": "",
+        "ml": "",
+        "mr": "",
+        "mt": "",
+        "mx": "",
+        "my": "",
+        "pb": "",
+        "pl": "",
+        "pr": "",
+        "pt": "",
+        "px": "",
+        "py": "",
+        "css": [],
+        "top": "",
+        "_uid": "73299ed8-8bca-4d2d-b210-1f0a9e341aba",
+        "flex": "",
+        "left": "",
+        "clone": false,
+        "color": {
+          "_uid": "a1f79d79-7d74-408d-9f49-dc93ee9c38ba",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "order": "",
+        "right": "",
+        "width": "auto",
+        "border": "",
+        "bottom": "",
+        "height": "auto",
+        "zIndex": "",
+        "bgColor": {
+          "_uid": "8d16abda-41d6-48b4-848c-fab1130e6a52",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "bgImage": "",
+        "content": [
+          {
+            "_uid": "857e95c4-8d3a-44c6-baf6-58928ab0fc16",
+            "color": {
+              "_uid": "01a86827-da5c-4b10-9164-a00e9fb3079f",
+              "color": "#C4C4C4",
+              "plugin": "official-colorpicker"
+            },
+            "bgColor": {
+              "_uid": "51bbe70e-ae20-4a1f-8498-a58f641891e7",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "variant": "",
+            "component": "horizontalRule",
+            "lineHeight": "1",
+            "widthProportion": "100",
+            "_editable": "<!--#storyblok#{\"name\": \"horizontalRule\", \"space\": \"64835\", \"uid\": \"857e95c4-8d3a-44c6-baf6-58928ab0fc16\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "display": "flex",
+        "htmlTag": "div",
+        "flexGrow": "",
+        "flexWrap": "",
+        "fontSize": "",
+        "maxWidth": "initial",
+        "minWidth": "initial",
+        "overflow": "",
+        "position": "",
+        "alignSelf": "",
+        "borderTop": "",
+        "boxShadow": "",
+        "component": "box",
+        "displayLG": "",
+        "displayMD": "",
+        "displaySM": "",
+        "displayXL": "",
+        "displayXS": "",
+        "fontStyle": "",
+        "maxHeight": "initial",
+        "minHeight": "initial",
+        "textAlign": "",
+        "alignItems": "",
+        "borderLeft": "",
+        "flexShrink": "",
+        "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+        "fontWeight": "",
+        "lineHeight": "",
+        "visibility": "",
+        "whiteSpace": "",
+        "borderColor": {
+          "_uid": "a745d5dd-f0fb-4b73-80e3-e8d47dc9f055",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "borderRight": "",
+        "alignContent": "",
+        "borderBottom": "",
+        "borderRadius": "",
+        "displayPrint": "",
+        "textOverflow": "",
+        "flexDirection": "row",
+        "letterSpacing": "",
+        "justifyContent": "center",
+        "optimizelyTest": {
+          "_uid": "20af15ff-f059-4100-8b70-9cdfc10a69e3",
+          "plugin": "optimizely",
+          "segments": []
+        },
+        "hasPageContainer": true,
+        "hasFixedContainer": true,
+        "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"73299ed8-8bca-4d2d-b210-1f0a9e341aba\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "79338c78-5177-4260-bec9-c19c4d7975dc",
+        "amount": "0",
+        "margin": "",
+        "bgColor": {
+          "_uid": "01cab169-7d1e-447d-bd8c-8d3662f29a78",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "features",
+        "component": "spacing",
+        "isFullWidth": true,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"79338c78-5177-4260-bec9-c19c4d7975dc\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "d7bd49ed-15b8-4f95-be97-0117db0e0a79",
+        "amount": "3",
+        "margin": "",
+        "bgColor": {
+          "_uid": "ac8ae6b3-af9e-4b82-826a-694b1e05cb26",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"d7bd49ed-15b8-4f95-be97-0117db0e0a79\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "0d1c4596-a05d-473f-bff2-5f3c84af5550",
+        "title": "Work with project data easily on site",
+        "features": [
+          {
+            "cta": [],
+            "_uid": "1ba68916-091d-43ad-9227-1b8e512b456e",
+            "component": "deviceFrameFeature",
+            "description": "Find information with quick sheet viewing and intuitive model navigation. ",
+            "featureName": "View 3D Models and Sheets",
+            "previewMedia": {
+              "id": 1841412,
+              "alt": "",
+              "_uid": "acb3d705-5829-41d6-a81d-f615abf80932",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/x/66949013ff/viewing-sheets-and-3d-models.mp4",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"1ba68916-091d-43ad-9227-1b8e512b456e\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "f29e1852-edc6-489c-8a69-7dfadf85c542",
+            "component": "deviceFrameFeature",
+            "description": "Call attention to project updates, changes, and critical information across projects.",
+            "featureName": "Create markups in the field",
+            "previewMedia": {
+              "id": 7485279,
+              "alt": "Autodesk Build Markups",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/1170x2532/9cf8307fc0/markups_screenshot.png",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"f29e1852-edc6-489c-8a69-7dfadf85c542\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "f7968109-c868-4540-9272-aa824f362fd0",
+            "component": "deviceFrameFeature",
+            "description": "Sync project data and enjoy access to information offline.",
+            "featureName": "Access data online and offline ",
+            "previewMedia": {
+              "id": 1841408,
+              "alt": "",
+              "_uid": "568eccdf-4796-4b1b-a5cc-a501e8cd8aa7",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/x/1d33b5fdc3/mobile-sync.mp4",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"f7968109-c868-4540-9272-aa824f362fd0\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "aed8c946-4e2a-4a4e-a40d-87a72b7ea5ff",
+            "component": "deviceFrameFeature",
+            "description": "Create and view all design, quality, and safety issues.",
+            "featureName": "Log safety and quality issues",
+            "previewMedia": {
+              "id": 1841410,
+              "alt": "",
+              "_uid": "81d86c85-9e27-44af-91e9-7b3d11c25f2c",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/x/8940f9d255/complete-tasks-smoothly.mp4",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"aed8c946-4e2a-4a4e-a40d-87a72b7ea5ff\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "e8ce7563-0201-4bec-a867-52f59fa94c85",
+            "component": "deviceFrameFeature",
+            "description": "Create an RFI and get notified when your question is answered.",
+            "featureName": "Manage RFIs effortlessly",
+            "previewMedia": {
+              "id": 1841411,
+              "alt": "",
+              "_uid": "00835e04-2a88-4115-b067-0cf20014fc00",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/x/1c19b0370d/manage-rfis-effortlessly.mp4",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"e8ce7563-0201-4bec-a867-52f59fa94c85\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "8dda56d0-a66f-4cc4-a0f1-5200faee3764",
+            "component": "deviceFrameFeature",
+            "description": "Complete all safety, quality, and daily reports. ",
+            "featureName": "Fill out checklists onsite",
+            "previewMedia": {
+              "id": 1841430,
+              "alt": "",
+              "_uid": "3d053698-47e8-491d-a23b-dfc881a60d90",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/x/89cc653dbd/complete-checklists-onsite.mp4",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"8dda56d0-a66f-4cc4-a0f1-5200faee3764\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "e480e73e-6f22-4a80-a09e-67d2a25cb09b",
+            "component": "deviceFrameFeature",
+            "description": "Share project context through photographs from the job site.",
+            "featureName": "Capture site photographs",
+            "previewMedia": {
+              "id": 1841413,
+              "alt": "",
+              "_uid": "31b48058-f5d4-4073-a9f2-73925a90bf4e",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/x/dec03b64f5/add-tags-to-photos.mp4",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"e480e73e-6f22-4a80-a09e-67d2a25cb09b\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "4b7c2379-24cc-4e38-8dd8-6a55c6fd817b",
+            "component": "deviceFrameFeature",
+            "description": "Access approved submittals immediately.",
+            "featureName": "Simplify submittals",
+            "previewMedia": {
+              "id": 7485299,
+              "alt": "Autodesk Build Submittals",
+              "name": "",
+              "focus": null,
+              "title": "",
+              "filename": "https://a.storyblok.com/f/64835/1179x2556/71b00ef86b/submittals_screenshot.png",
+              "copyright": "",
+              "fieldtype": "asset"
+            },
+            "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeature\", \"space\": \"64835\", \"uid\": \"4b7c2379-24cc-4e38-8dd8-6a55c6fd817b\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "component": "deviceFrameFeatureModule",
+        "deviceType": "mobile",
+        "_editable": "<!--#storyblok#{\"name\": \"deviceFrameFeatureModule\", \"space\": \"64835\", \"uid\": \"0d1c4596-a05d-473f-bff2-5f3c84af5550\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "ca20dd3a-3379-4fd1-bff1-23b317121b78",
+        "amount": "12",
+        "margin": "",
+        "bgColor": {
+          "_uid": "3f0f42cb-857e-4439-8437-66914b71ed14",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"ca20dd3a-3379-4fd1-bff1-23b317121b78\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "44002c85-259e-4a7a-9944-ae96948e7dba",
+        "quote": "The ability to access 3D models from the field eliminates confusion and allows us to come to a real-time resolution for any issues onsite. This capability reduces risk and provides cost and time-savings while ensuring we deliver high-quality projects to our clients.",
+        "variant": "headline",
+        "headline": "",
+        "component": "quoteModule",
+        "authorName": "",
+        "attribution": "Briana Mitchell, Project Manager at The Boldt Company",
+        "authorImage": [],
+        "removeTopSpacing": false,
+        "_editable": "<!--#storyblok#{\"name\": \"quoteModule\", \"space\": \"64835\", \"uid\": \"44002c85-259e-4a7a-9944-ae96948e7dba\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "0482c9af-d8b7-4f3a-a131-19bd1081ae0f",
+        "link": [],
+        "button": [
+          {
+            "_uid": "29390e8d-1194-4d31-940b-a98ff9f318d7",
+            "icon": "chevron_right",
+            "size": "medium",
+            "text": "Get a Demo",
+            "color": {
+              "_uid": "7f9e8656-e273-458e-b8b0-9e7d143b70ee",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "modal": [],
+            "params": "",
+            "bgColor": {
+              "_uid": "294f75ba-6cf9-4a9b-b084-22ac28e0019d",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "linksTo": {
+              "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+              "url": "",
+              "_uid": "d83dada5-8d34-4491-943b-4b490dd6595d",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "us/contact/"
+            },
+            "variant": "contained",
+            "disabled": false,
+            "dropdown": [],
+            "fragment": "",
+            "component": "button",
+            "fullWidth": false,
+            "dataProduct": "plangrid",
+            "modalIsDark": false,
+            "openInNewTab": false,
+            "dataAnalytics": "cta-demo",
+            "alignmentButton": "left",
+            "forwardUTMParams": false,
+            "anchorLinkIsInvisible": false,
+            "isButtonAssetDownload": false,
+            "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"29390e8d-1194-4d31-940b-a98ff9f318d7\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "variant": "default",
+        "headline": "Unlock the potential of a unified construction management app.",
+        "component": "ctaBannerModule",
+        "_editable": "<!--#storyblok#{\"name\": \"ctaBannerModule\", \"space\": \"64835\", \"uid\": \"0482c9af-d8b7-4f3a-a131-19bd1081ae0f\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "m": "",
+        "p": "",
+        "id": "",
+        "mb": "",
+        "ml": "",
+        "mr": "",
+        "mt": "",
+        "mx": "",
+        "my": "",
+        "pb": "",
+        "pl": "",
+        "pr": "",
+        "pt": "",
+        "px": "",
+        "py": "",
+        "css": [],
+        "top": "",
+        "_uid": "963b9783-feea-43e9-85de-a9940652a636",
+        "flex": "",
+        "left": "",
+        "clone": false,
+        "color": {
+          "_uid": "a1f79d79-7d74-408d-9f49-dc93ee9c38ba",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "order": "",
+        "right": "",
+        "width": "auto",
+        "bgClip": "",
+        "bgSize": "",
+        "border": "",
+        "bottom": "",
+        "height": "auto",
+        "zIndex": "",
+        "bgColor": {
+          "_uid": "8d16abda-41d6-48b4-848c-fab1130e6a52",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "bgImage": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "content": [
+          {
+            "_uid": "64bca152-9db1-4b2b-af99-f2d8cfb4faf3",
+            "amount": "5",
+            "margin": "",
+            "bgColor": {
+              "_uid": "01cab169-7d1e-447d-bd8c-8d3662f29a78",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "padding": "",
+            "anchorId": "",
+            "component": "spacing",
+            "isFullWidth": true,
+            "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"64bca152-9db1-4b2b-af99-f2d8cfb4faf3\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "display": "flex",
+        "htmlTag": "div",
+        "bgOrigin": "",
+        "bgRepeat": "",
+        "flexGrow": "",
+        "flexWrap": "",
+        "fontSize": "",
+        "maxWidth": "initial",
+        "minWidth": "initial",
+        "overflow": "",
+        "position": "",
+        "alignSelf": "",
+        "borderTop": "",
+        "boxShadow": "",
+        "component": "box",
+        "displayLG": "",
+        "displayMD": "",
+        "displaySM": "",
+        "displayXL": "",
+        "displayXS": "",
+        "fontStyle": "",
+        "maxHeight": "initial",
+        "minHeight": "initial",
+        "mobileCSS": [],
+        "tabletCSS": [],
+        "textAlign": "",
+        "alignItems": "",
+        "bgPosition": "",
+        "borderLeft": "",
+        "flexShrink": "",
+        "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+        "fontWeight": "",
+        "lineHeight": "",
+        "visibility": "",
+        "whiteSpace": "",
+        "bgBlendMode": "",
+        "borderColor": {
+          "_uid": "a745d5dd-f0fb-4b73-80e3-e8d47dc9f055",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "borderRight": "",
+        "alignContent": "",
+        "borderBottom": "",
+        "borderRadius": "",
+        "displayPrint": "",
+        "textOverflow": "",
+        "flexDirection": "row",
+        "letterSpacing": "",
+        "justifyContent": "center",
+        "optimizelyTest": {
+          "_uid": "20af15ff-f059-4100-8b70-9cdfc10a69e3",
+          "plugin": "optimizely",
+          "segments": []
+        },
+        "hasPageContainer": true,
+        "hasFixedContainer": true,
+        "backgroundImageAttributes": "",
+        "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"963b9783-feea-43e9-85de-a9940652a636\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "6dec8001-b54c-450d-8fa2-21e8ce71e9cd",
+        "body": [],
+        "icon": [],
+        "title": "",
+        "variant": "",
+        "iconText": "",
+        "subtitle": "",
+        "component": "titleSubtitleDescriptionModule",
+        "smallTitle": true,
+        "description": [
+          {
+            "_uid": "76aa5fbf-65a1-4432-a98e-e13f8043e1dc",
+            "variant": "default",
+            "markdown": "\n### Construction Management Mobile App Frequently Asked Questions\n\n\n",
+            "component": "markdown",
+            "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"76aa5fbf-65a1-4432-a98e-e13f8043e1dc\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "subtitleColor": {
+          "_uid": "ac9c5e35-158e-4fd3-8abe-90770b6e9577",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "textAlignment": "center",
+        "subtitleProportion": "",
+        "descriptionProportion": "",
+        "_editable": "<!--#storyblok#{\"name\": \"titleSubtitleDescriptionModule\", \"space\": \"64835\", \"uid\": \"6dec8001-b54c-450d-8fa2-21e8ce71e9cd\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "f0c4945a-476e-43cd-ae16-06088c3fa13f",
+        "title": "",
+        "component": "accordionModule",
+        "backgroundImage": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "accordionSections": [
+          {
+            "_uid": "85d5b2ef-cea8-484c-949c-526fc9c25a82",
+            "component": "accordionSection",
+            "sectionTitle": "Does Autodesk Construction Cloud have a mobile application? ",
+            "expandedContent": [
+              {
+                "_uid": "9a9bdca2-c87b-411d-b071-a881356c3b18",
+                "variant": "",
+                "markdown": "Yes, the Autodesk Construction Cloud mobile app is available on the [iOS App Store](https://apps.apple.com/us/app/plangrid-construction-software/id498795789) and [Google Play](https://play.google.com/store/apps/details?id=com.plangrid.android&hl=en_US&gl=US). \n\n",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"9a9bdca2-c87b-411d-b071-a881356c3b18\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"85d5b2ef-cea8-484c-949c-526fc9c25a82\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "cab88bac-785e-4c82-93e7-b1c4e66c4b3d",
+            "component": "accordionSection",
+            "sectionTitle": "What products are accessible by the Autodesk Construction Cloud mobile application on job sites? ",
+            "expandedContent": [
+              {
+                "_uid": "5b098b7b-ceb6-4ff2-8956-623d74d56abc",
+                "variant": "",
+                "markdown": "Autodesk Build, Autodesk Docs, Autodesk BIM Collaborate, Autodesk BIM Collaborate Pro, and PlanGrid  are available via the mobile application. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"5b098b7b-ceb6-4ff2-8956-623d74d56abc\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"cab88bac-785e-4c82-93e7-b1c4e66c4b3d\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "7a0efeb3-2395-4adb-a6e8-e7c31049f69b",
+            "component": "accordionSection",
+            "sectionTitle": "Where can I download the Autodesk Construction Cloud mobile application? ",
+            "expandedContent": [
+              {
+                "_uid": "55ada398-bf01-40b8-b8a1-7df5fb8a8353",
+                "variant": "",
+                "markdown": "The Autodesk Construction Cloud mobile app is available on the [iOS App Store](https://apps.apple.com/us/app/plangrid-construction-software/id498795789) and [Google Play](https://play.google.com/store/apps/details?id=com.plangrid.android&hl=en_US&gl=US). \n",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"55ada398-bf01-40b8-b8a1-7df5fb8a8353\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"7a0efeb3-2395-4adb-a6e8-e7c31049f69b\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "1b8a4a86-6d46-45f1-b55f-55255a38fe1b",
+            "component": "accordionSection",
+            "sectionTitle": "Can I use Autodesk Construction Cloud mobile application to view drawings and 3D models? ",
+            "expandedContent": [
+              {
+                "_uid": "5615db14-a3e0-40d3-bf97-6af06c039912",
+                "variant": "",
+                "markdown": "Yes, the Autodesk Construction Cloud mobile app can view 2D drawings and 3D models from the field. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"5615db14-a3e0-40d3-bf97-6af06c039912\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"1b8a4a86-6d46-45f1-b55f-55255a38fe1b\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "54fa1a5f-8e39-4e5e-af6f-c752ef0ef145",
+            "component": "accordionSection",
+            "sectionTitle": "Can I use Autodesk Construction Cloud mobile app to create markups? ",
+            "expandedContent": [
+              {
+                "_uid": "22722299-261e-4205-ad8b-3c03fc923379",
+                "variant": "",
+                "markdown": "Yes, the Autodesk Construction Cloud mobile app can create markups in the field. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"22722299-261e-4205-ad8b-3c03fc923379\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"54fa1a5f-8e39-4e5e-af6f-c752ef0ef145\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "176e79df-814a-4d3e-be32-7e7c3e7bb944",
+            "component": "accordionSection",
+            "sectionTitle": "Can I use Autodesk Construction Cloud mobile application to create issues? ",
+            "expandedContent": [
+              {
+                "_uid": "7c00650d-8b4b-4cda-8f8f-65488441ec1c",
+                "variant": "",
+                "markdown": "The Autodesk Construction Cloud mobile app can create or log issues on site for design collaboration, quality, or safety workflows.  ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"7c00650d-8b4b-4cda-8f8f-65488441ec1c\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"176e79df-814a-4d3e-be32-7e7c3e7bb944\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "7f005bbc-a24c-4866-ac23-edd941fc2149",
+            "component": "accordionSection",
+            "sectionTitle": "Can I use Autodesk Construction Cloud mobile application to fill out checklists/punch lists or perform site walk-throughs? ",
+            "expandedContent": [
+              {
+                "_uid": "b102f12f-9c97-4dda-991b-209325b22841",
+                "variant": "",
+                "markdown": "Whether pre-functional tests, safety observations, or quality inspections, the Autodesk Construction Cloud mobile application is able to use the Forms tool to provide checklists.  ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"b102f12f-9c97-4dda-991b-209325b22841\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"7f005bbc-a24c-4866-ac23-edd941fc2149\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "46124fdb-bb03-45d2-8388-257358dbb760",
+            "component": "accordionSection",
+            "sectionTitle": "Can Autodesk Construction Cloud’s mobile construction app integrate with other construction software or tools? ",
+            "expandedContent": [
+              {
+                "_uid": "afd6141f-f9e1-4f5c-bb95-7957b17da450",
+                "variant": "",
+                "markdown": "Autodesk Construction Cloud has over 260 different integration partners across the platform which help connect data from design through handover. These integrations help teams optimize technology processes and streamline collaboration with all project stakeholders. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"afd6141f-f9e1-4f5c-bb95-7957b17da450\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"46124fdb-bb03-45d2-8388-257358dbb760\", \"id\": \"24225403\"}-->"
+          },
+          {
+            "_uid": "18502e56-e7c7-4370-8011-318834a42691",
+            "component": "accordionSection",
+            "sectionTitle": "Are any training or support resources available for the Autodesk Construction Cloud mobile app? ",
+            "expandedContent": [
+              {
+                "_uid": "1faf9fbd-cfa2-4fa7-bd99-86f2f6d01c37",
+                "variant": "",
+                "markdown": "Autodesk offers a variety of support resources to help you get the most out of its mobile construction app. The [Autodesk Help Site ](https://help.autodesk.com/view/BUILD/ENU/?guid=About_ACC_App)provides helpful support, documentation, tutorials, videos, and user forums all in one convenient location. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"1faf9fbd-cfa2-4fa7-bd99-86f2f6d01c37\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"18502e56-e7c7-4370-8011-318834a42691\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "isFaqAsStructuredData": true,
+        "_editable": "<!--#storyblok#{\"name\": \"accordionModule\", \"space\": \"64835\", \"uid\": \"f0c4945a-476e-43cd-ae16-06088c3fa13f\", \"id\": \"24225403\"}-->"
+      },
+      {
+        "_uid": "0d0fc239-f198-4d3e-9aac-cb8b805fc935",
+        "amount": "3",
+        "margin": "",
+        "bgColor": {
+          "_uid": "ac8ae6b3-af9e-4b82-826a-694b1e05cb26",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"0d0fc239-f198-4d3e-9aac-cb8b805fc935\", \"id\": \"24225403\"}-->"
+      }
+    ],
+    "config": [],
+    "subNav": "ae08d508-0628-4812-8615-9f72e69b1e64",
+    "typFor": {
+      "id": "",
+      "url": "",
+      "linktype": "story",
+      "fieldtype": "multilink",
+      "cached_url": ""
+    },
+    "noIndex": false,
+    "variant": "default",
+    "metaData": {
+      "_uid": "a14c39e0-42d8-463c-b539-95823b2f70be",
+      "title": "Autodesk Construction Cloud Mobile | Construction Management App",
+      "plugin": "seo_metatags",
+      "og_image": "",
+      "og_title": "",
+      "description": "Make critical decisions faster with an integrated mobile construction app for Autodesk Construction Cloud, including Autodesk Build, BIM Collaborate, BIM Collaborate Pro, and Docs. ",
+      "twitter_image": "",
+      "twitter_title": "",
+      "og_description": "",
+      "twitter_description": ""
+    },
+    "component": "page",
+    "passwords": [],
+    "topNavCTA": [
+      {
+        "_uid": "b9476609-ab6e-433a-8910-2a16ea8e3f53",
+        "icon": "chevron_right",
+        "size": "medium",
+        "text": "Try Now",
+        "color": {
+          "_uid": "66a09e9f-0e0d-4682-ab69-b971ccd314a2",
+          "color": "#000002",
+          "plugin": "official-colorpicker"
+        },
+        "modal": [],
+        "params": "",
+        "bgColor": {
+          "_uid": "342992ba-a62b-46b2-ab89-9af0a18d02eb",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "linksTo": {
+          "id": "",
+          "url": "http://acc.autodesk.com/access/start-trial?key=TRIAL-BLDUNLT",
+          "_uid": "ca9c1c2b-73ec-4057-8200-72ab1271bd7a",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "http://acc.autodesk.com/access/start-trial?key=TRIAL-BLDUNLT"
+        },
+        "variant": "contained",
+        "disabled": false,
+        "dropdown": [],
+        "fragment": "",
+        "component": "button",
+        "fullWidth": false,
+        "dataProduct": "",
+        "modalIsDark": false,
+        "openInNewTab": false,
+        "dataAnalytics": "",
+        "alignmentButton": "left",
+        "forwardUTMParams": true,
+        "anchorLinkIsInvisible": false,
+        "isButtonAssetDownload": false,
+        "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"b9476609-ab6e-433a-8910-2a16ea8e3f53\", \"id\": \"24225403\"}-->"
+      }
+    ],
+    "l10nExport": true,
+    "dataProduct": "plangrid",
+    "invertedNav": false,
+    "topNavPhone": "",
+    "wistiaVideo": [],
+    "removeSubNav": false,
+    "canonicalPage": "",
+    "isLandingPage": false,
+    "redirectModal": "",
+    "swapLogoNavLP": "",
+    "conversionType": "",
+    "customNavLogin": [],
+    "customTopBanner": [
+      {
+        "_uid": "1e7733e6-0e86-45d8-bd5b-eaa55338b6a0",
+        "icon": [],
+        "link": {
+          "id": "",
+          "url": "https://app.plangrid.com/login",
+          "_uid": "a43e1c8c-6f7c-4d1a-8dab-a626039b93ee",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://app.plangrid.com/login"
+        },
+        "modal": [],
+        "params": "",
+        "allCaps": false,
+        "iconSvg": "",
+        "subLink": [],
+        "variant": "standard",
+        "download": "",
+        "fragment": "",
+        "noFollow": false,
+        "analytics": "",
+        "component": "link",
+        "dataProduct": "",
+        "downloadable": false,
+        "noLeftMargin": false,
+        "openInNewTab": true,
+        "dataAnalytics": "",
+        "forcePageLoad": false,
+        "textToHyperlink": "",
+        "contentToHyperlink": [
+          {
+            "m": "",
+            "p": "",
+            "id": "",
+            "mb": "",
+            "ml": "0",
+            "mr": "",
+            "mt": "",
+            "mx": "",
+            "my": "",
+            "pb": "",
+            "pl": "",
+            "pr": "",
+            "pt": "",
+            "px": "",
+            "py": "",
+            "css": [],
+            "top": "",
+            "_uid": "50027dc9-ea2b-442e-83b1-6aa1f7cd821f",
+            "flex": "",
+            "left": "",
+            "clone": false,
+            "color": {
+              "_uid": "3096fc2a-410d-430b-9e67-67d218b09078",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "order": "",
+            "right": "",
+            "width": "auto",
+            "border": "",
+            "bottom": "",
+            "height": "40px",
+            "zIndex": "",
+            "bgColor": {
+              "_uid": "9123e167-35eb-4c82-85bd-07e67581c386",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "bgImage": "",
+            "content": [
+              {
+                "_uid": "9e2672e3-741b-43d1-9845-d3fdec9b0c7a",
+                "content": "Looking to access PlanGrid? ",
+                "component": "text",
+                "_editable": "<!--#storyblok#{\"name\": \"text\", \"space\": \"64835\", \"uid\": \"9e2672e3-741b-43d1-9845-d3fdec9b0c7a\", \"id\": \"24225403\"}-->"
+              },
+              {
+                "m": "",
+                "p": "",
+                "id": "",
+                "mb": "",
+                "ml": "",
+                "mr": "",
+                "mt": "",
+                "mx": "",
+                "my": "",
+                "pb": "",
+                "pl": "",
+                "pr": "",
+                "pt": "",
+                "px": "",
+                "py": "",
+                "css": [
+                  {
+                    "key": "margin",
+                    "_uid": "ce0094f9-1878-4723-8133-b4e9a162ff9f",
+                    "value": "0 5px",
+                    "component": "entry",
+                    "_editable": "<!--#storyblok#{\"name\": \"entry\", \"space\": \"64835\", \"uid\": \"ce0094f9-1878-4723-8133-b4e9a162ff9f\", \"id\": \"24225403\"}-->"
+                  }
+                ],
+                "top": "",
+                "_uid": "1fdd6e5e-379b-40a8-a137-3a13772fb06b",
+                "flex": "",
+                "left": "",
+                "clone": false,
+                "color": {
+                  "_uid": "5d3708f1-b3c3-4a73-a619-dfc217478863",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "order": "",
+                "right": "",
+                "width": "auto",
+                "border": "",
+                "bottom": "",
+                "height": "auto",
+                "zIndex": "",
+                "bgColor": {
+                  "_uid": "fe4ed964-763f-4b8d-a454-0de239e38144",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "bgImage": "",
+                "content": [],
+                "display": "flex",
+                "htmlTag": "div",
+                "flexGrow": "",
+                "flexWrap": "",
+                "fontSize": "",
+                "maxWidth": "initial",
+                "minWidth": "initial",
+                "overflow": "",
+                "position": "",
+                "alignSelf": "",
+                "borderTop": "",
+                "boxShadow": "",
+                "component": "box",
+                "displayLG": "",
+                "displayMD": "",
+                "displaySM": "",
+                "displayXL": "",
+                "displayXS": "",
+                "fontStyle": "",
+                "maxHeight": "initial",
+                "minHeight": "initial",
+                "textAlign": "",
+                "alignItems": "",
+                "borderLeft": "",
+                "flexShrink": "",
+                "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                "fontWeight": "",
+                "lineHeight": "",
+                "visibility": "",
+                "whiteSpace": "",
+                "borderColor": {
+                  "_uid": "bae334dd-2ae9-49ef-8268-933e07175720",
+                  "color": "",
+                  "plugin": "official-colorpicker"
+                },
+                "borderRight": "",
+                "alignContent": "",
+                "borderBottom": "",
+                "borderRadius": "",
+                "displayPrint": "",
+                "textOverflow": "",
+                "flexDirection": "",
+                "letterSpacing": "",
+                "justifyContent": "",
+                "optimizelyTest": {
+                  "_uid": "8592b443-71d2-4d37-a546-e253f98cfa50",
+                  "plugin": "optimizely",
+                  "segments": []
+                },
+                "hasPageContainer": false,
+                "hasFixedContainer": false,
+                "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"1fdd6e5e-379b-40a8-a137-3a13772fb06b\", \"id\": \"24225403\"}-->"
+              },
+              {
+                "_uid": "28293736-ea3e-4820-8958-6e50c7e1ef47",
+                "markdown": "<div><u><b>LOG IN</b></u></div>",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"28293736-ea3e-4820-8958-6e50c7e1ef47\", \"id\": \"24225403\"}-->"
+              }
+            ],
+            "display": "flex",
+            "htmlTag": "div",
+            "flexGrow": "",
+            "flexWrap": "",
+            "fontSize": "",
+            "maxWidth": "initial",
+            "minWidth": "initial",
+            "overflow": "",
+            "position": "",
+            "alignSelf": "",
+            "borderTop": "",
+            "boxShadow": "",
+            "component": "box",
+            "displayLG": "",
+            "displayMD": "",
+            "displaySM": "",
+            "displayXL": "",
+            "displayXS": "",
+            "fontStyle": "",
+            "maxHeight": "initial",
+            "minHeight": "initial",
+            "textAlign": "",
+            "alignItems": "center",
+            "borderLeft": "",
+            "flexShrink": "",
+            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+            "fontWeight": "",
+            "lineHeight": "",
+            "visibility": "",
+            "whiteSpace": "",
+            "borderColor": {
+              "_uid": "2d7a226c-c94a-47db-bd63-4e5db573a8ee",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "borderRight": "",
+            "alignContent": "",
+            "borderBottom": "",
+            "borderRadius": "",
+            "displayPrint": "",
+            "textOverflow": "",
+            "flexDirection": "",
+            "letterSpacing": "",
+            "justifyContent": "center",
+            "optimizelyTest": {
+              "_uid": "e0f1e007-0b52-48ac-a5a3-3f87dd9fa8c3",
+              "plugin": "optimizely",
+              "segments": []
+            },
+            "hasPageContainer": false,
+            "hasFixedContainer": false,
+            "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"50027dc9-ea2b-442e-83b1-6aa1f7cd821f\", \"id\": \"24225403\"}-->"
+          }
+        ],
+        "linkWithoutUnderline": false,
+        "anchorLinkIsInvisible": false,
+        "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"1e7733e6-0e86-45d8-bd5b-eaa55338b6a0\", \"id\": \"24225403\"}-->"
+      }
+    ],
+    "exitIntentModal": [],
+    "passwordProtect": false,
+    "removeBottomNav": false,
+    "removeTopBanner": false,
+    "removeNavLogoLink": false,
+    "_editable": "<!--#storyblok#{\"name\": \"page\", \"space\": \"64835\", \"uid\": \"5195e14d-de5a-438e-8fe7-8b952b39dd20\", \"id\": \"24225403\"}-->"
+  }
+}

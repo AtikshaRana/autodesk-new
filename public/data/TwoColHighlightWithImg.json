@@ -1,0 +1,273 @@
+{
+  "data": {
+    "ContentNodes": {
+      "total": 1,
+      "items": [
+        {
+          "full_slug": "_sandbox/connected-two-col-highlights",
+          "name": "Connected Two Col Highlights",
+          "created_at": "2024-01-19T01:11:02.216Z",
+          "meta_data": null,
+          "content": {
+            "_uid": "6b6ceb1d-7529-4eaa-a25c-24f98d150f72",
+            "body": [
+              {
+                "_uid": "e131fa0b-fcd2-4124-8199-0039cf89bb63",
+                "module1": [
+                  {
+                    "_uid": "8c6ffa92-c30f-4285-8800-5b7da5ecc00b",
+                    "image": [
+                      {
+                        "_uid": "ddf8f728-a4b4-41f8-a1a7-42fd3b53d134",
+                        "image": {
+                          "id": 328196,
+                          "alt": "mock up",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/503x564/f6d69ad7c3/constructability-issues.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "title": "",
+                        "altText": "constructibility issues mock up",
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"ddf8f728-a4b4-41f8-a1a7-42fd3b53d134\", \"id\": \"2200082\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImage",
+                    "highlights": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "710250ea-8b50-4117-aa4f-108912ff0b39",
+                            "icon": "Arrow",
+                            "text": "Button Label",
+                            "modal": [],
+                            "style": "Button Primary",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "1d79aba6-4ac8-4e08-8c5d-8adefea0cc42",
+                              "rel": "",
+                              "url": "",
+                              "title": "",
+                              "anchor": "test",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": "_sandbox/connected-two-col-highlights",
+                              "utm_medium": "ppc",
+                              "utm_source": "google",
+                              "utm_campaign": "winter_sale"
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": true,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"710250ea-8b50-4117-aa4f-108912ff0b39\", \"id\": \"2200082\"}-->"
+                          },
+                          {
+                            "_uid": "2e27bb5c-8a06-491a-96af-729e14629e32",
+                            "icon": "",
+                            "text": "Link Label",
+                            "modal": [],
+                            "style": "Link with Underline",
+                            "linkUrl": {
+                              "id": "1d79aba6-4ac8-4e08-8c5d-8adefea0cc42",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": "_sandbox/connected-two-col-highlights"
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"2e27bb5c-8a06-491a-96af-729e14629e32\", \"id\": \"2200082\"}-->"
+                          }
+                        ],
+                        "_uid": "381cf1ee-4bfc-4a19-9703-9b6180678ef2",
+                        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+                        "title": "Title Text Lorem Ipsum",
+                        "component": "Highlight",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"381cf1ee-4bfc-4a19-9703-9b6180678ef2\", \"id\": \"2200082\"}-->"
+                      }
+                    ],
+                    "imageOnRight": true,
+                    "layoutHeight": "Tall",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "none",
+                    "showImageOnMobile": false,
+                    "sectionPaddingOuter": "standard",
+                    "sectionPaddingBottom": "standard",
+                    "connectedTriangle": true,
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImage\", \"space\": \"1018383\", \"uid\": \"8c6ffa92-c30f-4285-8800-5b7da5ecc00b\", \"id\": \"2200082\"}-->"
+                  }
+                ],
+                "module2": [
+                  {
+                    "_uid": "4a799677-7440-4ca9-8635-4a4874385416",
+                    "image": [
+                      {
+                        "_uid": "6adfea4b-5b77-4ac4-b7a0-25480286d841",
+                        "image": {
+                          "id": 328197,
+                          "alt": "issue management",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/628x672/9257dcb13b/issue-management.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "title": "",
+                        "altText": "issue management mock up",
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"6adfea4b-5b77-4ac4-b7a0-25480286d841\", \"id\": \"2200082\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImage",
+                    "highlights": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "139949d0-a2f0-47f0-b3a9-b7cfbdae8e2b",
+                            "icon": "Arrow",
+                            "text": "Button Label",
+                            "modal": [],
+                            "style": "Button Primary White",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "1d79aba6-4ac8-4e08-8c5d-8adefea0cc42",
+                              "rel": "",
+                              "url": "",
+                              "title": "",
+                              "anchor": "test",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": "_sandbox/connected-two-col-highlights",
+                              "utm_medium": "ppc",
+                              "utm_source": "google",
+                              "utm_campaign": "winter_sale"
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": true,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"139949d0-a2f0-47f0-b3a9-b7cfbdae8e2b\", \"id\": \"2200082\"}-->"
+                          },
+                          {
+                            "_uid": "50c2153f-9fbc-4ec9-a9c8-8e240008331d",
+                            "icon": "",
+                            "text": "Link Label",
+                            "modal": [],
+                            "style": "Link with Underline White",
+                            "linkUrl": {
+                              "id": "1d79aba6-4ac8-4e08-8c5d-8adefea0cc42",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": "_sandbox/connected-two-col-highlights"
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"50c2153f-9fbc-4ec9-a9c8-8e240008331d\", \"id\": \"2200082\"}-->"
+                          }
+                        ],
+                        "_uid": "fc170d3e-cad7-49c1-9807-abce7aa4463a",
+                        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+                        "title": "Second Title Text Lorem Ipsum",
+                        "component": "Highlight",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"fc170d3e-cad7-49c1-9807-abce7aa4463a\", \"id\": \"2200082\"}-->"
+                      }
+                    ],
+                    "imageOnRight": false,
+                    "layoutHeight": "Tall",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "standard",
+                    "showImageOnMobile": false,
+                    "sectionPaddingOuter": "none",
+                    "sectionPaddingBottom": "standard",
+                    "connectedTriangle": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImage\", \"space\": \"1018383\", \"uid\": \"4a799677-7440-4ca9-8635-4a4874385416\", \"id\": \"2200082\"}-->"
+                  }
+                ],
+                "component": "ConnectedTwoColHighlights",
+                "_editable": "<!--#storyblok#{\"name\": \"ConnectedTwoColHighlights\", \"space\": \"1018383\", \"uid\": \"e131fa0b-fcd2-4124-8199-0039cf89bb63\", \"id\": \"2200082\"}-->"
+              }
+            ],
+            "metaData": {
+              "_uid": "394db628-3cd0-46a8-8ab2-9ee0b7226968",
+              "title": "Connected Two Column Highlights Module",
+              "plugin": "seo_metatags",
+              "og_image": "",
+              "og_title": "",
+              "description": "Demo of ConnectedTwoColHighlights and other nested modules inside",
+              "twitter_image": "",
+              "twitter_title": "",
+              "og_description": "",
+              "twitter_description": ""
+            },
+            "component": "Page",
+            "_editable": "<!--#storyblok#{\"name\": \"Page\", \"space\": \"1018383\", \"uid\": \"6b6ceb1d-7529-4eaa-a25c-24f98d150f72\", \"id\": \"2200082\"}-->"
+          }
+        }
+      ]
+    }
+  }
+}

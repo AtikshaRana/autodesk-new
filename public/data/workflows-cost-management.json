@@ -1,0 +1,1444 @@
+{
+  "full_slug": "us/workflows/construction-cost-management",
+  "content": {
+    "_uid": "12c18c13-7d97-45fe-bf27-5d3e2f2be0a1",
+    "body": [
+      {
+        "_uid": "c298de76-940c-4497-a7a7-9918a71eddfc",
+        "amount": "6",
+        "margin": "",
+        "bgColor": {
+          "_uid": "98fdf6e9-a7cc-4b68-ae8f-17944470e71a",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"c298de76-940c-4497-a7a7-9918a71eddfc\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "37822a42-a3ef-46c9-8509-c04589615634",
+        "body": [],
+        "icon": [],
+        "title": "Construction Cost Management Software",
+        "variant": "",
+        "iconText": "",
+        "subtitle": "Connect and improve construction cost management.",
+        "component": "titleSubtitleDescriptionModule",
+        "smallTitle": true,
+        "description": [
+          {
+            "_uid": "810656cb-88de-49e3-a79f-0d5facb05bb2",
+            "markdown": "Improve cost control, gain real-time visibility of cost-related risks, and forecast accurately by centralizing all cost management activities in the cloud and within the context of the construction project.",
+            "component": "markdown",
+            "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"810656cb-88de-49e3-a79f-0d5facb05bb2\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "subtitleColor": {
+          "_uid": "571fd05c-190f-46bd-9600-8a568a7a3ff1",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "textAlignment": "",
+        "subtitleProportion": "",
+        "descriptionProportion": "",
+        "_editable": "<!--#storyblok#{\"name\": \"titleSubtitleDescriptionModule\", \"space\": \"64835\", \"uid\": \"37822a42-a3ef-46c9-8509-c04589615634\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "04ddeb81-ad50-4679-a0a4-c4f3eb69b051",
+        "component": "connectedTwoColumnHighlights",
+        "moduleOne": [
+          {
+            "_uid": "e1788455-ea57-4219-8d7f-6ed78cdb70d7",
+            "color": {
+              "_uid": "28bf39c4-b625-42fa-8f7e-af77023b15f7",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "image": [
+              {
+                "_uid": "747fd3d3-17e7-49fe-afa5-6317de0b5e6f",
+                "image": "//a.storyblok.com/f/64835/625x512/1c75ec02e5/improve-cost-control-and-transparency-3.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Construction cost management software for cost budgeting",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"747fd3d3-17e7-49fe-afa5-6317de0b5e6f\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "headline": "",
+            "variants": "solutions",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+              {
+                "_uid": "b46cff89-2f41-4524-88f1-461691f9d493",
+                "link": [
+                  {
+                    "_uid": "56407516-f4de-4afa-aa0f-61bcc4be9fd6",
+                    "icon": "chevron_right",
+                    "size": "medium",
+                    "text": "Learn more",
+                    "color": {
+                      "_uid": "8ec5717f-4277-495e-8f04-46dbcf8158ca",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "25ed7328-3e11-4b8e-8987-b121a3d93e44",
+                      "color": "#1858A8",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "b541176f-8684-4159-9761-c007710a3f0a",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/tools/income-and-budget-tracking"
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "dataProduct": "",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"56407516-f4de-4afa-aa0f-61bcc4be9fd6\", \"id\": \"23902217\"}-->"
+                  }
+                ],
+                "stat": "",
+                "title": "Improve cost control.",
+                "boldTitle": false,
+                "component": "highlight",
+                "description": "Increase transparency and improve construction cost control by centralizing and managing construction project costs on a single platform in the cloud. \n\nKeep the right information in the right hands through tight permission controls of each component within the system. Add owners and suppliers into the system to enhance collaboration and streamline construction workflows. \n",
+                "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"b46cff89-2f41-4524-88f1-461691f9d493\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": true,
+            "imageFullWidth": false,
+            "backgroundColor": {
+              "_uid": "8187304f-33c9-42a6-919e-88f0cf16f57b",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "10",
+            "addShadowToImage": false,
+            "showImageOnMobile": false,
+            "imagePaddingBottom": "10",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+              "_uid": "05527570-4f44-4072-88d1-9a2d8f66c4e2",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"e1788455-ea57-4219-8d7f-6ed78cdb70d7\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "moduleTwo": [
+          {
+            "_uid": "3017f654-d449-48d8-9e7c-c1882e828b3f",
+            "color": {
+              "_uid": "b9093026-d462-4f5b-9f0a-e6edddda953a",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "image": [
+              {
+                "_uid": "5f01c37c-a6d2-4c9d-8f5d-0e6437aa000b",
+                "image": "//a.storyblok.com/f/64835/x/a12e6657a2/streamline-cost-management-workflows.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Construction cost management software for change orders",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"5f01c37c-a6d2-4c9d-8f5d-0e6437aa000b\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "headline": "",
+            "variants": "solutions",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+              {
+                "_uid": "369e9d3c-73af-43c7-9286-cfd1fd172e52",
+                "link": [
+                  {
+                    "_uid": "662ffb98-566b-4387-90e3-c2d424ddc3bb",
+                    "icon": "chevron_right",
+                    "size": "medium",
+                    "text": "Learn more",
+                    "color": {
+                      "_uid": "99ca5ac6-c7b2-45a2-9759-9e32cbdd935b",
+                      "color": "#000002",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "65014637-af44-4746-97aa-f19772fa22ee",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "e106b14a-d790-4f95-a3f5-560fcd5fc148",
+                      "url": "",
+                      "_uid": "bd5f6e46-ae65-4cec-b321-8a20097c1112",
+                      "anchor": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/tools/change-order-tracking"
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "dataProduct": "",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"662ffb98-566b-4387-90e3-c2d424ddc3bb\", \"id\": \"23902217\"}-->"
+                  }
+                ],
+                "stat": "",
+                "title": "Streamline cost workflows.",
+                "boldTitle": false,
+                "component": "highlight",
+                "description": "Improve communication across stakeholders and ensure nothing slips through the cracks by managing all construction cost activities in the cloud.\nStreamline upstream and downstream construction change management \nworkflows, for clear accountability and visibility of impact on the overall budget. Effortlessly manage incremental payment applications and expenses and utilize actual construction cost data for more accurate forecasting.",
+                "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"369e9d3c-73af-43c7-9286-cfd1fd172e52\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": false,
+            "imageFullWidth": false,
+            "backgroundColor": {
+              "_uid": "80e90de9-fcab-46ef-a861-345c47771543",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "20",
+            "addShadowToImage": false,
+            "showImageOnMobile": false,
+            "imagePaddingBottom": "10",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+              "_uid": "5083ef44-e4ab-48ad-875f-a3191a39864a",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"3017f654-d449-48d8-9e7c-c1882e828b3f\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "_editable": "<!--#storyblok#{\"name\": \"connectedTwoColumnHighlights\", \"space\": \"64835\", \"uid\": \"04ddeb81-ad50-4679-a0a4-c4f3eb69b051\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "238d325d-f74f-4ec4-9cb2-697d8a9949af",
+        "component": "connectedTwoColumnHighlights",
+        "moduleOne": [
+          {
+            "_uid": "3a8f258e-6e53-4e08-af1c-4670e3fb9246",
+            "color": {
+              "_uid": "37f8c8d3-45d2-446f-b867-c959f6883da5",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "image": [
+              {
+                "_uid": "a82149e9-e9cf-468a-94ae-e0faa44d0c68",
+                "image": "//a.storyblok.com/f/64835/616x534/1a45907c12/more-accurately-forecast-and-visualize-risk-2.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Construction cost management software for construction cost forecasting",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"a82149e9-e9cf-468a-94ae-e0faa44d0c68\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "headline": "",
+            "variants": "",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+              {
+                "_uid": "9150ec5c-6f0b-44b9-8777-1c5df8d145d0",
+                "link": [
+                  {
+                    "_uid": "f649c8c1-11be-411d-b242-5731fb60768f",
+                    "icon": "chevron_right",
+                    "size": "medium",
+                    "text": "Learn more",
+                    "color": {
+                      "_uid": "6cb2f937-556c-42f2-bf77-63001b678084",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "3df7c7ff-9ab9-4d3d-9d38-1c16864a26de",
+                      "color": "#1858A8",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "90d2150f-11a3-463f-90d6-90592ffa3f1a",
+                      "url": "",
+                      "_uid": "2a69e7a4-0e64-444c-a841-edd5d642963e",
+                      "anchor": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "tools/expense-and-cost-tracking"
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "openInNewTab": false,
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"f649c8c1-11be-411d-b242-5731fb60768f\", \"id\": \"23902217\"}-->"
+                  }
+                ],
+                "stat": "",
+                "title": "Accurately forecast risk.",
+                "boldTitle": false,
+                "component": "highlight",
+                "description": "Centralize all construction cost management activities in the cloud to give an accurate view of each project's financial health and a real-time picture of cost-related risks.\n\n Use connected construction project management software and make accurate forecasts based on the latest data. Enhance the reliability of cash flow and profitability projections.\n ",
+                "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"9150ec5c-6f0b-44b9-8777-1c5df8d145d0\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": true,
+            "imageFullWidth": false,
+            "backgroundColor": {
+              "_uid": "babd07ff-f52b-43ae-aca3-eb39741e3142",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "16",
+            "addShadowToImage": false,
+            "showImageOnMobile": false,
+            "imagePaddingBottom": "10",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+              "_uid": "e74423a9-01b3-4e9a-ae9e-6c965c1b47e4",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"3a8f258e-6e53-4e08-af1c-4670e3fb9246\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "moduleTwo": [
+          {
+            "_uid": "3ea2d651-3c33-49c5-bd99-665f6f4b7672",
+            "color": {
+              "_uid": "b6cd40c3-326b-4855-97a4-8db5a682a254",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "image": [
+              {
+                "_uid": "08cea48e-92e0-4600-804d-ee11039dc6f8",
+                "image": "//a.storyblok.com/f/64835/x/b80e741173/flexible-and-customizable-to-meet-your-needs.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Configureable construction cost management software",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset"
+                },
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"08cea48e-92e0-4600-804d-ee11039dc6f8\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "headline": "",
+            "variants": "solutions",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+              {
+                "_uid": "c5eefd59-7484-426f-84ad-fc1a24e80bd9",
+                "link": [
+                  {
+                    "_uid": "ebb62986-bb2b-4af5-96fb-511d0c9c997c",
+                    "icon": "chevron_right",
+                    "size": "medium",
+                    "text": "Learn more",
+                    "color": {
+                      "_uid": "c7fd8688-9d5a-464a-a483-75971fad0ca6",
+                      "color": "#000002",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "8701a89a-5cc3-4d34-8971-49bb5c3086e1",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "b541176f-8684-4159-9761-c007710a3f0a",
+                      "url": "",
+                      "_uid": "b126e089-e87c-41bd-8458-25c88a7cc491",
+                      "anchor": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": "us/tools/income-and-budget-tracking"
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "dataProduct": "",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"ebb62986-bb2b-4af5-96fb-511d0c9c997c\", \"id\": \"23902217\"}-->"
+                  }
+                ],
+                "stat": "",
+                "title": "Configure cost features.",
+                "boldTitle": false,
+                "component": "highlight",
+                "description": "Configurable features allow you to customize the software to suit your needs and optimize cost management. Tailor terminology to align with company standards, set up custom budget structures that work with any accounting system effectively, and create custom calculated budget columns. Leverage rule-based approval workflows and create custom document templates to auto-generate contracts and process changes.",
+                "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"c5eefd59-7484-426f-84ad-fc1a24e80bd9\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": false,
+            "imageFullWidth": false,
+            "backgroundColor": {
+              "_uid": "1c6acd21-4b84-4fe7-82d4-9350e21e6582",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "27",
+            "addShadowToImage": false,
+            "showImageOnMobile": false,
+            "imagePaddingBottom": "20",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+              "_uid": "972a471f-efb7-49fb-92cd-db3b0f0bcaef",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"3ea2d651-3c33-49c5-bd99-665f6f4b7672\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "_editable": "<!--#storyblok#{\"name\": \"connectedTwoColumnHighlights\", \"space\": \"64835\", \"uid\": \"238d325d-f74f-4ec4-9cb2-697d8a9949af\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "99a33bb4-4fb1-428a-bf25-e5a5fc6baf2f",
+        "amount": "3",
+        "margin": "",
+        "bgColor": {
+          "_uid": "8c26e734-8948-43e7-805a-e9f06478a155",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"99a33bb4-4fb1-428a-bf25-e5a5fc6baf2f\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "031c9fe0-b713-40a6-a520-d14ca401c265",
+        "component": "connectedTwoColumnHighlights",
+        "moduleOne": [
+          {
+            "_uid": "66e6419b-071a-48c5-abaf-39dc6c1aafed",
+            "color": {
+              "_uid": "28bf39c4-b625-42fa-8f7e-af77023b15f7",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "image": [
+              {
+                "_uid": "0d4962ff-c8e9-43b7-a724-9f7b41b1e7b6",
+                "image": "//a.storyblok.com/f/64835/640x417/c40f10f3bb/erp-integrations.svg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Construction cost management software for cost budgeting",
+                "maxWidth": "",
+                "minWidth": "400px",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"0d4962ff-c8e9-43b7-a724-9f7b41b1e7b6\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "headline": "",
+            "variants": "solutions",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+              {
+                "_uid": "dca1c54d-a24d-4612-affe-076f562651aa",
+                "link": [
+                  {
+                    "_uid": "e9189e6f-5621-4848-85db-575013b98bfc",
+                    "icon": "chevron_right",
+                    "size": "medium",
+                    "text": "Learn more",
+                    "color": {
+                      "_uid": "8ec5717f-4277-495e-8f04-46dbcf8158ca",
+                      "color": "#FFFFFF",
+                      "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                      "_uid": "25ed7328-3e11-4b8e-8987-b121a3d93e44",
+                      "color": "#1858A8",
+                      "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                      "id": "",
+                      "url": "https://construction.autodesk.com/partners/integrate-with-autodesk-construction-cloud/",
+                      "_uid": "4fe65a95-2f1f-4c33-8f0c-97d653193c3b",
+                      "linktype": "url",
+                      "fieldtype": "multilink",
+                      "cached_url": "https://construction.autodesk.com/partners/integrate-with-autodesk-construction-cloud/"
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "dataProduct": "",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"e9189e6f-5621-4848-85db-575013b98bfc\", \"id\": \"23902217\"}-->"
+                  }
+                ],
+                "stat": "",
+                "title": "Accounting and Operations Integration",
+                "boldTitle": false,
+                "component": "highlight",
+                "description": "Synchronize critical financial data between accounting and operations by integrating Autodesk Build and your accounting system like Sage, Viewpoint, and JD Edwards. \n\nWith a connected cloud-based cost management system, manual and duplicate data entry is eliminated, risk of liability issues is reduced, and processes become streamlined. Accessibility to accurate, up-to-date information empowers both parties to make informed decisions quickly. And with actual construction cost data automatically flowing into Cost Management application, field teams can improve forecast accuracy to ensure maximum profitability. ",
+                "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"dca1c54d-a24d-4612-affe-076f562651aa\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": true,
+            "imageFullWidth": false,
+            "backgroundColor": {
+              "_uid": "8187304f-33c9-42a6-919e-88f0cf16f57b",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "10",
+            "addShadowToImage": false,
+            "showImageOnMobile": false,
+            "imagePaddingBottom": "10",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+              "_uid": "05527570-4f44-4072-88d1-9a2d8f66c4e2",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"66e6419b-071a-48c5-abaf-39dc6c1aafed\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "moduleTwo": [],
+        "_editable": "<!--#storyblok#{\"name\": \"connectedTwoColumnHighlights\", \"space\": \"64835\", \"uid\": \"031c9fe0-b713-40a6-a520-d14ca401c265\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "c2c8ccd3-94d9-4cbb-b3d1-5de218ca27a1",
+        "amount": "3",
+        "margin": "",
+        "bgColor": {
+          "_uid": "8c26e734-8948-43e7-805a-e9f06478a155",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"c2c8ccd3-94d9-4cbb-b3d1-5de218ca27a1\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "78905e38-fe86-462c-a99a-012e3b3c86cc",
+        "cards": [
+          {
+            "cta": [
+              {
+                "_uid": "b5df9664-22ca-4878-92b1-faf0a6dc00ec",
+                "icon": [],
+                "link": {
+                  "id": "3047e811-0673-4a05-bbd1-7552b7fb639e",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "tools/construction-rfi-tracking"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"b5df9664-22ca-4878-92b1-faf0a6dc00ec\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_uid": "3d32a26c-60b0-4acc-894c-49969fcda8dc",
+            "title": "Create a PCO from a RFI",
+            "image1": [
+              {
+                "_uid": "220110fe-ff92-403f-ba43-0a8ef50447d3",
+                "image": "//a.storyblok.com/f/64835/x/e90765ac93/ico_rfi.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Construction Change Order",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"220110fe-ff92-403f-ba43-0a8ef50447d3\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "image2": [],
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "2484b54e-4870-40fb-9ab3-cb0f23373cae",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Create a Potential Change Order directly from an RFI, reducing data entry and capturing the origin of change orders.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"3d32a26c-60b0-4acc-894c-49969fcda8dc\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "7fa612db-cc47-4299-9ce7-fdf2c7cde113",
+                "icon": [],
+                "link": {
+                  "id": "58bd8769-7f32-4a25-9fca-bf12292c158c",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "tools/construction-meeting-records"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"7fa612db-cc47-4299-9ce7-fdf2c7cde113\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_uid": "27355ac9-3a3d-42b3-9e33-6cb26df26f47",
+            "title": "Link Cost Items in Meetings",
+            "image1": [
+              {
+                "_uid": "695dc585-6d1f-42b3-932d-160f93a9b1fe",
+                "image": "//a.storyblok.com/f/64835/x/ecad14458a/ico_change-order.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Construction Meeting Minutes",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"695dc585-6d1f-42b3-932d-160f93a9b1fe\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "image2": [],
+            "eyebrow": "",
+            "variant": "light",
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "imageLink": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "91835447-d1cc-47e0-918a-f7bdac16f2bd",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Link change orders directly to meeting items to improve the visibility and accessibility of critical construction cost information.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"27355ac9-3a3d-42b3-9e33-6cb26df26f47\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "b34c2835-b4b7-4efa-a258-7273cb39da71",
+                "icon": [],
+                "link": {
+                  "id": "90d2150f-11a3-463f-90d6-90592ffa3f1a",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "tools/expense-and-cost-tracking"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"b34c2835-b4b7-4efa-a258-7273cb39da71\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_uid": "71df41cb-b9b7-44f0-af0c-5d87316e9687",
+            "title": "Access Cost Information",
+            "image1": [
+              {
+                "_uid": "7076d6e6-44c1-4125-9d37-95f250cc6c98",
+                "image": "//a.storyblok.com/f/64835/x/cbd32a66b7/ico-collaboration.svg",
+                "title": "",
+                "width": "75px",
+                "height": "",
+                "altText": "Access to construction cost information",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "",
+                "minHeight": "",
+                "objectFit": "Cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"7076d6e6-44c1-4125-9d37-95f250cc6c98\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "image2": [],
+            "alignment": "left",
+            "component": "imageTitleDescriptionCard",
+            "bottomLogo": "",
+            "titleColor": {
+              "_uid": "f6cbbd28-8cdd-4781-bfd5-0f4cc21af24b",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Role-based permission settings let you control how owners and suppliers view cost management items.",
+            "noDescMargin": false,
+            "moreLinkSpace": false,
+            "extraBoldTitle": false,
+            "descriptionInfo": "",
+            "largerDescriptionText": false,
+            "_editable": "<!--#storyblok#{\"name\": \"imageTitleDescriptionCard\", \"space\": \"64835\", \"uid\": \"71df41cb-b9b7-44f0-af0c-5d87316e9687\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "37eae817-0611-4515-b7ae-952b409fb029",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "Connected construction cost workflows reduce data loss and increase access to critical information.",
+        "clearBg": false,
+        "maxWidth": "",
+        "variants": "default",
+        "alignment": "center",
+        "boldTitle": false,
+        "component": "cardModule",
+        "references": [],
+        "description": "Improve construction cost control by managing cost activities in the software used for project management and field activities, streamlining construction project workflows and connecting data. ",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "removeMargin": false,
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "07f5551d-22ac-4f34-8903-08dfcf2b189b",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"78905e38-fe86-462c-a99a-012e3b3c86cc\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "6c0b5e7e-5b61-40b6-bc51-5f654ab771d4",
+        "amount": "3",
+        "margin": "",
+        "bgColor": "",
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"6c0b5e7e-5b61-40b6-bc51-5f654ab771d4\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "679cfe13-6a9a-47ba-b761-c1608ea31684",
+        "link": [],
+        "button": [
+          {
+            "_uid": "cdf9442d-1593-40dd-87b0-b9ca193c3cda",
+            "icon": "chevron_right",
+            "size": "medium",
+            "text": "Get a Demo",
+            "color": {
+              "_uid": "84ca1ef0-a451-43b5-9085-71dc3e753467",
+              "color": "#1858A8",
+              "plugin": "official-colorpicker"
+            },
+            "params": "",
+            "bgColor": {
+              "_uid": "725e9ebf-3535-4da4-b425-012605081a5b",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "linksTo": {
+              "id": "62bb0d4a-b6a1-4d13-9f38-21dc52dff022",
+              "url": "",
+              "_uid": "24145c33-f328-4dfc-8863-e5961756a4a0",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "contact"
+            },
+            "variant": "contained",
+            "disabled": false,
+            "fragment": "",
+            "component": "button",
+            "fullWidth": false,
+            "openInNewTab": false,
+            "alignmentButton": "left",
+            "forwardUTMParams": false,
+            "anchorLinkIsInvisible": false,
+            "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"cdf9442d-1593-40dd-87b0-b9ca193c3cda\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "variant": "",
+        "headline": "Improve construction cost management.",
+        "component": "ctaBannerModule",
+        "_editable": "<!--#storyblok#{\"name\": \"ctaBannerModule\", \"space\": \"64835\", \"uid\": \"679cfe13-6a9a-47ba-b761-c1608ea31684\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "4c8f7786-8873-46a8-90e6-df9badb59a3d",
+        "amount": "3",
+        "margin": "",
+        "bgColor": "",
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"4c8f7786-8873-46a8-90e6-df9badb59a3d\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "cta": [],
+        "_uid": "5ffb5b35-fc9f-4041-930a-b1ea9bc4b84f",
+        "cards": [
+          {
+            "_uid": "64173591-9975-4e3a-86ac-adde0640c3dc",
+            "image": [
+              {
+                "_uid": "119beebb-351a-4fc6-80bf-8ca2c0f59d11",
+                "image": "//a.storyblok.com/f/64835/1440x600/5141880439/1440x600-ultimate-guide-benchmark.jpg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Two Construction Project Managers looking at models on computers and discussing streamlining processes with construction project management software.",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "125px",
+                "minHeight": "",
+                "objectFit": "cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"119beebb-351a-4fc6-80bf-8ca2c0f59d11\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "title": "Best Practices to Successfully Integrate your Cost Management and ERP Systems",
+            "format": "Ebook",
+            "variant": "",
+            "alignment": "left",
+            "component": "resourceCard",
+            "titleColor": {
+              "_uid": "8bd26e15-4bd7-4c8f-9ece-9a8ba2297f9d",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Hear how Jacobsen Construction combined the power of Cost Management with its accounting systems to automate processes, reduce errors, and gain more actionable data.",
+            "isClickable": false,
+            "noDescMargin": false,
+            "removeMargin": false,
+            "buttonAssetUrl": [
+              {
+                "_uid": "bfb547ea-eed5-4db8-883e-ad91cb237eb9",
+                "icon": [],
+                "link": {
+                  "id": "",
+                  "url": "https://construction.autodesk.com/resources/autodesk-construction-cloud-webinars/best-practices-financial-system-integration/#main-content",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://construction.autodesk.com/resources/autodesk-construction-cloud-webinars/best-practices-financial-system-integration/#main-content"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "iconSvg": "",
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "noLeftMargin": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Watch the Webinar",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"bfb547ea-eed5-4db8-883e-ad91cb237eb9\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "notVisibleOnMobile": false,
+            "_editable": "<!--#storyblok#{\"name\": \"resourceCard\", \"space\": \"64835\", \"uid\": \"64173591-9975-4e3a-86ac-adde0640c3dc\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "_uid": "3018b950-d73e-446a-b605-24801406cd98",
+            "image": [
+              {
+                "_uid": "32ac9c69-886c-4b91-82dc-4579627a9c22",
+                "image": "//a.storyblok.com/f/64835/1130x500/e8cdc308f2/construction-cloud-takeoffs.jpg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Construction project managers working on construction cost management software",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "125px",
+                "minHeight": "",
+                "objectFit": "cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"32ac9c69-886c-4b91-82dc-4579627a9c22\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "title": "Construction Cost Management 101",
+            "alignment": "left",
+            "component": "resourceCard",
+            "titleColor": {
+              "_uid": "3977a153-b7d3-4827-9b42-a309eb714d91",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "Your ultimate guide to construction cost management, common pitfalls and steps to improve cost management in construction.",
+            "isClickable": false,
+            "noDescMargin": false,
+            "removeMargin": false,
+            "buttonAssetUrl": [
+              {
+                "_uid": "e8148290-84a3-49b9-b8f0-f6aaa8fc26f5",
+                "link": {
+                  "id": "",
+                  "url": "https://constructionblog.autodesk.com/construction-cost-management/",
+                  "_uid": "658a067f-221c-4abe-a902-f5646ad13a40",
+                  "anchor": "",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "https://constructionblog.autodesk.com/construction-cost-management/"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Learn More",
+                "contentToHyperlink": [],
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"e8148290-84a3-49b9-b8f0-f6aaa8fc26f5\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "notVisibleOnMobile": false,
+            "_editable": "<!--#storyblok#{\"name\": \"resourceCard\", \"space\": \"64835\", \"uid\": \"3018b950-d73e-446a-b605-24801406cd98\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "_uid": "a9e941fe-37a8-4f1c-b1c7-f389bf3e04a2",
+            "image": [
+              {
+                "_uid": "502c94f3-413b-416c-a3ed-b8d2155d9daf",
+                "image": "//a.storyblok.com/f/64835/4320x1800/e4d98f63a3/4320x1800-connected-construction-data.jpg",
+                "title": "",
+                "width": "",
+                "height": "",
+                "altText": "Two construction site managers discuss construction cost management software",
+                "maxWidth": "",
+                "minWidth": "",
+                "component": "image",
+                "maxHeight": "125px",
+                "minHeight": "",
+                "objectFit": "cover",
+                "objectPosition": "",
+                "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"502c94f3-413b-416c-a3ed-b8d2155d9daf\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "title": "Cost Management with Autodesk Build",
+            "alignment": "left",
+            "component": "resourceCard",
+            "titleColor": {
+              "_uid": "501cf1aa-a605-4659-bf80-fd67dd2d7cf4",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "description": "See how Autodesk Build helps teams centralize in the cloud the management of all cost-related activities, improve visibility into the financial health of projects, and reduce cost-related risk.",
+            "isClickable": false,
+            "noDescMargin": false,
+            "removeMargin": false,
+            "buttonAssetUrl": [
+              {
+                "_uid": "08a49675-d90c-4c06-a581-9aef34bdda43",
+                "icon": [],
+                "link": {
+                  "id": "cc6f492c-1a27-4cc5-b0f1-1f4c938c177f",
+                  "url": "",
+                  "_uid": "b6c0e6a3-d2be-4cba-a957-fc6fc492ea6a",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/resources/construction-cost-management-video"
+                },
+                "modal": [],
+                "params": "",
+                "allCaps": false,
+                "subLink": [],
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "dataProduct": "",
+                "downloadable": false,
+                "openInNewTab": false,
+                "dataAnalytics": "",
+                "forcePageLoad": false,
+                "textToHyperlink": "Watch the Video",
+                "contentToHyperlink": [],
+                "linkWithoutUnderline": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"08a49675-d90c-4c06-a581-9aef34bdda43\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "notVisibleOnMobile": false,
+            "_editable": "<!--#storyblok#{\"name\": \"resourceCard\", \"space\": \"64835\", \"uid\": \"a9e941fe-37a8-4f1c-b1c7-f389bf3e04a2\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "color": {
+          "_uid": "555f9ba0-2ff1-44fe-8687-463223be1d00",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "isNav": false,
+        "title": "",
+        "clearBg": false,
+        "maxWidth": "",
+        "variants": "default",
+        "alignment": "center",
+        "boldTitle": false,
+        "component": "cardModule",
+        "references": [],
+        "description": "",
+        "isFullWidth": false,
+        "eyebrowLabel": "",
+        "removeMargin": false,
+        "headerBgImage": [],
+        "ctaWithDivider": [],
+        "backgroundColor": {
+          "_uid": "90b6c532-4e67-45b4-9ab2-32c313b7e6f8",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "thumbnailHeight": "",
+        "overrideColumnWidth": "",
+        "equalSpacingCardImage": false,
+        "_editable": "<!--#storyblok#{\"name\": \"cardModule\", \"space\": \"64835\", \"uid\": \"5ffb5b35-fc9f-4041-930a-b1ea9bc4b84f\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "m": "",
+        "p": "",
+        "id": "",
+        "mb": "",
+        "ml": "",
+        "mr": "",
+        "mt": "",
+        "mx": "",
+        "my": "",
+        "pb": "",
+        "pl": "",
+        "pr": "",
+        "pt": "",
+        "px": "",
+        "py": "",
+        "css": [],
+        "top": "",
+        "_uid": "d4814c55-c239-4677-b4e7-9bc144c44c5b",
+        "flex": "",
+        "left": "",
+        "clone": false,
+        "color": {
+          "_uid": "5188ddcd-8629-4934-8030-876e7d3cd611",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "order": "",
+        "right": "",
+        "width": "auto",
+        "border": "",
+        "bottom": "",
+        "height": "auto",
+        "zIndex": "",
+        "bgColor": {
+          "_uid": "233b5a65-fa03-4857-8c07-c9e7cd963a8f",
+          "color": "#FFFFFF",
+          "plugin": "official-colorpicker"
+        },
+        "bgImage": "",
+        "content": [
+          {
+            "_uid": "46417699-9382-49ce-be27-30c36870cc1c",
+            "text": "Frequently Asked Questions",
+            "align": "left",
+            "color": {
+              "_uid": "dff84ac6-e5fc-4dd8-a47f-8c2f8b3771cf",
+              "color": "#0696D7",
+              "plugin": "official-colorpicker"
+            },
+            "image": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "filename": null,
+              "copyright": null,
+              "fieldtype": "asset"
+            },
+            "noWrap": false,
+            "display": "initial",
+            "variant": "h4",
+            "component": "typography",
+            "paragraph": false,
+            "gutterBottom": false,
+            "_editable": "<!--#storyblok#{\"name\": \"typography\", \"space\": \"64835\", \"uid\": \"46417699-9382-49ce-be27-30c36870cc1c\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "display": "flex",
+        "htmlTag": "div",
+        "flexGrow": "",
+        "flexWrap": "",
+        "fontSize": "",
+        "maxWidth": "initial",
+        "minWidth": "initial",
+        "overflow": "",
+        "position": "",
+        "alignSelf": "",
+        "borderTop": "",
+        "boxShadow": "",
+        "component": "box",
+        "displayLG": "",
+        "displayMD": "",
+        "displaySM": "",
+        "displayXL": "",
+        "displayXS": "",
+        "fontStyle": "",
+        "maxHeight": "initial",
+        "minHeight": "initial",
+        "textAlign": "",
+        "alignItems": "",
+        "borderLeft": "",
+        "flexShrink": "",
+        "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+        "fontWeight": "",
+        "lineHeight": "",
+        "visibility": "",
+        "whiteSpace": "",
+        "borderColor": {
+          "_uid": "9a8f7252-aa38-4549-8e5a-5c41ae19bac4",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "borderRight": "",
+        "alignContent": "",
+        "borderBottom": "",
+        "borderRadius": "",
+        "displayPrint": "",
+        "textOverflow": "",
+        "flexDirection": "row",
+        "letterSpacing": "",
+        "justifyContent": "flex-start",
+        "optimizelyTest": {
+          "_uid": "09c0eb5d-f3e3-450c-bd75-0f0055c01934",
+          "plugin": "optimizely",
+          "segments": []
+        },
+        "hasPageContainer": true,
+        "hasFixedContainer": true,
+        "_editable": "<!--#storyblok#{\"name\": \"box\", \"space\": \"64835\", \"uid\": \"d4814c55-c239-4677-b4e7-9bc144c44c5b\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "e6c30e8c-9b11-4760-b0a9-0aea16796617",
+        "amount": "3",
+        "margin": "",
+        "bgColor": "",
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"e6c30e8c-9b11-4760-b0a9-0aea16796617\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "f93cefec-a106-4da7-9a65-f5ec0b064eba",
+        "title": "",
+        "component": "accordionModule",
+        "backgroundImage": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "filename": null,
+          "copyright": null,
+          "fieldtype": "asset"
+        },
+        "accordionSections": [
+          {
+            "_uid": "884a30ba-b207-4883-8e9b-4ec2d37c041b",
+            "component": "accordionSection",
+            "sectionTitle": "What is construction cost management?",
+            "expandedContent": [
+              {
+                "_uid": "be074c84-8945-4f94-9270-1dd8dc3a1e12",
+                "markdown": "The basic function of construction cost management is to keep your job on budget and avoid the project eating into your bottom line. Cost management affects all phases of a project. It also plays a critical role in ensuring your team has a reputation for being proactive, efficient, and accurate in estimating and executing a proposed project budget. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"be074c84-8945-4f94-9270-1dd8dc3a1e12\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"884a30ba-b207-4883-8e9b-4ec2d37c041b\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "_uid": "bfb300f8-e35e-4540-947f-4b5cdceb28cf",
+            "component": "accordionSection",
+            "sectionTitle": "Why is cost management important in construction?",
+            "expandedContent": [
+              {
+                "_uid": "a7d3df05-95b3-43b1-b185-c4ef79c6c805",
+                "markdown": "Cost management is one of the most critical tasks in a construction project. Proper cost management practices allow you to reduce costs and increase profitability. Tracking how you're progressing against the plan and being able to identify areas of risk early is critical to successful project delivery. ",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"a7d3df05-95b3-43b1-b185-c4ef79c6c805\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"bfb300f8-e35e-4540-947f-4b5cdceb28cf\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "_uid": "5393eb54-0932-4ea1-9de9-eb3560e76b38",
+            "component": "accordionSection",
+            "sectionTitle": "What is included in Autodesk Build?",
+            "expandedContent": [
+              {
+                "_uid": "c038e654-dfc1-4cad-8f50-819169261f8b",
+                "variant": "default",
+                "markdown": "All [Autodesk Build](https://construction.autodesk.com/products/autodesk-build/) subscriptions include all project management, quality management, safety management, and cost management features, including access to [Autodesk Docs](https://construction.autodesk.com/products/autodesk-docs/) and the Autodesk Construction Cloud mobile app.",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"c038e654-dfc1-4cad-8f50-819169261f8b\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"5393eb54-0932-4ea1-9de9-eb3560e76b38\", \"id\": \"23902217\"}-->"
+          },
+          {
+            "_uid": "8cb12229-0ed7-4364-aee2-6b2ec7906da0",
+            "component": "accordionSection",
+            "sectionTitle": "How does Autodesk Build compare to PlanGrid?",
+            "expandedContent": [
+              {
+                "_uid": "dfdf25c5-d07d-4c48-9afb-3df4e4371ff5",
+                "markdown": "Autodesk Build was developed by combining the best-in-class features of BIM 360 Build, BIM 360 Cost, and PlanGrid into a single solution. In addition, Autodesk Build offers capabilities that PlanGrid does not, such as Meeting Minutes, Schedule Management, Cost Management, and Asset Management.",
+                "component": "markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"dfdf25c5-d07d-4c48-9afb-3df4e4371ff5\", \"id\": \"23902217\"}-->"
+              }
+            ],
+            "_editable": "<!--#storyblok#{\"name\": \"accordionSection\", \"space\": \"64835\", \"uid\": \"8cb12229-0ed7-4364-aee2-6b2ec7906da0\", \"id\": \"23902217\"}-->"
+          }
+        ],
+        "isFaqAsStructuredData": true,
+        "_editable": "<!--#storyblok#{\"name\": \"accordionModule\", \"space\": \"64835\", \"uid\": \"f93cefec-a106-4da7-9a65-f5ec0b064eba\", \"id\": \"23902217\"}-->"
+      },
+      {
+        "_uid": "83f9184e-19df-4333-a6f3-0ed653eef2a6",
+        "amount": "3",
+        "margin": "",
+        "bgColor": "",
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"83f9184e-19df-4333-a6f3-0ed653eef2a6\", \"id\": \"23902217\"}-->"
+      }
+    ],
+    "title": "",
+    "subNav": "",
+    "noIndex": false,
+    "metaData": {
+      "_uid": "ecc037a6-c772-4b77-a836-ed21148b4219",
+      "title": "Construction Cost Management | Autodesk Construction Cloud",
+      "plugin": "seo_metatags",
+      "og_image": "",
+      "og_title": "",
+      "description": "Improve construction cost management, gain real-time visibility into cost-related risk, and accurately forecast by centralizing all cost activities in the cloud.",
+      "twitter_image": "",
+      "twitter_title": "",
+      "og_description": "",
+      "twitter_description": ""
+    },
+    "component": "detailsPage",
+    "l10nExport": true,
+    "dataProduct": "",
+    "description": "",
+    "headerImage": [
+      {
+        "_uid": "84b3253c-c21a-408e-8b65-75fc0fb65f4e",
+        "image": "//a.storyblok.com/f/64835/4320x1800/fdfc731616/1440x600-cost-management-3x.jpg",
+        "title": "",
+        "component": "headerModule",
+        "maxHeight": "",
+        "description": "",
+        "backgroundPosition": "top",
+        "hasBackgroundOverlay": false,
+        "_editable": "<!--#storyblok#{\"name\": \"headerModule\", \"space\": \"64835\", \"uid\": \"84b3253c-c21a-408e-8b65-75fc0fb65f4e\", \"id\": \"23902217\"}-->"
+      }
+    ],
+    "canonicalPage": "",
+    "isLandingPage": false,
+    "conversionType": "",
+    "pageContainerHeight": "low",
+    "_editable": "<!--#storyblok#{\"name\": \"detailsPage\", \"space\": \"64835\", \"uid\": \"12c18c13-7d97-45fe-bf27-5d3e2f2be0a1\", \"id\": \"23902217\"}-->"
+  }
+}

@@ -22,7 +22,8 @@
     font-style: normal;
     font-weight: 300;
     font-display: swap;
-    src: url("../../public/fonts/artifakt-element-light.woff2") format("woff2"),
+    src:
+      url("../../public/fonts/artifakt-element-light.woff2") format("woff2"),
       url("../../public/fonts/artifakt-element-light.woff") format("woff"),
       url("../../public/fonts/artifakt-element-light.ttf") format("truetype");
   }
@@ -32,8 +33,8 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("../../public/fonts/artifakt-element-regular.woff2")
-        format("woff2"),
+    src:
+      url("../../public/fonts/artifakt-element-regular.woff2") format("woff2"),
       url("../../public/fonts/artifakt-element-regular.woff") format("woff"),
       url("../../public/fonts/artifakt-element-regular.ttf") format("truetype");
   }
@@ -43,7 +44,8 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url("../../public/fonts/artifakt-element-medium.woff2") format("woff2"),
+    src:
+      url("../../public/fonts/artifakt-element-medium.woff2") format("woff2"),
       url("../../public/fonts/artifakt-element-medium.woff") format("woff"),
       url("../../public/fonts/artifakt-element-medium.ttf") format("truetype");
   }
@@ -53,7 +55,8 @@
     font-style: normal;
     font-weight: 800;
     font-display: swap;
-    src: url("../../public/fonts/artifakt-element-bold.woff2") format("woff2"),
+    src:
+      url("../../public/fonts/artifakt-element-bold.woff2") format("woff2"),
       url("../../public/fonts/artifakt-element-bold.woff") format("woff"),
       url("../../public/fonts/artifakt-element-bold.ttf") format("truetype");
   }

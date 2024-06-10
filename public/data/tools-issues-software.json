@@ -1,0 +1,749 @@
+{
+  "full_slug": "us/tools/issues-software",
+  "content": {
+    "_uid": "2bdd3951-692c-433d-a6e9-2bcf7af01482",
+    "body": [
+      {
+        "cta": [],
+        "_uid": "9749da5c-17cb-4c1b-9561-5932c1633cbe",
+        "body": [],
+        "icon": [
+          {
+            "_uid": "b458b80b-d0d8-4f4d-b2b5-63ca80633e85",
+            "image": "//a.storyblok.com/f/64835/x/324e8251c9/ic_checkmark_circle.svg",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "Construction Issues Software Icon",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "Contain",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"b458b80b-d0d8-4f4d-b2b5-63ca80633e85\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "title": "",
+        "variant": "",
+        "iconText": "Issues",
+        "subtitle": "Manage issues on a unified platform across the project lifecycle.",
+        "component": "titleSubtitleDescriptionModule",
+        "smallTitle": false,
+        "description": [
+          {
+            "_uid": "d42edca9-001f-4862-8f72-501832213b33",
+            "markdown": "Track all issues, from design to handover, in one place. Create accountability to resolve issues faster and with more transparency.",
+            "component": "markdown",
+            "_editable": "<!--#storyblok#{\"name\": \"markdown\", \"space\": \"64835\", \"uid\": \"d42edca9-001f-4862-8f72-501832213b33\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "subtitleColor": {
+          "_uid": "ace2f90e-3ad0-4849-9f31-51ce86339e58",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "textAlignment": "",
+        "subtitleProportion": "",
+        "descriptionProportion": "",
+        "_editable": "<!--#storyblok#{\"name\": \"titleSubtitleDescriptionModule\", \"space\": \"64835\", \"uid\": \"9749da5c-17cb-4c1b-9561-5932c1633cbe\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "c53f3f7e-daae-498b-89ac-baa519843a51",
+        "image": [
+          {
+            "_uid": "c7ae8baa-858f-4c24-8c3d-839a42bade97",
+            "image": "//a.storyblok.com/f/64835/1800x1800/524559fe5a/access-all-issues-from-a-single-log.jpg",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "Track design, coordination, quality, safety, and commissioning issues in centralized Construction Issues Software.",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "fill",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"c7ae8baa-858f-4c24-8c3d-839a42bade97\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "headline": "",
+        "variants": "blue-triangle",
+        "component": "twoColHighlightsWithImage",
+        "highlights": [
+          {
+            "_uid": "0eef0bb4-dcc8-4ce8-80fa-0c6107e918ce",
+            "link": [],
+            "stat": "",
+            "title": "Access all issues from one place.",
+            "component": "highlight",
+            "description": "Track all design, coordination, quality, safety, and commissioning issues from the same issue log. Use sorting and filtering to configure your view and quickly find the issues you’re looking for.",
+            "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"0eef0bb4-dcc8-4ce8-80fa-0c6107e918ce\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "imageAlign": "center",
+        "description": "",
+        "imageOnRight": true,
+        "imageFullWidth": false,
+        "backgroundColor": {
+          "_uid": "796795f9-49de-4a70-997d-f165d6bb24f2",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingTop": "0",
+        "addShadowToImage": true,
+        "showImageOnMobile": false,
+        "imagePaddingBottom": "0",
+        "isMobileScreenshot": false,
+        "highlightTitleColor": {
+          "_uid": "cdc333d3-59b0-4d58-a5fe-282fd5710163",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingOutside": "0",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"c53f3f7e-daae-498b-89ac-baa519843a51\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "d3c91fe6-b667-4bca-833b-c3e852161309",
+        "image": [
+          {
+            "_uid": "3f7b5760-ee8e-4508-890a-e942effd6dae",
+            "image": "//a.storyblok.com/f/64835/1800x1800/4f3485969a/issues-on-sheet.jpg",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "linking an issue to a jobsite drawing in Construction Issues Software.",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "fill",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"3f7b5760-ee8e-4508-890a-e942effd6dae\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "headline": "",
+        "variants": "blue-triangle",
+        "component": "twoColHighlightsWithImage",
+        "highlights": [
+          {
+            "_uid": "beb568c1-4520-4e91-8ae2-90b3e5ab5319",
+            "link": [],
+            "stat": "",
+            "title": "Create and visualize issues.",
+            "component": "highlight",
+            "description": "Create issues in a few quick steps on web or mobile. Place pins to identify the exact location of issues on 2D sheets or 3D models. Add photo or document references to provide team members with additional context.",
+            "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"beb568c1-4520-4e91-8ae2-90b3e5ab5319\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "imageAlign": "center",
+        "description": "",
+        "imageOnRight": false,
+        "imageFullWidth": false,
+        "backgroundColor": {
+          "_uid": "7714a75e-bfa8-44f0-bf11-a3ffa44a1052",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingTop": "0",
+        "addShadowToImage": true,
+        "showImageOnMobile": false,
+        "imagePaddingBottom": "0",
+        "isMobileScreenshot": false,
+        "highlightTitleColor": {
+          "_uid": "30b34361-42e0-4c44-889a-7e9d1a5744c4",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingOutside": "0",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"d3c91fe6-b667-4bca-833b-c3e852161309\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "fcc6c3f0-c977-46d2-975c-892f51e31f3c",
+        "image": [
+          {
+            "_uid": "dc2272c4-3c9c-4db3-ae8e-31ab27030de4",
+            "image": "//a.storyblok.com/f/64835/1800x1800/d723c418b0/connect-construction-workflows.png",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "connecting issues and checklists in Construction Issues Software.",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "fill",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"dc2272c4-3c9c-4db3-ae8e-31ab27030de4\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "headline": "",
+        "variants": "blue-triangle",
+        "component": "twoColHighlightsWithImage",
+        "highlights": [
+          {
+            "_uid": "0b149bc5-fae2-441c-9586-ac7c3ec16b53",
+            "link": [],
+            "stat": "",
+            "title": "Connect construction workflows.",
+            "component": "highlight",
+            "description": "Save time and increase transparency by creating essential references between issues, forms, and RFIs. Create an issue directly from a form and, if needed, immediately escalate that issue to an RFI.",
+            "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"0b149bc5-fae2-441c-9586-ac7c3ec16b53\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "imageAlign": "center",
+        "description": "",
+        "imageOnRight": true,
+        "imageFullWidth": false,
+        "backgroundColor": {
+          "_uid": "2720541b-ee9d-4f02-b9c3-da3bd301056f",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingTop": "0",
+        "addShadowToImage": true,
+        "showImageOnMobile": false,
+        "imagePaddingBottom": "0",
+        "highlightTitleColor": {
+          "_uid": "b2a5531a-9546-455e-b6b9-55bf363a15eb",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingOutside": "0",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"fcc6c3f0-c977-46d2-975c-892f51e31f3c\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "e22df6f7-6a1f-4d92-a779-3eb0421a13c3",
+        "image": [
+          {
+            "_uid": "725d9d41-6041-4c66-b93f-f13c192f7e0a",
+            "image": "//a.storyblok.com/f/64835/1800x1800/7f3db2b110/customize-issue-settings.jpg",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "Construction Issues Software that lets you customize project issues",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "fill",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"725d9d41-6041-4c66-b93f-f13c192f7e0a\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "headline": "",
+        "variants": "blue-triangle",
+        "component": "twoColHighlightsWithImage",
+        "highlights": [
+          {
+            "_uid": "e439f12f-795f-4744-b42e-c920dbd556de",
+            "link": [],
+            "stat": "",
+            "title": "Customize issue settings.",
+            "component": "highlight",
+            "description": "Create custom fields to capture specific data for each issue type. Set up 3-character issue pin labels to help team members quickly understand what type of issue they’re looking at.",
+            "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"e439f12f-795f-4744-b42e-c920dbd556de\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "imageAlign": "center",
+        "description": "",
+        "imageOnRight": false,
+        "imageFullWidth": false,
+        "backgroundColor": {
+          "_uid": "b6e829f9-9431-4689-a3bc-d1440d4880f4",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingTop": "0",
+        "addShadowToImage": true,
+        "showImageOnMobile": false,
+        "imagePaddingBottom": "",
+        "isMobileScreenshot": false,
+        "highlightTitleColor": {
+          "_uid": "3bad4a42-f8a5-44c6-b8c0-71182608a302",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingOutside": "",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"e22df6f7-6a1f-4d92-a779-3eb0421a13c3\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "31c9d9a3-5e0b-4c8b-9543-aad10b889e69",
+        "image": [
+          {
+            "_uid": "5a454c30-0b5c-4d96-b504-2ad3770fdb1a",
+            "image": "//a.storyblok.com/f/64835/1800x1800/3d8fe7829a/safety-issue-summary-report.jpg",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "quickly generate construction project reports in Construction Issues Software.",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "fill",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"5a454c30-0b5c-4d96-b504-2ad3770fdb1a\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "headline": "",
+        "variants": "blue-triangle",
+        "component": "twoColHighlightsWithImage",
+        "highlights": [
+          {
+            "_uid": "d544ba6a-5de3-4e9e-90c1-a3537ca2d6b6",
+            "link": [],
+            "stat": "",
+            "title": "Generate and share issue reports.",
+            "component": "highlight",
+            "description": "Create a summary or detailed issue reports that you can easily share, even with non-members. Track issue management with scheduled reports, such as a weekly clash report.",
+            "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"d544ba6a-5de3-4e9e-90c1-a3537ca2d6b6\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "imageAlign": "center",
+        "description": "",
+        "imageOnRight": true,
+        "imageFullWidth": false,
+        "backgroundColor": {
+          "_uid": "71e2b713-4c53-408c-bfbf-2cf7350322d2",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingTop": "0",
+        "addShadowToImage": true,
+        "showImageOnMobile": false,
+        "imagePaddingBottom": "0",
+        "isMobileScreenshot": false,
+        "highlightTitleColor": {
+          "_uid": "e55c5374-cacf-414f-a706-03aeebe7b4a6",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingOutside": "0",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"31c9d9a3-5e0b-4c8b-9543-aad10b889e69\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "dc21cf45-dcbb-446d-964a-738f2132d06f",
+        "image": [
+          {
+            "_uid": "60c03bb4-629e-4708-8717-4bcc370d46f5",
+            "image": "//a.storyblok.com/f/64835/2732x2048/d226592db6/manage-all-issues-on-mobile.jpg",
+            "title": "",
+            "width": "",
+            "height": "",
+            "altText": "Construction Issues mobile app to manage issues from the jobsite",
+            "maxWidth": "",
+            "minWidth": "",
+            "component": "image",
+            "maxHeight": "",
+            "minHeight": "",
+            "objectFit": "fill",
+            "objectPosition": "",
+            "_editable": "<!--#storyblok#{\"name\": \"image\", \"space\": \"64835\", \"uid\": \"60c03bb4-629e-4708-8717-4bcc370d46f5\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "headline": "",
+        "variants": "blue-triangle",
+        "component": "twoColHighlightsWithImage",
+        "highlights": [
+          {
+            "_uid": "965fdc6f-c892-4683-a50a-70f805867c54",
+            "link": [],
+            "stat": "",
+            "title": "Manage all issues on mobile.",
+            "boldTitle": false,
+            "component": "highlight",
+            "description": "Leverage our intuitive mobile app to create, update, and track issues from the jobsite, even when you’re offline. With mobile sync on Autodesk Construction Cloud, you’ll always have the latest project data at your fingertips.",
+            "_editable": "<!--#storyblok#{\"name\": \"highlight\", \"space\": \"64835\", \"uid\": \"965fdc6f-c892-4683-a50a-70f805867c54\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "imageAlign": "center",
+        "description": "",
+        "imageOnRight": false,
+        "imageFullWidth": false,
+        "backgroundColor": {
+          "_uid": "f9542833-3ef1-4e69-a4a3-7c99a1620237",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingTop": "0",
+        "addShadowToImage": true,
+        "showImageOnMobile": false,
+        "imagePaddingBottom": "0",
+        "isMobileScreenshot": false,
+        "highlightTitleColor": {
+          "_uid": "670f845b-96a8-48ef-a34f-2f7009b69412",
+          "color": "",
+          "plugin": "official-colorpicker"
+        },
+        "imagePaddingOutside": "0",
+        "_editable": "<!--#storyblok#{\"name\": \"twoColHighlightsWithImage\", \"space\": \"64835\", \"uid\": \"dc21cf45-dcbb-446d-964a-738f2132d06f\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "3db56140-8adf-4c3f-a694-aba65f9204a3",
+        "amount": "3",
+        "margin": "",
+        "bgColor": {
+          "_uid": "7bd42adb-ba93-46f6-8fdd-f4fb239be023",
+          "color": "#1858A8",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"3db56140-8adf-4c3f-a694-aba65f9204a3\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "21310d6b-b1fc-403d-8af5-cd99e22b9406",
+        "headline": "See Issues in action.",
+        "variants": "blue-bg",
+        "component": "productsIntroModule",
+        "isFullWidth": false,
+        "productCards": [
+          {
+            "_uid": "1356c466-c081-41db-b7e5-2cf826304ffb",
+            "name": "",
+            "color": {
+              "_uid": "56247701-6367-43af-8468-bccde291f448",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "image": [],
+            "button": [
+              {
+                "_uid": "0c12d7e0-54f7-4dc4-b9f9-a84a7ef479fe",
+                "icon": "chevron_right",
+                "size": "small",
+                "text": "Learn more",
+                "color": {
+                  "_uid": "97f9d9de-c23f-4871-8a1b-0839642ed532",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "params": "",
+                "bgColor": {
+                  "_uid": "76bcd2e6-1fa9-4f9a-8e67-a46bf0bdff4b",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "13646988-0b1f-460e-be33-3ebf7902980d",
+                  "url": "",
+                  "_uid": "edf3fe89-6a9d-496c-97ab-016f950c3585",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/autodesk-build"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "openInNewTab": false,
+                "alignmentButton": "left",
+                "forwardUTMParams": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"0c12d7e0-54f7-4dc4-b9f9-a84a7ef479fe\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "component": "productCard",
+            "description": "Comprehensive field and project management software that delivers a broad, deep and connected set of tools for builders.",
+            "productLogo": [
+              {
+                "_uid": "2331bab6-b020-4395-a41d-fe5412f376f9",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "productName": "Autodesk Build",
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"2331bab6-b020-4395-a41d-fe5412f376f9\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "secondaryCta": [
+              {
+                "_uid": "c5f6bc55-c58b-431b-99b5-ba30a9e1b766",
+                "link": {
+                  "id": "f787dba0-1512-435a-99b0-647b90854869",
+                  "url": "",
+                  "_uid": "0e7891e0-0353-493b-8fac-b6d374b87ed0",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "trial/autodesk-build"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Try Now",
+                "contentToHyperlink": [],
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"c5f6bc55-c58b-431b-99b5-ba30a9e1b766\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "isLeftAligned": true,
+            "backgroundColor": {
+              "_uid": "ec3c0dc8-468b-41ee-84a6-68e317c55aac",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "leftAlignedCards": true,
+            "_editable": "<!--#storyblok#{\"name\": \"productCard\", \"space\": \"64835\", \"uid\": \"1356c466-c081-41db-b7e5-2cf826304ffb\", \"id\": \"33318153\"}-->"
+          },
+          {
+            "_uid": "70ea36e1-8d2c-4996-8e65-7a5f94ba891d",
+            "name": "",
+            "color": {
+              "_uid": "53c37eb4-de52-40ba-ace2-b8ca5a41b54f",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "image": [],
+            "button": [
+              {
+                "_uid": "4796315a-9e75-440d-8238-c297503ffcc8",
+                "icon": "chevron_right",
+                "size": "small",
+                "text": "Learn more",
+                "color": {
+                  "_uid": "1e299f99-4e04-4936-a3ef-a9e5a872e38e",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "params": "",
+                "bgColor": {
+                  "_uid": "f591bcc3-733d-4f8a-950a-2dd67ac7702d",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "aa199d2e-bd93-4960-b9b2-4199a01a4cb3",
+                  "url": "",
+                  "_uid": "fe5d26b2-4df8-44cb-b472-a863b5af9f98",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/autodesk-docs"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "fragment": "",
+                "analytics": "",
+                "component": "button",
+                "fullWidth": false,
+                "openInNewTab": false,
+                "alignmentButton": "left",
+                "forwardUTMParams": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"4796315a-9e75-440d-8238-c297503ffcc8\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "component": "productCard",
+            "description": "Centralized document management solution that acts as a single source of truth across the project lifecycle for all project teams. ",
+            "productLogo": [
+              {
+                "_uid": "3abe2f96-57f2-47d5-93b3-af7a9bc90af0",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "productName": "Autodesk Docs",
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"3abe2f96-57f2-47d5-93b3-af7a9bc90af0\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "secondaryCta": [
+              {
+                "_uid": "fcbda04a-8615-4723-90d0-138b9e440eec",
+                "link": {
+                  "id": "66b0eadf-22fa-4375-a26a-24651dcffb1a",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/trial/autodesk-docs"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "analytics": "",
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Try Now",
+                "contentToHyperlink": [],
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"fcbda04a-8615-4723-90d0-138b9e440eec\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "isLeftAligned": true,
+            "backgroundColor": {
+              "_uid": "cc4e7715-620f-4553-8397-b0cc24d91768",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "leftAlignedCards": true,
+            "_editable": "<!--#storyblok#{\"name\": \"productCard\", \"space\": \"64835\", \"uid\": \"70ea36e1-8d2c-4996-8e65-7a5f94ba891d\", \"id\": \"33318153\"}-->"
+          },
+          {
+            "_uid": "81521472-ec39-4e05-a09b-1eae72d1bac1",
+            "name": "",
+            "color": {
+              "_uid": "a4f09a72-b631-4965-a4f4-18df1ef2fd20",
+              "color": "#FFFFFF",
+              "plugin": "official-colorpicker"
+            },
+            "image": [],
+            "button": [
+              {
+                "_uid": "4e5bde30-cc04-492d-b368-c2712487779d",
+                "icon": "chevron_right",
+                "size": "small",
+                "text": "Learn more",
+                "color": {
+                  "_uid": "4a94e13c-a18f-40c4-94dc-2db9605e3967",
+                  "color": "#1858A8",
+                  "plugin": "official-colorpicker"
+                },
+                "params": "",
+                "bgColor": {
+                  "_uid": "370a2cbf-ff28-4334-9151-b5a08733cdd9",
+                  "color": "#FFFFFF",
+                  "plugin": "official-colorpicker"
+                },
+                "linksTo": {
+                  "id": "01725c81-5823-4fde-89ad-7dfdabeba2b9",
+                  "url": "",
+                  "_uid": "f9ef595c-6b87-4f06-9de1-b5d01c508e15",
+                  "anchor": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/autodesk-bim-collaborate"
+                },
+                "variant": "contained",
+                "disabled": false,
+                "fragment": "",
+                "component": "button",
+                "fullWidth": false,
+                "openInNewTab": false,
+                "alignmentButton": "left",
+                "forwardUTMParams": false,
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"button\", \"space\": \"64835\", \"uid\": \"4e5bde30-cc04-492d-b368-c2712487779d\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "component": "productCard",
+            "description": "Connect decision-makers and construction teams to improve design quality and constructibility from the office to the field.",
+            "productLogo": [
+              {
+                "_uid": "a8fdf93e-8cb2-4a42-a6e5-30691ff516a2",
+                "fontSize": "",
+                "component": "productLogo",
+                "textAlign": "left",
+                "productName": "Autodesk BIM Collaborate",
+                "_editable": "<!--#storyblok#{\"name\": \"productLogo\", \"space\": \"64835\", \"uid\": \"a8fdf93e-8cb2-4a42-a6e5-30691ff516a2\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "secondaryCta": [
+              {
+                "_uid": "5cf527a8-b4d4-4740-ba66-abd4374b6c3a",
+                "link": {
+                  "id": "97c82f03-e6be-41e2-9124-c69e49a2f92f",
+                  "url": "",
+                  "_uid": "c948e8d9-5437-4104-ab5b-e57b3414713c",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "trial/autodesk-bim-collaborate"
+                },
+                "params": "",
+                "allCaps": false,
+                "variant": "standard",
+                "download": "",
+                "fragment": "",
+                "noFollow": false,
+                "component": "link",
+                "downloadable": false,
+                "openInNewTab": false,
+                "textToHyperlink": "Try Now",
+                "contentToHyperlink": [],
+                "anchorLinkIsInvisible": false,
+                "_editable": "<!--#storyblok#{\"name\": \"link\", \"space\": \"64835\", \"uid\": \"5cf527a8-b4d4-4740-ba66-abd4374b6c3a\", \"id\": \"33318153\"}-->"
+              }
+            ],
+            "isLeftAligned": true,
+            "backgroundColor": {
+              "_uid": "a82d5d8b-2101-4821-996a-2965fb395c16",
+              "color": "",
+              "plugin": "official-colorpicker"
+            },
+            "leftAlignedCards": true,
+            "_editable": "<!--#storyblok#{\"name\": \"productCard\", \"space\": \"64835\", \"uid\": \"81521472-ec39-4e05-a09b-1eae72d1bac1\", \"id\": \"33318153\"}-->"
+          }
+        ],
+        "_editable": "<!--#storyblok#{\"name\": \"productsIntroModule\", \"space\": \"64835\", \"uid\": \"21310d6b-b1fc-403d-8af5-cd99e22b9406\", \"id\": \"33318153\"}-->"
+      },
+      {
+        "_uid": "425ff82f-643a-4a00-b949-6c4b27a8df98",
+        "amount": "3",
+        "margin": "",
+        "bgColor": {
+          "_uid": "266c8e43-a352-41b9-86dd-c2867114f5d6",
+          "color": "#1858A8",
+          "plugin": "official-colorpicker"
+        },
+        "padding": "",
+        "anchorId": "",
+        "component": "spacing",
+        "isFullWidth": false,
+        "_editable": "<!--#storyblok#{\"name\": \"spacing\", \"space\": \"64835\", \"uid\": \"425ff82f-643a-4a00-b949-6c4b27a8df98\", \"id\": \"33318153\"}-->"
+      }
+    ],
+    "title": "",
+    "subNav": "",
+    "noIndex": false,
+    "metaData": {
+      "_uid": "f5967bac-e84f-4f96-8b08-1aad5e4ea444",
+      "title": "Construction Issues Software | Autodesk Construction Cloud",
+      "plugin": "seo_metatags",
+      "og_image": "",
+      "og_title": "",
+      "description": "Track construction issues, from design to handover, in one place with issues software. Create accountability to resolve issues faster with Autodesk Construction Cloud.",
+      "twitter_image": "",
+      "twitter_title": "",
+      "og_description": "",
+      "twitter_description": ""
+    },
+    "component": "detailsPage",
+    "l10nExport": true,
+    "dataProduct": "",
+    "description": "",
+    "headerImage": [
+      {
+        "_uid": "14f6619a-eba3-42c4-ab92-c325ae9d3247",
+        "image": "//a.storyblok.com/f/64835/4296x1800/6f2884c701/feature-page-banner-1.jpg",
+        "title": "",
+        "component": "headerModule",
+        "maxHeight": "",
+        "description": "",
+        "backgroundPosition": "top",
+        "_editable": "<!--#storyblok#{\"name\": \"headerModule\", \"space\": \"64835\", \"uid\": \"14f6619a-eba3-42c4-ab92-c325ae9d3247\", \"id\": \"33318153\"}-->"
+      }
+    ],
+    "canonicalPage": "",
+    "isLandingPage": false,
+    "conversionType": "",
+    "pageContainerHeight": "low",
+    "_editable": "<!--#storyblok#{\"name\": \"detailsPage\", \"space\": \"64835\", \"uid\": \"2bdd3951-692c-433d-a6e9-2bcf7af01482\", \"id\": \"33318153\"}-->"
+  }
+}

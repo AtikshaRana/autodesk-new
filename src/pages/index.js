@@ -1,4 +1,5 @@
 import TitleSubtitleDescriptionModule from "@/components/TitleSubtitleDescriptionModule";
+import Layout from "./layout";
 export default function Home() {
   const IntroBlok = {
     alignment: "Center",
@@ -16,8 +17,8 @@ export default function Home() {
   };
 
   return (
-    <main>
+    <Layout>
       <TitleSubtitleDescriptionModule blok={IntroBlok} />
-    </main>
+    </Layout>
   );
 }

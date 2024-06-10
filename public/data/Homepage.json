@@ -1,0 +1,1886 @@
+{
+  "data": {
+    "ContentNode": {
+      "content": {
+        "cta": [],
+        "_uid": "7afac2b0-c786-46d5-a3a7-2d8defda697d",
+        "body": [
+          {
+            "cta": [
+              {
+                "_uid": "24f412dc-2d63-4934-9c31-40e4b900dc8f",
+                "icon": "",
+                "text": "Get a Demo",
+                "modal": [],
+                "style": "Button Primary",
+                "params": "",
+                "linkUrl": {
+                  "id": "1d79aba6-4ac8-4e08-8c5d-8adefea0cc42",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "us/_design-system/connected-two-col-highlights",
+                  "story": {
+                    "name": "Connected Two Col Highlights",
+                    "id": 2200082,
+                    "uuid": "1d79aba6-4ac8-4e08-8c5d-8adefea0cc42",
+                    "slug": "connected-two-col-highlights",
+                    "full_slug": "us/_design-system/connected-two-col-highlights",
+                    "url": "us/_design-system/connected-two-col-highlights"
+                  }
+                },
+                "noFollow": false,
+                "analytics": "",
+                "component": "CTA",
+                "dataProduct": "Generic",
+                "dataAnalytics": "CTA Demo",
+                "mutinyConversion": "Video Modal Get a Demo button",
+                "forwardUTMParams": false,
+                "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"24f412dc-2d63-4934-9c31-40e4b900dc8f\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "_uid": "4f3bf581-cdab-4f60-9812-a62b645b1661",
+            "title": "Venenatis Elit Commodo Vehicula",
+            "eyebrow": "Construction Management Software",
+            "topLogo": [],
+            "appLinks": [
+              {
+                "_uid": "98ada220-e959-4fea-a0ce-ef2603591377",
+                "content": "![](https://a-us.storyblok.com/f/1018383/118x22/ed27a7c69d/star-ratings.svg)  Based on +17,000 reviews ",
+                "component": "Markdown",
+                "_editable": "<!--#storyblok#{\"name\": \"Markdown\", \"space\": \"1018383\", \"uid\": \"98ada220-e959-4fea-a0ce-ef2603591377\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "component": "HeroBannerModule",
+            "description": "Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+            "wistiaVideoId": [],
+            "backgroundMedia": [
+              {
+                "_uid": "fc63a2a3-f160-4a42-93b7-aceb75d4c872",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "Image title",
+                "altText": "Background image",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"fc63a2a3-f160-4a42-93b7-aceb75d4c872\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "foregroundMedia": [
+              {
+                "_uid": "c4c076c0-770f-44ca-8ffc-a859f8215f2f",
+                "title": "Vestibulum id ligula porta felis euismod semper.",
+                "video": {
+                  "id": 343326,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/x/a690a8c4d5/homepage-hero-transparent-mock.webm",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "autoplay": true,
+                "component": "Video",
+                "mobileVideo": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "posterImage": {
+                  "id": 343327,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/700x500/714afeb0b0/hero-foreground-mobile.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "tabletVideo": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Video\", \"space\": \"1018383\", \"uid\": \"c4c076c0-770f-44ca-8ffc-a859f8215f2f\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "sectionPaddingTop": "",
+            "backgroundImageSize": "",
+            "backgroundMediaAlign": "",
+            "sectionPaddingBottom": "",
+            "_editable": "<!--#storyblok#{\"name\": \"HeroBannerModule\", \"space\": \"1018383\", \"uid\": \"4f3bf581-cdab-4f60-9812-a62b645b1661\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "_uid": "e9ab2d21-af65-4572-8795-565c0ec44b30",
+            "logos": [
+              {
+                "_uid": "be450b26-0ece-4103-9502-0a61d5494ebd",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"be450b26-0ece-4103-9502-0a61d5494ebd\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "6148ffe1-3312-4b2f-8fcb-7a57faecc4fc",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"6148ffe1-3312-4b2f-8fcb-7a57faecc4fc\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "81ba3c75-7768-47c6-861b-b0a8d3e67231",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"81ba3c75-7768-47c6-861b-b0a8d3e67231\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "c9eaa5bc-53d2-43ed-8cad-ee8adaa27dc8",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"c9eaa5bc-53d2-43ed-8cad-ee8adaa27dc8\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "7a534183-7742-4edb-98db-f5036b79a3c1",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"7a534183-7742-4edb-98db-f5036b79a3c1\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "a7ebd13a-dd8d-47bf-afe1-b46d16bc6b3e",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"a7ebd13a-dd8d-47bf-afe1-b46d16bc6b3e\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "969afa50-d11a-4c6e-93fc-b0b6b979750b",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"969afa50-d11a-4c6e-93fc-b0b6b979750b\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "00b449d6-2db4-454d-b37a-5a41f9a393cf",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"00b449d6-2db4-454d-b37a-5a41f9a393cf\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "af7e1bcf-f9b7-45ac-bf07-5067f116bcaf",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"af7e1bcf-f9b7-45ac-bf07-5067f116bcaf\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "4c790537-39b3-4947-be81-c358dfabf3f7",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"4c790537-39b3-4947-be81-c358dfabf3f7\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "title": "Ornare Euismod Egestas Vestibulum Sem",
+            "subtitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+            "component": "CustomerLogosModule",
+            "description": "Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis.",
+            "_editable": "<!--#storyblok#{\"name\": \"CustomerLogosModule\", \"space\": \"1018383\", \"uid\": \"e9ab2d21-af65-4572-8795-565c0ec44b30\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "edf38159-8f26-418d-bb1d-1a44f74c7221",
+                "icon": "",
+                "text": "Elit Vulputate Quam Risus Condimentum",
+                "modal": [],
+                "style": "Button Primary",
+                "params": "",
+                "linkUrl": {
+                  "id": "",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                },
+                "noFollow": false,
+                "component": "CTA",
+                "forwardUTMParams": false,
+                "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"edf38159-8f26-418d-bb1d-1a44f74c7221\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "_uid": "a32542c8-2a1c-487d-afe4-11094f51a79d",
+            "media": [
+              {
+                "_uid": "ada2159a-b896-440a-b6cd-03c7a6afbb1c",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"ada2159a-b896-440a-b6cd-03c7a6afbb1c\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "title": "Cras mattis consectetur purus sit amet fermentum.",
+            "component": "MediaModule",
+            "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.",
+            "backgroundColor": "Light",
+            "_editable": "<!--#storyblok#{\"name\": \"MediaModule\", \"space\": \"1018383\", \"uid\": \"a32542c8-2a1c-487d-afe4-11094f51a79d\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "cta": [],
+            "_uid": "2f488ae7-6477-482d-b043-cf7457fe1e79",
+            "size": "Large",
+            "title": "Sem Nibh Egestas Etiam Bibendum",
+            "eyebrow": "",
+            "alignment": "Centered",
+            "component": "TitleSubtitleDescriptionModule",
+            "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+            "backgroundColor": "Light",
+            "_editable": "<!--#storyblok#{\"name\": \"TitleSubtitleDescriptionModule\", \"space\": \"1018383\", \"uid\": \"2f488ae7-6477-482d-b043-cf7457fe1e79\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "_uid": "5b0b1e02-4f1b-4b12-88bc-c289a946df9b",
+            "media": [
+              {
+                "_uid": "ebdb30d4-4a9c-4947-b2fa-016c05e5e1ed",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"ebdb30d4-4a9c-4947-b2fa-016c05e5e1ed\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "component": "TwoColHighlightsWithImageModule",
+            "highlight": [
+              {
+                "cta": [
+                  {
+                    "_uid": "2000e4fb-efc5-4f39-994c-b3b53bab9428",
+                    "icon": "",
+                    "text": "Egestas Cras",
+                    "modal": [],
+                    "style": "Button Primary",
+                    "params": "",
+                    "linkUrl": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "noFollow": false,
+                    "component": "CTA",
+                    "forwardUTMParams": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"2000e4fb-efc5-4f39-994c-b3b53bab9428\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "_uid": "dc1b0442-71a0-4274-b294-24565017a147",
+                "title": "Venenatis Purus",
+                "component": "Highlight",
+                "description": "Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"dc1b0442-71a0-4274-b294-24565017a147\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "imageOnLeft": false,
+            "layoutHeight": "Short",
+            "imageFullWidth": false,
+            "backgroundColor": "White",
+            "sectionPaddingTop": "Half",
+            "showImageOnMobile": true,
+            "sectionPaddingOuter": "Standard",
+            "sectionPaddingBottom": "Half",
+            "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"5b0b1e02-4f1b-4b12-88bc-c289a946df9b\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "_uid": "0f23106f-d182-4c3e-af89-1d97ffe57c6f",
+            "media": [
+              {
+                "_uid": "a6135f93-86bb-4b65-884f-3c832ae26b04",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"a6135f93-86bb-4b65-884f-3c832ae26b04\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "component": "TwoColHighlightsWithImageModule",
+            "highlight": [
+              {
+                "cta": [
+                  {
+                    "_uid": "6ca77fad-e3d1-48c6-b6f8-f3d475c39a29",
+                    "icon": "",
+                    "text": "Egestas Cras",
+                    "modal": [],
+                    "style": "Button Primary",
+                    "params": "",
+                    "linkUrl": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "noFollow": false,
+                    "component": "CTA",
+                    "forwardUTMParams": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"6ca77fad-e3d1-48c6-b6f8-f3d475c39a29\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "_uid": "369c6565-f14f-4c36-a50b-bc307f4eff42",
+                "title": "Venenatis Purus",
+                "component": "Highlight",
+                "description": "Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"369c6565-f14f-4c36-a50b-bc307f4eff42\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "imageOnLeft": true,
+            "layoutHeight": "Short",
+            "imageFullWidth": false,
+            "backgroundColor": "White",
+            "sectionPaddingTop": "Half",
+            "showImageOnMobile": true,
+            "sectionPaddingOuter": "Standard",
+            "sectionPaddingBottom": "Half",
+            "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"0f23106f-d182-4c3e-af89-1d97ffe57c6f\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "_uid": "0618db49-71f1-4215-81c8-a4c3a81c45e1",
+            "media": [
+              {
+                "_uid": "edbbdc42-0ae5-405c-97fc-8a62e8ba51ec",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"edbbdc42-0ae5-405c-97fc-8a62e8ba51ec\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "component": "TwoColHighlightsWithImageModule",
+            "highlight": [
+              {
+                "cta": [
+                  {
+                    "_uid": "4b3db29e-d14f-4cbd-a8b0-bde2821b19bd",
+                    "icon": "",
+                    "text": "Egestas Cras",
+                    "modal": [],
+                    "style": "Button Primary",
+                    "params": "",
+                    "linkUrl": {
+                      "id": "",
+                      "url": "",
+                      "linktype": "story",
+                      "fieldtype": "multilink",
+                      "cached_url": ""
+                    },
+                    "noFollow": false,
+                    "component": "CTA",
+                    "forwardUTMParams": false,
+                    "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"4b3db29e-d14f-4cbd-a8b0-bde2821b19bd\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "_uid": "1c91fc5c-2790-45d6-84e7-cd6e677af72a",
+                "title": "Venenatis Purus",
+                "component": "Highlight",
+                "description": "Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"1c91fc5c-2790-45d6-84e7-cd6e677af72a\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "imageOnLeft": false,
+            "layoutHeight": "Short",
+            "imageFullWidth": false,
+            "backgroundColor": "White",
+            "sectionPaddingTop": "Half",
+            "showImageOnMobile": true,
+            "sectionPaddingOuter": "Standard",
+            "sectionPaddingBottom": "Half",
+            "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"0618db49-71f1-4215-81c8-a4c3a81c45e1\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "fd695061-ab4d-45ff-b903-2109bb514037",
+                "icon": "",
+                "text": "Aenean Sem",
+                "modal": [],
+                "style": "Button Primary",
+                "params": "",
+                "linkUrl": {
+                  "id": "",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                },
+                "noFollow": false,
+                "component": "CTA",
+                "forwardUTMParams": false,
+                "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"fd695061-ab4d-45ff-b903-2109bb514037\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "_uid": "428a50cc-6a80-48cf-913b-308b5f69d1a9",
+            "tabs": [
+              {
+                "_uid": "56e85ede-e2b4-413f-bb07-8a3ff5de4de0",
+                "tabCTA": [],
+                "content": [
+                  {
+                    "_uid": "5a3c4a85-6b33-4764-93d2-809b3ae45b3f",
+                    "media": [
+                      {
+                        "_uid": "45afc1ed-bb16-44a3-bf25-6b757bddd817",
+                        "image": {
+                          "id": 328196,
+                          "alt": "mock up",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/503x564/f6d69ad7c3/constructability-issues.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"45afc1ed-bb16-44a3-bf25-6b757bddd817\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImageModule",
+                    "highlight": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "1f313eda-8319-4513-9f45-0c79b5834ba6",
+                            "icon": "",
+                            "text": "Fusce Inceptos",
+                            "modal": [],
+                            "style": "Button Primary",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": ""
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"1f313eda-8319-4513-9f45-0c79b5834ba6\", \"id\": \"3142901\"}-->"
+                          }
+                        ],
+                        "_uid": "296a15a3-932f-480b-b50d-090349f52cb0",
+                        "title": "Venenatis Sit",
+                        "component": "Highlight",
+                        "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"296a15a3-932f-480b-b50d-090349f52cb0\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "imageOnLeft": false,
+                    "layoutHeight": "Short",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "standard",
+                    "showImageOnMobile": "",
+                    "sectionPaddingOuter": "standard",
+                    "sectionPaddingBottom": "standard",
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"5a3c4a85-6b33-4764-93d2-809b3ae45b3f\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "tabName": "Venenatis Sit",
+                "component": "Tab",
+                "tabDescription": "",
+                "_editable": "<!--#storyblok#{\"name\": \"Tab\", \"space\": \"1018383\", \"uid\": \"56e85ede-e2b4-413f-bb07-8a3ff5de4de0\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "dd7280ae-a6e4-454b-96cc-5ce111a87ef3",
+                "tabCTA": [],
+                "content": [
+                  {
+                    "_uid": "9a4f9fae-c843-4f37-b44f-4063b0d21072",
+                    "media": [
+                      {
+                        "_uid": "7d3a837d-96eb-40fc-9468-b33b8627bd5d",
+                        "image": {
+                          "id": 328196,
+                          "alt": "mock up",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/503x564/f6d69ad7c3/constructability-issues.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"7d3a837d-96eb-40fc-9468-b33b8627bd5d\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImageModule",
+                    "highlight": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "6bc23f79-8739-48ca-85a7-04699ffd93c6",
+                            "icon": "",
+                            "text": "Fusce Inceptos",
+                            "modal": [],
+                            "style": "Button Primary",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": ""
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"6bc23f79-8739-48ca-85a7-04699ffd93c6\", \"id\": \"3142901\"}-->"
+                          }
+                        ],
+                        "_uid": "0e2baaf4-cac2-4769-a07e-f0a028283195",
+                        "title": "Ridiculus Bibendum",
+                        "component": "Highlight",
+                        "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"0e2baaf4-cac2-4769-a07e-f0a028283195\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "imageOnLeft": false,
+                    "layoutHeight": "Short",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "standard",
+                    "showImageOnMobile": "",
+                    "sectionPaddingOuter": "standard",
+                    "sectionPaddingBottom": "standard",
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"9a4f9fae-c843-4f37-b44f-4063b0d21072\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "tabName": "Ridiculus Bibendum",
+                "component": "Tab",
+                "tabDescription": "",
+                "_editable": "<!--#storyblok#{\"name\": \"Tab\", \"space\": \"1018383\", \"uid\": \"dd7280ae-a6e4-454b-96cc-5ce111a87ef3\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "930c9560-e902-4632-9072-e80d6f0f826e",
+                "tabCTA": [],
+                "content": [
+                  {
+                    "_uid": "a5ad4bbc-9f28-49c4-a702-659a9130ed0c",
+                    "media": [
+                      {
+                        "_uid": "9c2513b9-c734-4de4-8b7a-b006435ed943",
+                        "image": {
+                          "id": 328196,
+                          "alt": "mock up",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/503x564/f6d69ad7c3/constructability-issues.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"9c2513b9-c734-4de4-8b7a-b006435ed943\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImageModule",
+                    "highlight": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "f90ffc58-d95a-4583-bc82-182bc33dee0f",
+                            "icon": "",
+                            "text": "Fusce Inceptos",
+                            "modal": [],
+                            "style": "Button Primary",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": ""
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"f90ffc58-d95a-4583-bc82-182bc33dee0f\", \"id\": \"3142901\"}-->"
+                          }
+                        ],
+                        "_uid": "d2719d86-f749-414a-8b20-236a13aa24d5",
+                        "title": "Inceptos Amet",
+                        "component": "Highlight",
+                        "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"d2719d86-f749-414a-8b20-236a13aa24d5\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "imageOnLeft": false,
+                    "layoutHeight": "Short",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "standard",
+                    "showImageOnMobile": "",
+                    "sectionPaddingOuter": "standard",
+                    "sectionPaddingBottom": "standard",
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"a5ad4bbc-9f28-49c4-a702-659a9130ed0c\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "tabName": "Inceptos Amet",
+                "component": "Tab",
+                "tabDescription": "",
+                "_editable": "<!--#storyblok#{\"name\": \"Tab\", \"space\": \"1018383\", \"uid\": \"930c9560-e902-4632-9072-e80d6f0f826e\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "eb6d4249-e7c0-4b44-9817-68e1587be588",
+                "tabCTA": [],
+                "content": [
+                  {
+                    "_uid": "3ee5dc78-dcfa-4f3f-aa38-652f9573f243",
+                    "media": [
+                      {
+                        "_uid": "a621fb89-f5fc-4827-817d-01eb21871893",
+                        "image": {
+                          "id": 328196,
+                          "alt": "mock up",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/503x564/f6d69ad7c3/constructability-issues.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"a621fb89-f5fc-4827-817d-01eb21871893\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImageModule",
+                    "highlight": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "8bea72e7-6246-4a25-9b43-15fd7f5623f8",
+                            "icon": "",
+                            "text": "Fusce Inceptos",
+                            "modal": [],
+                            "style": "Button Primary",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": ""
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"8bea72e7-6246-4a25-9b43-15fd7f5623f8\", \"id\": \"3142901\"}-->"
+                          }
+                        ],
+                        "_uid": "24a5d044-4566-4db2-9707-1163aa46a2f0",
+                        "title": "Pellentesque Euismod",
+                        "component": "Highlight",
+                        "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"24a5d044-4566-4db2-9707-1163aa46a2f0\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "imageOnLeft": false,
+                    "layoutHeight": "Short",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "standard",
+                    "showImageOnMobile": "",
+                    "sectionPaddingOuter": "standard",
+                    "sectionPaddingBottom": "standard",
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"3ee5dc78-dcfa-4f3f-aa38-652f9573f243\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "tabName": "Pellentesque Euismod",
+                "component": "Tab",
+                "tabDescription": "",
+                "_editable": "<!--#storyblok#{\"name\": \"Tab\", \"space\": \"1018383\", \"uid\": \"eb6d4249-e7c0-4b44-9817-68e1587be588\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "c0e6f018-8c9a-46b2-9af4-74db15dd5525",
+                "tabCTA": [],
+                "content": [
+                  {
+                    "_uid": "45aa7f3c-3ec8-4a8a-98c2-185c422f0766",
+                    "media": [
+                      {
+                        "_uid": "86448bb7-b021-42fb-9c8a-e6a5fa3c6264",
+                        "image": {
+                          "id": 328196,
+                          "alt": "mock up",
+                          "name": "",
+                          "focus": "",
+                          "title": "",
+                          "source": "",
+                          "filename": "https://a-us.storyblok.com/f/1018383/503x564/f6d69ad7c3/constructability-issues.svg",
+                          "copyright": "",
+                          "fieldtype": "asset",
+                          "meta_data": {},
+                          "is_private": "",
+                          "is_external_url": false
+                        },
+                        "component": "Image",
+                        "mobileImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "tabletImage": {
+                          "id": null,
+                          "alt": null,
+                          "name": "",
+                          "focus": null,
+                          "title": null,
+                          "source": null,
+                          "filename": "",
+                          "copyright": null,
+                          "fieldtype": "asset",
+                          "meta_data": {}
+                        },
+                        "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"86448bb7-b021-42fb-9c8a-e6a5fa3c6264\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "component": "TwoColHighlightsWithImageModule",
+                    "highlight": [
+                      {
+                        "cta": [
+                          {
+                            "_uid": "12260ed5-c340-477c-b66b-d86157ee7ad9",
+                            "icon": "",
+                            "text": "Fusce Inceptos",
+                            "modal": [],
+                            "style": "Button Primary",
+                            "params": "",
+                            "linkUrl": {
+                              "id": "",
+                              "url": "",
+                              "linktype": "story",
+                              "fieldtype": "multilink",
+                              "cached_url": ""
+                            },
+                            "noFollow": false,
+                            "component": "CTA",
+                            "forwardUTMParams": false,
+                            "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"12260ed5-c340-477c-b66b-d86157ee7ad9\", \"id\": \"3142901\"}-->"
+                          }
+                        ],
+                        "_uid": "5689af5c-aa26-40a2-a8a0-849e09ba0368",
+                        "title": "Parturient Ridiculus",
+                        "component": "Highlight",
+                        "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+                        "_editable": "<!--#storyblok#{\"name\": \"Highlight\", \"space\": \"1018383\", \"uid\": \"5689af5c-aa26-40a2-a8a0-849e09ba0368\", \"id\": \"3142901\"}-->"
+                      }
+                    ],
+                    "imageOnLeft": false,
+                    "layoutHeight": "Short",
+                    "imageFullWidth": false,
+                    "backgroundColor": "White",
+                    "sectionPaddingTop": "standard",
+                    "showImageOnMobile": "",
+                    "sectionPaddingOuter": "standard",
+                    "sectionPaddingBottom": "standard",
+                    "_editable": "<!--#storyblok#{\"name\": \"TwoColHighlightsWithImageModule\", \"space\": \"1018383\", \"uid\": \"45aa7f3c-3ec8-4a8a-98c2-185c422f0766\", \"id\": \"3142901\"}-->"
+                  }
+                ],
+                "tabName": "Parturient Ridiculus",
+                "component": "Tab",
+                "tabDescription": "",
+                "_editable": "<!--#storyblok#{\"name\": \"Tab\", \"space\": \"1018383\", \"uid\": \"c0e6f018-8c9a-46b2-9af4-74db15dd5525\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "title": "Donec id elit non mi porta gravida",
+            "variant": "Vertical",
+            "component": "TabsModule",
+            "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.",
+            "backgroundColor": "White",
+            "sectionPaddingTop": "Standard",
+            "sectionPaddingBottom": "Standard",
+            "_editable": "<!--#storyblok#{\"name\": \"TabsModule\", \"space\": \"1018383\", \"uid\": \"428a50cc-6a80-48cf-913b-308b5f69d1a9\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "52a4188c-3193-461b-b111-f31025c1f0a6",
+                "icon": "",
+                "text": "Elit Vulputate Quam Risus Condimentum",
+                "modal": [],
+                "style": "Button Primary",
+                "params": "",
+                "linkUrl": {
+                  "id": "",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                },
+                "noFollow": false,
+                "component": "CTA",
+                "forwardUTMParams": false,
+                "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"52a4188c-3193-461b-b111-f31025c1f0a6\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "_uid": "03d77ea9-71f0-4bfe-93cb-61bb6dff7aa1",
+            "media": [
+              {
+                "_uid": "dce4f6ce-3ef8-45a6-a5b2-40ffcb3a1378",
+                "image": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "tabletImage": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"dce4f6ce-3ef8-45a6-a5b2-40ffcb3a1378\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "title": "Cras mattis consectetur purus sit amet fermentum.",
+            "component": "MediaModule",
+            "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.",
+            "backgroundColor": "Light",
+            "_editable": "<!--#storyblok#{\"name\": \"MediaModule\", \"space\": \"1018383\", \"uid\": \"03d77ea9-71f0-4bfe-93cb-61bb6dff7aa1\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "_uid": "c595c9e2-3984-46c2-89b8-870e95aa3dee",
+            "style": "Quote With Image",
+            "quotes": [
+              {
+                "_uid": "2e0ce8a7-8bac-4bc6-b87b-0ad69727b1e9",
+                "name": "Amet Commodo",
+                "quote": "Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+                "jobTitle": "Amet Purus Ligula",
+                "component": "Quote",
+                "logoImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "companyName": "Condimentum",
+                "portraitImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Quote\", \"space\": \"1018383\", \"uid\": \"2e0ce8a7-8bac-4bc6-b87b-0ad69727b1e9\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "a727fef5-99cc-424c-a1c7-7ad13f52ea01",
+                "name": "Vestibulum Ridiculus",
+                "quote": "Sed posuere consectetur est at lobortis. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                "jobTitle": "Ultricies Fermentum",
+                "component": "Quote",
+                "logoImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "companyName": "Porta Ridiculus Egestas",
+                "portraitImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Quote\", \"space\": \"1018383\", \"uid\": \"a727fef5-99cc-424c-a1c7-7ad13f52ea01\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "da168659-41a2-475c-8b5f-a23babcc8ed5",
+                "name": "Etiam Parturient",
+                "quote": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "jobTitle": "Pellentesque Ultricies Mattis Bibendum",
+                "component": "Quote",
+                "logoImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "companyName": "Venenatis Pellentesque",
+                "portraitImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Quote\", \"space\": \"1018383\", \"uid\": \"da168659-41a2-475c-8b5f-a23babcc8ed5\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "ff974b6b-ae7f-452a-b5f5-9a1e8c11efef",
+                "name": "Pharetra Elit",
+                "quote": "Maecenas sed diam eget risus varius blandit sit amet non magna. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.",
+                "jobTitle": "Bibendum Dapibus",
+                "component": "Quote",
+                "logoImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "companyName": "Cras Amet Sem",
+                "portraitImage": {
+                  "id": 343199,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Quote\", \"space\": \"1018383\", \"uid\": \"ff974b6b-ae7f-452a-b5f5-9a1e8c11efef\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "component": "QuoteModule",
+            "backgroundColor": "White",
+            "sectionPaddingTop": "Standard",
+            "sectionPaddingBottom": "Standard",
+            "_editable": "<!--#storyblok#{\"name\": \"QuoteModule\", \"space\": \"1018383\", \"uid\": \"c595c9e2-3984-46c2-89b8-870e95aa3dee\", \"id\": \"3142901\"}-->"
+          },
+          {
+            "cta": [
+              {
+                "_uid": "499308cc-dd0f-45bb-b6d5-846e6740caf6",
+                "icon": "",
+                "text": "Fermentum Cras",
+                "modal": [],
+                "style": "Button Primary",
+                "params": "",
+                "linkUrl": {
+                  "id": "",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                },
+                "noFollow": false,
+                "component": "CTA",
+                "forwardUTMParams": false,
+                "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"499308cc-dd0f-45bb-b6d5-846e6740caf6\", \"id\": \"3142901\"}-->"
+              },
+              {
+                "_uid": "2b6b3a49-2593-4914-bf80-53060038116f",
+                "icon": "",
+                "text": "Purus Quam",
+                "modal": [],
+                "style": "Button Secondary",
+                "params": "",
+                "linkUrl": {
+                  "id": "",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                },
+                "noFollow": false,
+                "component": "CTA",
+                "forwardUTMParams": false,
+                "_editable": "<!--#storyblok#{\"name\": \"CTA\", \"space\": \"1018383\", \"uid\": \"2b6b3a49-2593-4914-bf80-53060038116f\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "_uid": "15679a39-1e94-43db-9f32-0aaf96102140",
+            "size": "Large",
+            "title": "Elit Sem Nullam",
+            "eyebrow": "",
+            "topLogo": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "subtitle": "",
+            "component": "CtaBannerModule",
+            "description": "",
+            "hasTopOffset": true,
+            "textAlignment": "Left Aligned",
+            "backgroundColor": "Black",
+            "backgroundMedia": [
+              {
+                "_uid": "fd9662a7-e4e8-41ac-b9be-83a2de3f9f6c",
+                "image": {
+                  "id": 343344,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/2880x899/099798e469/homepage-cta-banner-offset-optimized.png",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "title": "",
+                "altText": "",
+                "component": "Image",
+                "mobileImage": {
+                  "id": 343345,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/860x1418/cd0f1eefe1/homepage-cta-banner-bg-mobile-optimized.jpg",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "tabletImage": {
+                  "id": 343345,
+                  "alt": "",
+                  "name": "",
+                  "focus": "",
+                  "title": "",
+                  "source": "",
+                  "filename": "https://a-us.storyblok.com/f/1018383/860x1418/cd0f1eefe1/homepage-cta-banner-bg-mobile-optimized.jpg",
+                  "copyright": "",
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_private": "",
+                  "is_external_url": false
+                },
+                "_editable": "<!--#storyblok#{\"name\": \"Image\", \"space\": \"1018383\", \"uid\": \"fd9662a7-e4e8-41ac-b9be-83a2de3f9f6c\", \"id\": \"3142901\"}-->"
+              }
+            ],
+            "foregroundMedia": [],
+            "sectionPaddingTop": "Standard",
+            "sectionPaddingBottom": "Standard",
+            "_editable": "<!--#storyblok#{\"name\": \"CtaBannerModule\", \"space\": \"1018383\", \"uid\": \"15679a39-1e94-43db-9f32-0aaf96102140\", \"id\": \"3142901\"}-->"
+          }
+        ],
+
+        "metaData": {
+          "_uid": "c9b22166-90ba-4aee-866b-71c0e03a831a",
+          "title": "Test Homepage",
+          "plugin": "seo_metatags",
+          "og_image": "",
+          "og_title": "",
+          "description": "Test homepage description",
+          "twitter_image": "",
+          "twitter_title": "",
+          "og_description": "",
+          "twitter_description": ""
+        },
+        "component": "Page",
+        "_editable": "<!--#storyblok#{\"name\": \"Page\", \"space\": \"1018383\", \"uid\": \"7afac2b0-c786-46d5-a3a7-2d8defda697d\", \"id\": \"3142901\"}-->"
+      }
+    }
+  }
+}
