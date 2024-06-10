@@ -1,20 +1,22 @@
+"use client"
 import Image from "next/image";
 import DynamicBtn from "@/components/buttons/DynamicBtn";
 import Link from "next/link";
 import { clsx } from "clsx";
+import VideoBlock from "./Video";
 
 export default function HeroBannerModule({ blok }) {
-  const video = (
-    <video
-      autoPlay={true}
-      preload="metadata"
-      loop
-      muted
-      poster="https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png"
-    >
-      <source src={blok?.videoUrl} type="video/mp4" />
-    </video>
-  );
+  // const video = (
+  //   <video
+  //     autoPlay={true}
+  //     preload="metadata"
+  //     loop
+  //     muted
+  //     poster="https://a-us.storyblok.com/f/1018383/1568x1240/b4f3830ef9/placeholder.png"
+  //   >
+  //     <source src={blok?.videoUrl} type="video/mp4" />
+  //   </video>
+  // );
 
   return (
     <section
@@ -237,8 +239,10 @@ export default function HeroBannerModule({ blok }) {
             )}
           >
             {blok?.videoUrl && (
+
               <div className="media-wrap ml-auto max-w-[600px]" loading="lazy">
-                {video}
+                {console.log(blok?.videoUrl)}
+                <VideoBlock blok={blok?.videoUrl} />
               </div>
             )}
             {blok?.foregroundImg && (

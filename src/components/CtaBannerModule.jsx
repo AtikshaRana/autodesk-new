@@ -6,7 +6,6 @@ import clsx from "clsx";
 import Image from "next/image";
 
 export default function CtaBannerModule({ blok }) {
-  console.log("CtaBannerModule", blok);
   const twConfig = {
     white: "bg-white",
     black: "bg-black",

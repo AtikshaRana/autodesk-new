@@ -1,12 +1,10 @@
 "use client";
 import Markdown from "@/components/Markdown";
 import { classifyStr } from "@/utils/strings";
-// import { storyblokEditable } from "@storyblok/react/rsc";
 import clsx from "clsx";
 import Image from "next/image";
 
 export default function CustomerLogosModule({ blok }) {
-  // console.log("CardCustomerLogosModuleModule", blok);
   const twConfig = {
     white: "bg-white",
     black: "bg-black",

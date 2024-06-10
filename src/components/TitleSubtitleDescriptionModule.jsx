@@ -5,7 +5,6 @@ import { classifyStr } from "@/utils/strings";
 import clsx from "clsx";
 
 export default function TitleSubtitleDescriptionModule({ blok }) {
-  // console.log("TitleSubtitleDescriptionModule", blok);
   return (
     <>
       {blok.hasOwnProperty("variant") ? (
