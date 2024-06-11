@@ -6,7 +6,7 @@ function resolvePublishedStoryLinks(draftStories, publishedStories) {
 
   publishedStories.map((publishedStory) => {
     const draftStory = draftStories.find(
-      (draftStory) => draftStory.uuid === publishedStory.uuid,
+      (draftStory) => draftStory.uuid === publishedStory.uuid
     );
 
     if (draftStory) {
@@ -21,7 +21,7 @@ function resolvePublishedStoryLinks(draftStories, publishedStories) {
                 ) {
                   publishedCta.linkUrl = draftCta.linkUrl;
                   console.log(
-                    `- link ${draftCta.linkUrl.story.full_slug} resolved`,
+                    `- link ${draftCta.linkUrl.story.full_slug} resolved`
                   );
                   resolvedLinksCount++;
                 }
@@ -36,7 +36,7 @@ function resolvePublishedStoryLinks(draftStories, publishedStories) {
   });
 
   console.log(
-    `${resolvedLinksCount} link${resolvedLinksCount > 1 ? "s" : ""} resolved 🔗`,
+    `${resolvedLinksCount} link${resolvedLinksCount > 1 ? "s" : ""} resolved 🔗`
   );
   return publishedStories;
 }

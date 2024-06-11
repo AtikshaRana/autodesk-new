@@ -9,6 +9,7 @@ export default function CustomerLogosModule({ blok }) {
     white: "bg-white",
     black: "bg-black",
     "light-gray": "bg-inherit",
+
   };
   const urlHandler = (url) => {
     let refinedUrl;
